@@ -1,0 +1,819 @@
+{
+ "bpm": 90,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 208.0,
+   "key": "C major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.7,
+   "chord": "N"
+  },
+  {
+   "start": 0.7,
+   "end": 2.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 2.0,
+   "end": 3.3,
+   "chord": "C:maj"
+  },
+  {
+   "start": 3.3,
+   "end": 4.7,
+   "chord": "G:maj"
+  },
+  {
+   "start": 4.7,
+   "end": 13.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 13.0,
+   "end": 18.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 18.3,
+   "end": 20.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 20.9,
+   "end": 23.6,
+   "chord": "F:maj"
+  },
+  {
+   "start": 23.6,
+   "end": 26.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 26.2,
+   "end": 28.9,
+   "chord": "D:7"
+  },
+  {
+   "start": 28.9,
+   "end": 30.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 30.2,
+   "end": 36.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 36.8,
+   "end": 42.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 42.1,
+   "end": 44.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 44.8,
+   "end": 47.5,
+   "chord": "F:maj"
+  },
+  {
+   "start": 47.5,
+   "end": 50.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 50.2,
+   "end": 52.9,
+   "chord": "D:7"
+  },
+  {
+   "start": 52.9,
+   "end": 55.9,
+   "chord": "G:maj"
+  },
+  {
+   "start": 55.9,
+   "end": 58.5,
+   "chord": "F:maj"
+  },
+  {
+   "start": 58.5,
+   "end": 61.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 61.2,
+   "end": 63.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 63.8,
+   "end": 66.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 66.5,
+   "end": 69.1,
+   "chord": "F:maj"
+  },
+  {
+   "start": 69.1,
+   "end": 71.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 71.8,
+   "end": 74.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 74.4,
+   "end": 77.1,
+   "chord": "E:7"
+  },
+  {
+   "start": 77.1,
+   "end": 78.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 78.4,
+   "end": 79.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 79.8,
+   "end": 89.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 89.5,
+   "end": 95.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 95.0,
+   "end": 97.7,
+   "chord": "C:maj"
+  },
+  {
+   "start": 97.7,
+   "end": 100.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 100.4,
+   "end": 103.1,
+   "chord": "C:maj"
+  },
+  {
+   "start": 103.1,
+   "end": 105.8,
+   "chord": "D:7"
+  },
+  {
+   "start": 105.8,
+   "end": 108.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 108.5,
+   "end": 111.1,
+   "chord": "F:maj"
+  },
+  {
+   "start": 111.1,
+   "end": 113.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 113.8,
+   "end": 116.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 116.4,
+   "end": 119.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 119.0,
+   "end": 121.6,
+   "chord": "F:maj"
+  },
+  {
+   "start": 121.6,
+   "end": 124.3,
+   "chord": "C:maj"
+  },
+  {
+   "start": 124.3,
+   "end": 126.9,
+   "chord": "G:maj"
+  },
+  {
+   "start": 126.9,
+   "end": 129.5,
+   "chord": "E:7"
+  },
+  {
+   "start": 129.5,
+   "end": 130.9,
+   "chord": "F:maj"
+  },
+  {
+   "start": 130.9,
+   "end": 132.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 132.2,
+   "end": 136.1,
+   "chord": "C:maj"
+  },
+  {
+   "start": 136.1,
+   "end": 137.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 137.4,
+   "end": 138.7,
+   "chord": "C:maj"
+  },
+  {
+   "start": 138.7,
+   "end": 140.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 140.1,
+   "end": 141.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 141.4,
+   "end": 142.7,
+   "chord": "F:maj"
+  },
+  {
+   "start": 142.7,
+   "end": 144.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 144.0,
+   "end": 145.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 145.3,
+   "end": 146.7,
+   "chord": "C:maj"
+  },
+  {
+   "start": 146.7,
+   "end": 148.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 148.0,
+   "end": 149.3,
+   "chord": "C:maj"
+  },
+  {
+   "start": 149.3,
+   "end": 150.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 150.6,
+   "end": 151.9,
+   "chord": "A:min"
+  },
+  {
+   "start": 151.9,
+   "end": 153.2,
+   "chord": "F:maj"
+  },
+  {
+   "start": 153.2,
+   "end": 154.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 154.5,
+   "end": 155.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 155.8,
+   "end": 158.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 158.5,
+   "end": 161.1,
+   "chord": "F:maj"
+  },
+  {
+   "start": 161.1,
+   "end": 163.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 163.8,
+   "end": 166.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 166.4,
+   "end": 169.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 169.0,
+   "end": 171.6,
+   "chord": "F:maj"
+  },
+  {
+   "start": 171.6,
+   "end": 174.3,
+   "chord": "C:maj"
+  },
+  {
+   "start": 174.3,
+   "end": 176.9,
+   "chord": "G:maj"
+  },
+  {
+   "start": 176.9,
+   "end": 178.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 178.2,
+   "end": 180.8,
+   "chord": "F:maj"
+  },
+  {
+   "start": 180.8,
+   "end": 183.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 183.5,
+   "end": 186.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 186.1,
+   "end": 188.7,
+   "chord": "C:maj"
+  },
+  {
+   "start": 188.7,
+   "end": 191.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 191.4,
+   "end": 194.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 194.0,
+   "end": 196.7,
+   "chord": "G:maj"
+  },
+  {
+   "start": 196.7,
+   "end": 199.3,
+   "chord": "E:7"
+  },
+  {
+   "start": 199.3,
+   "end": 200.6,
+   "chord": "F:maj"
+  },
+  {
+   "start": 200.6,
+   "end": 201.9,
+   "chord": "G:maj"
+  },
+  {
+   "start": 201.9,
+   "end": 203.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 203.9,
+   "end": 204.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 204.6,
+   "end": 207.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 207.6,
+   "end": 208.5,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "electric guitar",
+   "start": 0.0,
+   "end": 207.6
+  },
+  {
+   "name": "acoustic guitar",
+   "start": 0.7,
+   "end": 207.6
+  },
+  {
+   "name": "bass guitar",
+   "start": 0.7,
+   "end": 207.6
+  },
+  {
+   "name": "drums",
+   "start": 0.7,
+   "end": 205.5
+  },
+  {
+   "name": "piano",
+   "start": 0.7,
+   "end": 207.6
+  },
+  {
+   "name": "female vocals",
+   "start": 10.3,
+   "end": 25.7
+  },
+  {
+   "name": "male vocals",
+   "start": 12.9,
+   "end": 31.2
+  },
+  {
+   "name": "male vocals",
+   "start": 34.1,
+   "end": 49.8
+  },
+  {
+   "name": "female vocals",
+   "start": 36.7,
+   "end": 81.4
+  },
+  {
+   "name": "male vocals",
+   "start": 55.2,
+   "end": 81.4
+  },
+  {
+   "name": "tambourine",
+   "start": 55.9,
+   "end": 81.5
+  },
+  {
+   "name": "female vocals",
+   "start": 86.5,
+   "end": 133.8
+  },
+  {
+   "name": "male vocals",
+   "start": 89.2,
+   "end": 133.8
+  },
+  {
+   "name": "tambourine",
+   "start": 108.5,
+   "end": 134.0
+  },
+  {
+   "name": "female vocals",
+   "start": 157.7,
+   "end": 203.8
+  },
+  {
+   "name": "male vocals",
+   "start": 157.7,
+   "end": 203.8
+  },
+  {
+   "name": "tambourine",
+   "start": 158.5,
+   "end": 205.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 10.3,
+   "end": 12.6,
+   "text": "Honey, I told you something"
+  },
+  {
+   "start": 12.9,
+   "end": 15.2,
+   "text": "Sorry, I didn't hear"
+  },
+  {
+   "start": 15.5,
+   "end": 17.5,
+   "text": "Maybe there was something"
+  },
+  {
+   "start": 17.5,
+   "end": 20.4,
+   "text": "Yeah, yeah, yeah, stuck in your ear"
+  },
+  {
+   "start": 20.9,
+   "end": 23.3,
+   "text": "Why is it every time"
+  },
+  {
+   "start": 23.4,
+   "end": 25.7,
+   "text": "you say you do, you don't"
+  },
+  {
+   "start": 26.1,
+   "end": 28.9,
+   "text": "Maybe I just thought that you were"
+  },
+  {
+   "start": 29.0,
+   "end": 31.2,
+   "text": "talking on the phone"
+  },
+  {
+   "start": 34.1,
+   "end": 36.6,
+   "text": "Honey, you're looking lovely tonight"
+  },
+  {
+   "start": 36.7,
+   "end": 39.4,
+   "text": "Sorry, you're wasting time"
+  },
+  {
+   "start": 39.6,
+   "end": 42.1,
+   "text": "Baby, this ain't your lucky night"
+  },
+  {
+   "start": 42.2,
+   "end": 44.6,
+   "text": "Well, trying ain't a crime"
+  },
+  {
+   "start": 44.8,
+   "end": 47.3,
+   "text": "Why is it every time"
+  },
+  {
+   "start": 47.5,
+   "end": 49.8,
+   "text": "I like to do, you don't"
+  },
+  {
+   "start": 50.1,
+   "end": 52.7,
+   "text": "Maybe you could try a little"
+  },
+  {
+   "start": 52.8,
+   "end": 54.8,
+   "text": "romance and a comb"
+  },
+  {
+   "start": 55.2,
+   "end": 58.2,
+   "text": "Let's go back in time"
+  },
+  {
+   "start": 58.5,
+   "end": 61.2,
+   "text": "way back when we were"
+  },
+  {
+   "start": 61.2,
+   "end": 65.8,
+   "text": "la la la la la, la la la"
+  },
+  {
+   "start": 66.0,
+   "end": 68.7,
+   "text": "Now it's married life"
+  },
+  {
+   "start": 68.8,
+   "end": 71.8,
+   "text": "and the daily strife to be"
+  },
+  {
+   "start": 71.9,
+   "end": 74.3,
+   "text": "la la la la la"
+  },
+  {
+   "start": 74.5,
+   "end": 77.1,
+   "text": "la la la la la, la la"
+  },
+  {
+   "start": 77.2,
+   "end": 81.4,
+   "text": "la la la la la, la la la"
+  },
+  {
+   "start": 86.5,
+   "end": 89.0,
+   "text": "Honey, you're getting older"
+  },
+  {
+   "start": 89.2,
+   "end": 91.7,
+   "text": "Yeah, you're still twenty-nine"
+  },
+  {
+   "start": 92.0,
+   "end": 94.7,
+   "text": "And maybe things are colder"
+  },
+  {
+   "start": 94.8,
+   "end": 97.3,
+   "text": "But honey, still you're mine"
+  },
+  {
+   "start": 97.6,
+   "end": 100.2,
+   "text": "Guess it's easy to forget"
+  },
+  {
+   "start": 100.4,
+   "end": 102.7,
+   "text": "we're more than man and wife"
+  },
+  {
+   "start": 103.0,
+   "end": 105.6,
+   "text": "Could it be the la la magic"
+  },
+  {
+   "start": 105.7,
+   "end": 107.7,
+   "text": "keeping love alive"
+  },
+  {
+   "start": 107.9,
+   "end": 110.9,
+   "text": "Let's go back in time"
+  },
+  {
+   "start": 111.1,
+   "end": 113.8,
+   "text": "way back when we were"
+  },
+  {
+   "start": 113.9,
+   "end": 118.3,
+   "text": "la la la la la, la la la"
+  },
+  {
+   "start": 118.6,
+   "end": 121.3,
+   "text": "Back when you and I"
+  },
+  {
+   "start": 121.6,
+   "end": 124.2,
+   "text": "still had time to be"
+  },
+  {
+   "start": 124.3,
+   "end": 126.7,
+   "text": "la la la la la"
+  },
+  {
+   "start": 127.0,
+   "end": 129.4,
+   "text": "la la la la la, la la"
+  },
+  {
+   "start": 129.6,
+   "end": 133.8,
+   "text": "la la la la la, la la la"
+  },
+  {
+   "start": 157.7,
+   "end": 160.8,
+   "text": "Let's go back in time"
+  },
+  {
+   "start": 161.0,
+   "end": 163.8,
+   "text": "way back when we were"
+  },
+  {
+   "start": 163.8,
+   "end": 168.4,
+   "text": "la la la la la, la la la"
+  },
+  {
+   "start": 168.6,
+   "end": 171.3,
+   "text": "Back when you and I"
+  },
+  {
+   "start": 171.6,
+   "end": 174.3,
+   "text": "still had time to be"
+  },
+  {
+   "start": 174.3,
+   "end": 177.3,
+   "text": "la la la la la"
+  },
+  {
+   "start": 177.5,
+   "end": 180.6,
+   "text": "Let's go back in time"
+  },
+  {
+   "start": 180.8,
+   "end": 183.5,
+   "text": "way back when we were"
+  },
+  {
+   "start": 183.6,
+   "end": 188.1,
+   "text": "la la la la la, la la la"
+  },
+  {
+   "start": 188.3,
+   "end": 191.1,
+   "text": "Now it's married life"
+  },
+  {
+   "start": 191.3,
+   "end": 194.0,
+   "text": "still we have to try to be"
+  },
+  {
+   "start": 194.1,
+   "end": 196.6,
+   "text": "la la la la la"
+  },
+  {
+   "start": 196.7,
+   "end": 199.2,
+   "text": "la la la la la, la la"
+  },
+  {
+   "start": 199.3,
+   "end": 203.8,
+   "text": "la la la la la, la la la"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 6307,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 6307
+   }
+  ],
+  "prompt_token_count": 7035,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 759
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 6276
+   }
+  ],
+  "thoughts_token_count": 53928,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 67270,
+  "traffic_type": null
+ }
+}

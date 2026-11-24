@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.cache/
+.local/
+.wrangler/
+node_modules/
+.env
+# third-party data: fetched by `python -m bench.real`, never committed
+data/real/
+# build scratch
+brand/*.png
+!brand/og.png

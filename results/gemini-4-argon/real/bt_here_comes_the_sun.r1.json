@@ -1,0 +1,799 @@
+{
+ "bpm": 129,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 305.512,
+   "key": "A major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.258,
+   "chord": "N"
+  },
+  {
+   "start": 0.258,
+   "end": 3.854,
+   "chord": "A:maj"
+  },
+  {
+   "start": 3.854,
+   "end": 5.665,
+   "chord": "D:maj"
+  },
+  {
+   "start": 5.665,
+   "end": 7.511,
+   "chord": "E:7"
+  },
+  {
+   "start": 7.511,
+   "end": 11.203,
+   "chord": "A:maj"
+  },
+  {
+   "start": 11.203,
+   "end": 13.061,
+   "chord": "D:maj"
+  },
+  {
+   "start": 13.061,
+   "end": 14.959,
+   "chord": "E:7"
+  },
+  {
+   "start": 14.959,
+   "end": 18.691,
+   "chord": "A:maj"
+  },
+  {
+   "start": 18.691,
+   "end": 20.572,
+   "chord": "D:maj"
+  },
+  {
+   "start": 20.572,
+   "end": 22.313,
+   "chord": "B:7"
+  },
+  {
+   "start": 22.313,
+   "end": 24.391,
+   "chord": "A:maj"
+  },
+  {
+   "start": 24.391,
+   "end": 25.007,
+   "chord": "D:maj"
+  },
+  {
+   "start": 25.007,
+   "end": 25.727,
+   "chord": "A:maj"
+  },
+  {
+   "start": 25.727,
+   "end": 26.412,
+   "chord": "E:maj"
+  },
+  {
+   "start": 26.412,
+   "end": 26.864,
+   "chord": "A:maj"
+  },
+  {
+   "start": 26.864,
+   "end": 27.677,
+   "chord": "E:7"
+  },
+  {
+   "start": 27.677,
+   "end": 31.346,
+   "chord": "A:maj"
+  },
+  {
+   "start": 31.346,
+   "end": 33.204,
+   "chord": "D:maj"
+  },
+  {
+   "start": 33.204,
+   "end": 35.128,
+   "chord": "E:7"
+  },
+  {
+   "start": 35.128,
+   "end": 38.799,
+   "chord": "A:maj"
+  },
+  {
+   "start": 38.799,
+   "end": 40.668,
+   "chord": "D:maj"
+  },
+  {
+   "start": 40.668,
+   "end": 42.549,
+   "chord": "E:7"
+  },
+  {
+   "start": 42.549,
+   "end": 46.299,
+   "chord": "A:maj"
+  },
+  {
+   "start": 46.299,
+   "end": 48.122,
+   "chord": "D:maj"
+  },
+  {
+   "start": 48.122,
+   "end": 49.944,
+   "chord": "B:7"
+  },
+  {
+   "start": 49.944,
+   "end": 52.046,
+   "chord": "A:maj"
+  },
+  {
+   "start": 52.046,
+   "end": 52.533,
+   "chord": "D:maj"
+  },
+  {
+   "start": 52.533,
+   "end": 53.265,
+   "chord": "A:maj"
+  },
+  {
+   "start": 53.265,
+   "end": 54.02,
+   "chord": "E:maj"
+  },
+  {
+   "start": 54.02,
+   "end": 54.484,
+   "chord": "A:maj"
+  },
+  {
+   "start": 54.484,
+   "end": 55.349,
+   "chord": "E:7"
+  },
+  {
+   "start": 55.349,
+   "end": 57.154,
+   "chord": "A:maj"
+  },
+  {
+   "start": 57.154,
+   "end": 59.035,
+   "chord": "E:7"
+  },
+  {
+   "start": 59.035,
+   "end": 62.785,
+   "chord": "A:maj"
+  },
+  {
+   "start": 62.785,
+   "end": 64.689,
+   "chord": "D:maj"
+  },
+  {
+   "start": 64.689,
+   "end": 66.529,
+   "chord": "E:7"
+  },
+  {
+   "start": 66.529,
+   "end": 70.181,
+   "chord": "A:maj"
+  },
+  {
+   "start": 70.181,
+   "end": 72.108,
+   "chord": "D:maj"
+  },
+  {
+   "start": 72.108,
+   "end": 73.966,
+   "chord": "E:7"
+  },
+  {
+   "start": 73.966,
+   "end": 77.728,
+   "chord": "A:maj"
+  },
+  {
+   "start": 77.728,
+   "end": 79.643,
+   "chord": "D:maj"
+  },
+  {
+   "start": 79.643,
+   "end": 81.478,
+   "chord": "B:7"
+  },
+  {
+   "start": 81.478,
+   "end": 83.579,
+   "chord": "A:maj"
+  },
+  {
+   "start": 83.579,
+   "end": 84.101,
+   "chord": "D:maj"
+  },
+  {
+   "start": 84.101,
+   "end": 84.786,
+   "chord": "A:maj"
+  },
+  {
+   "start": 84.786,
+   "end": 85.495,
+   "chord": "E:maj"
+  },
+  {
+   "start": 85.495,
+   "end": 85.948,
+   "chord": "A:maj"
+  },
+  {
+   "start": 85.948,
+   "end": 86.783,
+   "chord": "E:7"
+  },
+  {
+   "start": 86.783,
+   "end": 88.622,
+   "chord": "A:maj"
+  },
+  {
+   "start": 88.622,
+   "end": 90.479,
+   "chord": "E:7"
+  },
+  {
+   "start": 90.479,
+   "end": 91.617,
+   "chord": "C:maj"
+  },
+  {
+   "start": 91.617,
+   "end": 92.813,
+   "chord": "G:maj"
+  },
+  {
+   "start": 92.813,
+   "end": 93.742,
+   "chord": "D:maj"
+  },
+  {
+   "start": 93.742,
+   "end": 95.367,
+   "chord": "A:maj"
+  },
+  {
+   "start": 95.367,
+   "end": 96.494,
+   "chord": "E:7"
+  },
+  {
+   "start": 96.494,
+   "end": 97.631,
+   "chord": "C:maj"
+  },
+  {
+   "start": 97.631,
+   "end": 98.781,
+   "chord": "G:maj"
+  },
+  {
+   "start": 98.781,
+   "end": 99.721,
+   "chord": "D:maj"
+  },
+  {
+   "start": 99.721,
+   "end": 101.363,
+   "chord": "A:maj"
+  },
+  {
+   "start": 101.363,
+   "end": 102.501,
+   "chord": "E:7"
+  },
+  {
+   "start": 102.501,
+   "end": 103.651,
+   "chord": "C:maj"
+  },
+  {
+   "start": 103.651,
+   "end": 104.805,
+   "chord": "G:maj"
+  },
+  {
+   "start": 104.805,
+   "end": 105.752,
+   "chord": "D:maj"
+  },
+  {
+   "start": 105.752,
+   "end": 107.406,
+   "chord": "A:maj"
+  },
+  {
+   "start": 107.406,
+   "end": 108.532,
+   "chord": "E:7"
+  },
+  {
+   "start": 108.532,
+   "end": 109.693,
+   "chord": "C:maj"
+  },
+  {
+   "start": 109.693,
+   "end": 110.866,
+   "chord": "G:maj"
+  },
+  {
+   "start": 110.866,
+   "end": 111.783,
+   "chord": "D:maj"
+  },
+  {
+   "start": 111.783,
+   "end": 113.397,
+   "chord": "A:maj"
+  },
+  {
+   "start": 113.397,
+   "end": 114.523,
+   "chord": "E:7"
+  },
+  {
+   "start": 114.523,
+   "end": 115.707,
+   "chord": "C:maj"
+  },
+  {
+   "start": 115.707,
+   "end": 116.868,
+   "chord": "G:maj"
+  },
+  {
+   "start": 116.868,
+   "end": 117.774,
+   "chord": "D:maj"
+  },
+  {
+   "start": 117.774,
+   "end": 119.399,
+   "chord": "A:maj"
+  },
+  {
+   "start": 119.399,
+   "end": 120.548,
+   "chord": "E:7"
+  },
+  {
+   "start": 120.548,
+   "end": 121.675,
+   "chord": "C:maj"
+  },
+  {
+   "start": 121.675,
+   "end": 122.847,
+   "chord": "G:maj"
+  },
+  {
+   "start": 122.847,
+   "end": 123.799,
+   "chord": "D:maj"
+  },
+  {
+   "start": 123.799,
+   "end": 125.437,
+   "chord": "A:maj"
+  },
+  {
+   "start": 125.437,
+   "end": 132.999,
+   "chord": "E:7"
+  },
+  {
+   "start": 132.999,
+   "end": 136.68,
+   "chord": "A:maj"
+  },
+  {
+   "start": 136.68,
+   "end": 138.491,
+   "chord": "D:maj"
+  },
+  {
+   "start": 138.491,
+   "end": 140.406,
+   "chord": "E:7"
+  },
+  {
+   "start": 140.406,
+   "end": 144.075,
+   "chord": "A:maj"
+  },
+  {
+   "start": 144.075,
+   "end": 145.933,
+   "chord": "D:maj"
+  },
+  {
+   "start": 145.933,
+   "end": 147.825,
+   "chord": "E:7"
+  },
+  {
+   "start": 147.825,
+   "end": 151.494,
+   "chord": "A:maj"
+  },
+  {
+   "start": 151.494,
+   "end": 153.363,
+   "chord": "D:maj"
+  },
+  {
+   "start": 153.363,
+   "end": 155.209,
+   "chord": "B:7"
+  },
+  {
+   "start": 155.209,
+   "end": 157.287,
+   "chord": "A:maj"
+  },
+  {
+   "start": 157.287,
+   "end": 157.821,
+   "chord": "D:maj"
+  },
+  {
+   "start": 157.821,
+   "end": 158.472,
+   "chord": "A:maj"
+  },
+  {
+   "start": 158.472,
+   "end": 159.168,
+   "chord": "E:maj"
+  },
+  {
+   "start": 159.168,
+   "end": 159.644,
+   "chord": "A:maj"
+  },
+  {
+   "start": 159.644,
+   "end": 160.468,
+   "chord": "E:7"
+  },
+  {
+   "start": 160.468,
+   "end": 164.184,
+   "chord": "A:maj"
+  },
+  {
+   "start": 164.184,
+   "end": 165.995,
+   "chord": "D:maj"
+  },
+  {
+   "start": 165.995,
+   "end": 167.864,
+   "chord": "B:7"
+  },
+  {
+   "start": 167.864,
+   "end": 169.965,
+   "chord": "A:maj"
+  },
+  {
+   "start": 169.965,
+   "end": 170.511,
+   "chord": "D:maj"
+  },
+  {
+   "start": 170.511,
+   "end": 171.231,
+   "chord": "A:maj"
+  },
+  {
+   "start": 171.231,
+   "end": 171.939,
+   "chord": "E:maj"
+  },
+  {
+   "start": 171.939,
+   "end": 172.392,
+   "chord": "A:maj"
+  },
+  {
+   "start": 172.392,
+   "end": 173.262,
+   "chord": "E:7"
+  },
+  {
+   "start": 173.262,
+   "end": 175.329,
+   "chord": "A:maj"
+  },
+  {
+   "start": 175.329,
+   "end": 175.863,
+   "chord": "D:maj"
+  },
+  {
+   "start": 175.863,
+   "end": 176.571,
+   "chord": "A:maj"
+  },
+  {
+   "start": 176.571,
+   "end": 177.268,
+   "chord": "E:maj"
+  },
+  {
+   "start": 177.268,
+   "end": 177.721,
+   "chord": "A:maj"
+  },
+  {
+   "start": 177.721,
+   "end": 178.575,
+   "chord": "E:7"
+  },
+  {
+   "start": 178.575,
+   "end": 179.729,
+   "chord": "C:maj"
+  },
+  {
+   "start": 179.729,
+   "end": 180.89,
+   "chord": "G:maj"
+  },
+  {
+   "start": 180.89,
+   "end": 181.819,
+   "chord": "D:maj"
+  },
+  {
+   "start": 181.819,
+   "end": 184.535,
+   "chord": "A:maj"
+  },
+  {
+   "start": 184.535,
+   "end": 185.754,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "acoustic guitar",
+   "start": 0.0,
+   "end": 305.512
+  },
+  {
+   "name": "synthesizer",
+   "start": 7.511,
+   "end": 185.754
+  },
+  {
+   "name": "drum kit",
+   "start": 14.959,
+   "end": 179.729
+  },
+  {
+   "name": "bass guitar",
+   "start": 14.959,
+   "end": 179.729
+  },
+  {
+   "name": "male singer",
+   "start": 14.959,
+   "end": 53.265
+  },
+  {
+   "name": "backing vocals",
+   "start": 20.572,
+   "end": 53.265
+  },
+  {
+   "name": "hand clap",
+   "start": 27.677,
+   "end": 83.579
+  },
+  {
+   "name": "male singer",
+   "start": 60.869,
+   "end": 84.786
+  },
+  {
+   "name": "backing vocals",
+   "start": 60.869,
+   "end": 84.786
+  },
+  {
+   "name": "backing vocals",
+   "start": 96.494,
+   "end": 124.914
+  },
+  {
+   "name": "male singer",
+   "start": 96.494,
+   "end": 124.914
+  },
+  {
+   "name": "hand clap",
+   "start": 96.494,
+   "end": 175.329
+  },
+  {
+   "name": "male singer",
+   "start": 132.999,
+   "end": 175.329
+  },
+  {
+   "name": "backing vocals",
+   "start": 132.999,
+   "end": 175.329
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 14.959,
+   "end": 20.572,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 20.572,
+   "end": 25.007,
+   "text": "Here comes the sun, and I say, it's alright"
+  },
+  {
+   "start": 27.677,
+   "end": 35.128,
+   "text": "Little darlin', it's been a long, cold, lonely winter"
+  },
+  {
+   "start": 35.128,
+   "end": 42.549,
+   "text": "Little darlin', it feels like years since it's been here"
+  },
+  {
+   "start": 42.549,
+   "end": 46.299,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 46.299,
+   "end": 52.046,
+   "text": "Here comes the sun, and I say, it's alright"
+  },
+  {
+   "start": 59.035,
+   "end": 66.529,
+   "text": "Little darlin', the smile's returning to their faces"
+  },
+  {
+   "start": 66.529,
+   "end": 73.966,
+   "text": "Little darlin', it seems like years since it's been here"
+  },
+  {
+   "start": 73.966,
+   "end": 77.728,
+   "text": "Here comes the sun"
+  },
+  {
+   "start": 77.728,
+   "end": 83.579,
+   "text": "Here comes the sun, and I say, it's alright"
+  },
+  {
+   "start": 96.494,
+   "end": 100.829,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 102.501,
+   "end": 106.867,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 108.532,
+   "end": 112.874,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 114.523,
+   "end": 118.888,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 120.548,
+   "end": 124.914,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 132.999,
+   "end": 140.406,
+   "text": "Little darlin', I feel that ice is slowly melting"
+  },
+  {
+   "start": 140.406,
+   "end": 147.825,
+   "text": "Little darlin', it seems like years since it's been clear"
+  },
+  {
+   "start": 147.825,
+   "end": 151.494,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 151.494,
+   "end": 157.287,
+   "text": "Here comes the sun, and I say, it's alright"
+  },
+  {
+   "start": 160.468,
+   "end": 164.184,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 164.184,
+   "end": 169.965,
+   "text": "Here comes the sun, it's alright"
+  },
+  {
+   "start": 173.262,
+   "end": 175.329,
+   "text": "It's alright"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 4876,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 4876
+   }
+  ],
+  "prompt_token_count": 6285,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 711
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 5574
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 11161,
+  "traffic_type": null
+ }
+}

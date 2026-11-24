@@ -1,0 +1,9 @@
+{
+ "model": "qwen/qwen3.8-omni-flash",
+ "provider": "openai",
+ "base_url": "https://openrouter.ai/api/v1",
+ "runs": 2,
+ "prompt": "bench/common.py PROMPT",
+ "date": "2026-11-24",
+ "notes": "via OpenRouter, default settings"
+}

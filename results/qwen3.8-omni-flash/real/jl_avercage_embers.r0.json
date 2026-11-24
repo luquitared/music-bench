@@ -1,0 +1,766 @@
+{
+ "bpm": 128,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0,
+   "end": 240,
+   "key": "D minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0,
+   "end": 3.62,
+   "chord": "D:min"
+  },
+  {
+   "start": 3.62,
+   "end": 5.46,
+   "chord": "D:min"
+  },
+  {
+   "start": 5.46,
+   "end": 7.3,
+   "chord": "C:maj"
+  },
+  {
+   "start": 7.3,
+   "end": 10.99,
+   "chord": "G:maj"
+  },
+  {
+   "start": 10.99,
+   "end": 12.83,
+   "chord": "D:min"
+  },
+  {
+   "start": 12.83,
+   "end": 14.68,
+   "chord": "C:maj"
+  },
+  {
+   "start": 14.68,
+   "end": 18.37,
+   "chord": "G:maj"
+  },
+  {
+   "start": 18.37,
+   "end": 20.21,
+   "chord": "D:min"
+  },
+  {
+   "start": 20.21,
+   "end": 22.05,
+   "chord": "C:maj"
+  },
+  {
+   "start": 22.05,
+   "end": 25.75,
+   "chord": "G:maj"
+  },
+  {
+   "start": 25.75,
+   "end": 27.59,
+   "chord": "D:min"
+  },
+  {
+   "start": 27.59,
+   "end": 29.43,
+   "chord": "C:maj"
+  },
+  {
+   "start": 29.43,
+   "end": 33.13,
+   "chord": "G:maj"
+  },
+  {
+   "start": 33.13,
+   "end": 34.97,
+   "chord": "D:min"
+  },
+  {
+   "start": 34.97,
+   "end": 36.82,
+   "chord": "F:maj"
+  },
+  {
+   "start": 36.82,
+   "end": 38.66,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 38.66,
+   "end": 40.5,
+   "chord": "A:min"
+  },
+  {
+   "start": 40.5,
+   "end": 42.35,
+   "chord": "D:min"
+  },
+  {
+   "start": 42.35,
+   "end": 44.19,
+   "chord": "F:maj"
+  },
+  {
+   "start": 44.19,
+   "end": 46.03,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 46.03,
+   "end": 47.88,
+   "chord": "A:min"
+  },
+  {
+   "start": 47.88,
+   "end": 49.72,
+   "chord": "D:min"
+  },
+  {
+   "start": 49.72,
+   "end": 51.57,
+   "chord": "F:maj"
+  },
+  {
+   "start": 51.57,
+   "end": 53.41,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 53.41,
+   "end": 55.25,
+   "chord": "A:min"
+  },
+  {
+   "start": 55.25,
+   "end": 57.09,
+   "chord": "D:min"
+  },
+  {
+   "start": 57.09,
+   "end": 58.93,
+   "chord": "D:min7"
+  },
+  {
+   "start": 58.93,
+   "end": 62.63,
+   "chord": "F:maj"
+  },
+  {
+   "start": 62.63,
+   "end": 64.47,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 64.47,
+   "end": 66.31,
+   "chord": "A:min"
+  },
+  {
+   "start": 66.31,
+   "end": 68.15,
+   "chord": "G:min"
+  },
+  {
+   "start": 68.15,
+   "end": 70.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 70.0,
+   "end": 71.84,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 71.84,
+   "end": 73.68,
+   "chord": "A:min"
+  },
+  {
+   "start": 73.68,
+   "end": 77.37,
+   "chord": "C:maj"
+  },
+  {
+   "start": 77.37,
+   "end": 79.21,
+   "chord": "G:min"
+  },
+  {
+   "start": 79.21,
+   "end": 81.05,
+   "chord": "A:min"
+  },
+  {
+   "start": 81.05,
+   "end": 82.89,
+   "chord": "D:min"
+  },
+  {
+   "start": 82.89,
+   "end": 84.74,
+   "chord": "F:maj"
+  },
+  {
+   "start": 84.74,
+   "end": 86.58,
+   "chord": "G:min"
+  },
+  {
+   "start": 86.58,
+   "end": 88.42,
+   "chord": "A:min"
+  },
+  {
+   "start": 88.42,
+   "end": 90.27,
+   "chord": "D:min"
+  },
+  {
+   "start": 90.27,
+   "end": 92.11,
+   "chord": "F:maj"
+  },
+  {
+   "start": 92.11,
+   "end": 95.79,
+   "chord": "D:min"
+  },
+  {
+   "start": 95.79,
+   "end": 97.64,
+   "chord": "D:min"
+  },
+  {
+   "start": 97.64,
+   "end": 99.48,
+   "chord": "F:maj"
+  },
+  {
+   "start": 99.48,
+   "end": 101.32,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 101.32,
+   "end": 103.17,
+   "chord": "A:min"
+  },
+  {
+   "start": 103.17,
+   "end": 105.01,
+   "chord": "D:min"
+  },
+  {
+   "start": 105.01,
+   "end": 106.85,
+   "chord": "D:min7"
+  },
+  {
+   "start": 106.85,
+   "end": 110.54,
+   "chord": "F:maj"
+  },
+  {
+   "start": 110.54,
+   "end": 112.39,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 112.39,
+   "end": 114.23,
+   "chord": "A:min"
+  },
+  {
+   "start": 114.23,
+   "end": 116.07,
+   "chord": "G:min"
+  },
+  {
+   "start": 116.07,
+   "end": 117.91,
+   "chord": "F:maj"
+  },
+  {
+   "start": 117.91,
+   "end": 119.75,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 119.75,
+   "end": 121.6,
+   "chord": "A:min"
+  },
+  {
+   "start": 121.6,
+   "end": 125.29,
+   "chord": "C:maj"
+  },
+  {
+   "start": 125.29,
+   "end": 127.13,
+   "chord": "G:min"
+  },
+  {
+   "start": 127.13,
+   "end": 128.97,
+   "chord": "A:min"
+  },
+  {
+   "start": 128.97,
+   "end": 130.82,
+   "chord": "D:min"
+  },
+  {
+   "start": 130.82,
+   "end": 132.66,
+   "chord": "F:maj"
+  },
+  {
+   "start": 132.66,
+   "end": 134.5,
+   "chord": "G:min"
+  },
+  {
+   "start": 134.5,
+   "end": 136.34,
+   "chord": "A:min"
+  },
+  {
+   "start": 136.34,
+   "end": 138.19,
+   "chord": "D:min"
+  },
+  {
+   "start": 138.19,
+   "end": 140.03,
+   "chord": "F:maj"
+  },
+  {
+   "start": 140.03,
+   "end": 141.87,
+   "chord": "D:min"
+  },
+  {
+   "start": 141.87,
+   "end": 143.71,
+   "chord": "F:maj"
+  },
+  {
+   "start": 143.71,
+   "end": 145.55,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 145.55,
+   "end": 148.31,
+   "chord": "A:sus4"
+  },
+  {
+   "start": 148.31,
+   "end": 151.07,
+   "chord": "D:min"
+  },
+  {
+   "start": 151.07,
+   "end": 153.83,
+   "chord": "F:maj"
+  },
+  {
+   "start": 153.83,
+   "end": 156.59,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 156.59,
+   "end": 159.35,
+   "chord": "A:min"
+  },
+  {
+   "start": 159.35,
+   "end": 162.11,
+   "chord": "D:min"
+  },
+  {
+   "start": 162.11,
+   "end": 164.19,
+   "chord": "F:maj"
+  },
+  {
+   "start": 164.19,
+   "end": 166.79,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 166.79,
+   "end": 169.39,
+   "chord": "A:min"
+  },
+  {
+   "start": 169.39,
+   "end": 171.99,
+   "chord": "D:min"
+  },
+  {
+   "start": 171.99,
+   "end": 174.59,
+   "chord": "F:maj"
+  },
+  {
+   "start": 174.59,
+   "end": 177.19,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 177.19,
+   "end": 179.79,
+   "chord": "A:min"
+  },
+  {
+   "start": 179.79,
+   "end": 182.39,
+   "chord": "D:min"
+  },
+  {
+   "start": 182.39,
+   "end": 184.99,
+   "chord": "F:maj"
+  },
+  {
+   "start": 184.99,
+   "end": 187.59,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 187.59,
+   "end": 190.19,
+   "chord": "A:min"
+  },
+  {
+   "start": 190.19,
+   "end": 192.79,
+   "chord": "G:min"
+  },
+  {
+   "start": 192.79,
+   "end": 195.39,
+   "chord": "A:min"
+  },
+  {
+   "start": 195.39,
+   "end": 197.99,
+   "chord": "D:min"
+  },
+  {
+   "start": 197.99,
+   "end": 200.59,
+   "chord": "F:maj"
+  },
+  {
+   "start": 200.59,
+   "end": 203.19,
+   "chord": "G:min"
+  },
+  {
+   "start": 203.19,
+   "end": 205.79,
+   "chord": "A:min"
+  },
+  {
+   "start": 205.79,
+   "end": 208.39,
+   "chord": "D:min"
+  },
+  {
+   "start": 208.39,
+   "end": 210.99,
+   "chord": "F:maj"
+  },
+  {
+   "start": 210.99,
+   "end": 213.59,
+   "chord": "G:min"
+  },
+  {
+   "start": 213.59,
+   "end": 216.19,
+   "chord": "A:min"
+  },
+  {
+   "start": 216.19,
+   "end": 218.79,
+   "chord": "D:min"
+  },
+  {
+   "start": 218.79,
+   "end": 221.39,
+   "chord": "F:maj"
+  },
+  {
+   "start": 221.39,
+   "end": 223.99,
+   "chord": "G:min"
+  },
+  {
+   "start": 223.99,
+   "end": 226.59,
+   "chord": "A:min"
+  },
+  {
+   "start": 226.59,
+   "end": 229.19,
+   "chord": "D:min"
+  },
+  {
+   "start": 229.19,
+   "end": 231.79,
+   "chord": "F:maj"
+  },
+  {
+   "start": 231.79,
+   "end": 234.39,
+   "chord": "G:min"
+  },
+  {
+   "start": 234.39,
+   "end": 236.99,
+   "chord": "A:min"
+  },
+  {
+   "start": 236.99,
+   "end": 239.59,
+   "chord": "D:min"
+  },
+  {
+   "start": 239.59,
+   "end": 240.0,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "electric guitar",
+   "start": 0,
+   "end": 240
+  },
+  {
+   "name": "bass guitar",
+   "start": 3.62,
+   "end": 240
+  },
+  {
+   "name": "drums",
+   "start": 3.62,
+   "end": 240
+  },
+  {
+   "name": "synthesizer",
+   "start": 0,
+   "end": 240
+  },
+  {
+   "name": "vocals",
+   "start": 32.66,
+   "end": 240
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 32.66,
+   "end": 36.82,
+   "text": "The gate of thunders, continues burning"
+  },
+  {
+   "start": 36.82,
+   "end": 40.5,
+   "text": "Smiles away"
+  },
+  {
+   "start": 40.5,
+   "end": 42.35,
+   "text": "We don't know"
+  },
+  {
+   "start": 42.35,
+   "end": 47.88,
+   "text": "When it carried it to the end"
+  },
+  {
+   "start": 47.88,
+   "end": 51.57,
+   "text": "Now we whisper, now we bleed"
+  },
+  {
+   "start": 51.57,
+   "end": 55.25,
+   "text": "Open heart"
+  },
+  {
+   "start": 55.25,
+   "end": 57.09,
+   "text": "We don't know"
+  },
+  {
+   "start": 57.09,
+   "end": 62.63,
+   "text": "About the truth we live"
+  },
+  {
+   "start": 62.63,
+   "end": 64.47,
+   "text": "No more"
+  },
+  {
+   "start": 64.47,
+   "end": 68.15,
+   "text": "Close your eyes, the feeling just"
+  },
+  {
+   "start": 68.15,
+   "end": 70.0,
+   "text": "Overwhelming"
+  },
+  {
+   "start": 70.0,
+   "end": 71.84,
+   "text": "No name"
+  },
+  {
+   "start": 71.84,
+   "end": 77.37,
+   "text": "It's calling me, my heart, my faith"
+  },
+  {
+   "start": 77.37,
+   "end": 81.05,
+   "text": "One day it all will gone forever"
+  },
+  {
+   "start": 81.05,
+   "end": 84.74,
+   "text": "Will gone forever"
+  },
+  {
+   "start": 84.74,
+   "end": 88.42,
+   "text": "Don't close your eyes"
+  },
+  {
+   "start": 88.42,
+   "end": 92.11,
+   "text": "Will gone forever, will gone forever"
+  },
+  {
+   "start": 95.79,
+   "end": 99.48,
+   "text": "Just read the border, throw your past"
+  },
+  {
+   "start": 99.48,
+   "end": 103.17,
+   "text": "Go ahead"
+  },
+  {
+   "start": 103.17,
+   "end": 105.01,
+   "text": "Hey, run away"
+  },
+  {
+   "start": 105.01,
+   "end": 110.54,
+   "text": "Live forever and ever"
+  },
+  {
+   "start": 110.54,
+   "end": 114.23,
+   "text": "Close your eyes, the feeling just"
+  },
+  {
+   "start": 114.23,
+   "end": 116.07,
+   "text": "Overwhelming"
+  },
+  {
+   "start": 116.07,
+   "end": 117.91,
+   "text": "No name"
+  },
+  {
+   "start": 117.91,
+   "end": 125.29,
+   "text": "It's calling me, my heart, my faith"
+  },
+  {
+   "start": 125.29,
+   "end": 128.97,
+   "text": "One day it all will gone forever"
+  },
+  {
+   "start": 128.97,
+   "end": 132.66,
+   "text": "Will gone forever"
+  },
+  {
+   "start": 132.66,
+   "end": 136.34,
+   "text": "Don't close your eyes"
+  },
+  {
+   "start": 136.34,
+   "end": 140.03,
+   "text": "Will gone forever, will gone forever"
+  },
+  {
+   "start": 190.19,
+   "end": 195.39,
+   "text": "One day it all will gone forever"
+  },
+  {
+   "start": 195.39,
+   "end": 197.99,
+   "text": "Will gone forever"
+  },
+  {
+   "start": 197.99,
+   "end": 203.19,
+   "text": "Don't close your eyes"
+  },
+  {
+   "start": 203.19,
+   "end": 208.39,
+   "text": "Will gone forever, will gone forever"
+  },
+  {
+   "start": 208.39,
+   "end": 213.59,
+   "text": "Love will burn, it's forever"
+  },
+  {
+   "start": 213.59,
+   "end": 218.79,
+   "text": "Never separate"
+  },
+  {
+   "start": 218.79,
+   "end": 223.99,
+   "text": "Once in the end"
+  },
+  {
+   "start": 223.99,
+   "end": 229.19,
+   "text": "We'll never surrender, believe in embers"
+  },
+  {
+   "start": 229.19,
+   "end": 231.79,
+   "text": "We'll burn"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 8665,
+  "input_tokens": 1992
+ }
+}

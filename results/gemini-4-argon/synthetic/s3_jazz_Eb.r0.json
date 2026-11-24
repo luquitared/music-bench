@@ -1,0 +1,120 @@
+{
+ "bpm": 92,
+ "chords": [
+  {
+   "chord": "F:min7",
+   "end": 2.61,
+   "start": 0.0
+  },
+  {
+   "chord": "A#:7",
+   "end": 5.22,
+   "start": 2.61
+  },
+  {
+   "chord": "D#:maj7",
+   "end": 7.83,
+   "start": 5.22
+  },
+  {
+   "chord": "C:min7",
+   "end": 10.43,
+   "start": 7.83
+  },
+  {
+   "chord": "F:min7",
+   "end": 13.04,
+   "start": 10.43
+  },
+  {
+   "chord": "A#:7",
+   "end": 15.65,
+   "start": 13.04
+  },
+  {
+   "chord": "D#:maj7",
+   "end": 18.26,
+   "start": 15.65
+  },
+  {
+   "chord": "C:min7",
+   "end": 20.87,
+   "start": 18.26
+  },
+  {
+   "chord": "F:min7",
+   "end": 23.48,
+   "start": 20.87
+  },
+  {
+   "chord": "A#:7",
+   "end": 26.09,
+   "start": 23.48
+  },
+  {
+   "chord": "D#:maj7",
+   "end": 28.7,
+   "start": 26.09
+  },
+  {
+   "chord": "C:min7",
+   "end": 31.3,
+   "start": 28.7
+  },
+  {
+   "chord": "F:min7",
+   "end": 33.91,
+   "start": 31.3
+  },
+  {
+   "chord": "A#:7",
+   "end": 36.52,
+   "start": 33.91
+  },
+  {
+   "chord": "D#:maj7",
+   "end": 39.13,
+   "start": 36.52
+  },
+  {
+   "chord": "C:min7",
+   "end": 41.74,
+   "start": 39.13
+  }
+ ],
+ "instruments": [
+  {
+   "end": 43.04,
+   "name": "Finger Bass",
+   "start": 0.0
+  },
+  {
+   "end": 42.39,
+   "name": "Suitcase Rhodes",
+   "start": 0.0
+  },
+  {
+   "end": 43.04,
+   "name": "Lead Synth",
+   "start": 20.87
+  },
+  {
+   "end": 42.39,
+   "name": "Studio Drum Kit",
+   "start": 0.0
+  }
+ ],
+ "keys": [
+  {
+   "end": 43.04,
+   "key": "D# major",
+   "start": 0.0
+  }
+ ],
+ "lyrics": [],
+ "time_signature": "4/4",
+ "_usage": {
+  "output_tokens": 613,
+  "input_tokens": 1710
+ }
+}

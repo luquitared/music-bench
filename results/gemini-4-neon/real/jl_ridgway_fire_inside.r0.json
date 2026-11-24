@@ -1,0 +1,1099 @@
+{
+ "bpm": 98,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 281.5,
+   "key": "Eb major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.38,
+   "chord": "N"
+  },
+  {
+   "start": 0.38,
+   "end": 2.83,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 2.83,
+   "end": 5.28,
+   "chord": "C:min7"
+  },
+  {
+   "start": 5.28,
+   "end": 7.73,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 7.73,
+   "end": 10.18,
+   "chord": "C:min7"
+  },
+  {
+   "start": 10.18,
+   "end": 12.63,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 12.63,
+   "end": 15.08,
+   "chord": "C:min7"
+  },
+  {
+   "start": 15.08,
+   "end": 17.52,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 17.52,
+   "end": 18.75,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 18.75,
+   "end": 19.97,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 19.97,
+   "end": 22.42,
+   "chord": "C:min"
+  },
+  {
+   "start": 22.42,
+   "end": 23.64,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 23.64,
+   "end": 24.87,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 24.87,
+   "end": 27.32,
+   "chord": "C:min"
+  },
+  {
+   "start": 27.32,
+   "end": 28.54,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 28.54,
+   "end": 29.77,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 29.77,
+   "end": 32.22,
+   "chord": "C:min"
+  },
+  {
+   "start": 32.22,
+   "end": 33.44,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 33.44,
+   "end": 34.67,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 34.67,
+   "end": 37.12,
+   "chord": "C:min"
+  },
+  {
+   "start": 37.12,
+   "end": 38.34,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 38.34,
+   "end": 39.56,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 39.56,
+   "end": 42.01,
+   "chord": "C:min"
+  },
+  {
+   "start": 42.01,
+   "end": 43.24,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 43.24,
+   "end": 44.46,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 44.46,
+   "end": 46.91,
+   "chord": "C:min"
+  },
+  {
+   "start": 46.91,
+   "end": 48.13,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 48.13,
+   "end": 49.36,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 49.36,
+   "end": 51.81,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 51.81,
+   "end": 54.26,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 54.26,
+   "end": 56.71,
+   "chord": "F:min7"
+  },
+  {
+   "start": 56.71,
+   "end": 59.15,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 59.15,
+   "end": 61.6,
+   "chord": "C:min"
+  },
+  {
+   "start": 61.6,
+   "end": 62.83,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 62.83,
+   "end": 64.05,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 64.05,
+   "end": 66.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 66.5,
+   "end": 67.72,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 67.72,
+   "end": 68.95,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 68.95,
+   "end": 71.4,
+   "chord": "C:min"
+  },
+  {
+   "start": 71.4,
+   "end": 72.62,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 72.62,
+   "end": 73.85,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 73.85,
+   "end": 76.3,
+   "chord": "C:min"
+  },
+  {
+   "start": 76.3,
+   "end": 77.52,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 77.52,
+   "end": 78.75,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 78.75,
+   "end": 81.2,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 81.2,
+   "end": 83.64,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 83.64,
+   "end": 86.09,
+   "chord": "F:min7"
+  },
+  {
+   "start": 86.09,
+   "end": 88.54,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 88.54,
+   "end": 90.99,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 90.99,
+   "end": 93.44,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 93.44,
+   "end": 95.89,
+   "chord": "C:min"
+  },
+  {
+   "start": 95.89,
+   "end": 98.34,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 98.34,
+   "end": 100.79,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 100.79,
+   "end": 103.24,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 103.24,
+   "end": 105.69,
+   "chord": "C:min"
+  },
+  {
+   "start": 105.69,
+   "end": 106.91,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 106.91,
+   "end": 108.13,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 108.13,
+   "end": 110.58,
+   "chord": "C:min"
+  },
+  {
+   "start": 110.58,
+   "end": 111.81,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 111.81,
+   "end": 113.03,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 113.03,
+   "end": 115.48,
+   "chord": "C:min"
+  },
+  {
+   "start": 115.48,
+   "end": 116.71,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 116.71,
+   "end": 117.93,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 117.93,
+   "end": 120.38,
+   "chord": "C:min"
+  },
+  {
+   "start": 120.38,
+   "end": 121.6,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 121.6,
+   "end": 122.83,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 122.83,
+   "end": 125.28,
+   "chord": "C:min"
+  },
+  {
+   "start": 125.28,
+   "end": 126.5,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 126.5,
+   "end": 127.72,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 127.72,
+   "end": 130.17,
+   "chord": "F:min7"
+  },
+  {
+   "start": 130.17,
+   "end": 132.62,
+   "chord": "C:min7"
+  },
+  {
+   "start": 132.62,
+   "end": 135.07,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 135.07,
+   "end": 137.52,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 137.52,
+   "end": 139.97,
+   "chord": "F:min7"
+  },
+  {
+   "start": 139.97,
+   "end": 142.42,
+   "chord": "C:min7"
+  },
+  {
+   "start": 142.42,
+   "end": 144.87,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 144.87,
+   "end": 147.32,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 147.32,
+   "end": 149.77,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 149.77,
+   "end": 152.22,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 152.22,
+   "end": 154.67,
+   "chord": "F:min7"
+  },
+  {
+   "start": 154.67,
+   "end": 157.11,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 157.11,
+   "end": 159.56,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 159.56,
+   "end": 162.01,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 162.01,
+   "end": 164.46,
+   "chord": "C:min"
+  },
+  {
+   "start": 164.46,
+   "end": 166.91,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 166.91,
+   "end": 169.36,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 169.36,
+   "end": 171.81,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 171.81,
+   "end": 174.26,
+   "chord": "C:min"
+  },
+  {
+   "start": 174.26,
+   "end": 175.48,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 175.48,
+   "end": 176.7,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 176.7,
+   "end": 181.6,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 181.6,
+   "end": 184.05,
+   "chord": "C:min7"
+  },
+  {
+   "start": 184.05,
+   "end": 186.5,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 186.5,
+   "end": 188.95,
+   "chord": "C:min7"
+  },
+  {
+   "start": 188.95,
+   "end": 191.4,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 191.4,
+   "end": 193.85,
+   "chord": "C:min7"
+  },
+  {
+   "start": 193.85,
+   "end": 196.3,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 196.3,
+   "end": 198.75,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 198.75,
+   "end": 201.2,
+   "chord": "C:min7"
+  },
+  {
+   "start": 201.2,
+   "end": 202.42,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 202.42,
+   "end": 203.64,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 203.64,
+   "end": 206.09,
+   "chord": "C:min7"
+  },
+  {
+   "start": 206.09,
+   "end": 207.32,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 207.32,
+   "end": 208.54,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 208.54,
+   "end": 210.99,
+   "chord": "C:min"
+  },
+  {
+   "start": 210.99,
+   "end": 212.22,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 212.22,
+   "end": 213.44,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 213.44,
+   "end": 215.89,
+   "chord": "C:min"
+  },
+  {
+   "start": 215.89,
+   "end": 217.12,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 217.12,
+   "end": 218.34,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 218.34,
+   "end": 220.79,
+   "chord": "C:min"
+  },
+  {
+   "start": 220.79,
+   "end": 222.01,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 222.01,
+   "end": 223.24,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 223.24,
+   "end": 225.69,
+   "chord": "C:min"
+  },
+  {
+   "start": 225.69,
+   "end": 226.91,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 226.91,
+   "end": 228.13,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 228.13,
+   "end": 230.58,
+   "chord": "C:min7"
+  },
+  {
+   "start": 230.58,
+   "end": 231.81,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 231.81,
+   "end": 233.03,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 233.03,
+   "end": 235.48,
+   "chord": "C:min7"
+  },
+  {
+   "start": 235.48,
+   "end": 236.71,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 236.71,
+   "end": 237.93,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 237.93,
+   "end": 240.38,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 240.38,
+   "end": 242.83,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 242.83,
+   "end": 245.28,
+   "chord": "C:min"
+  },
+  {
+   "start": 245.28,
+   "end": 247.73,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 247.73,
+   "end": 250.18,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 250.18,
+   "end": 252.63,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 252.63,
+   "end": 255.08,
+   "chord": "C:min"
+  },
+  {
+   "start": 255.08,
+   "end": 257.52,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 257.52,
+   "end": 259.97,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 259.97,
+   "end": 262.42,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 262.42,
+   "end": 264.87,
+   "chord": "C:min"
+  },
+  {
+   "start": 264.87,
+   "end": 267.32,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 267.32,
+   "end": 269.77,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 269.77,
+   "end": 272.22,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 272.22,
+   "end": 274.67,
+   "chord": "C:min"
+  },
+  {
+   "start": 274.67,
+   "end": 275.89,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 275.89,
+   "end": 277.11,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 277.11,
+   "end": 281.5,
+   "chord": "Eb:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "rhythm electric guitar",
+   "start": 0.38,
+   "end": 281.5
+  },
+  {
+   "name": "lead electric guitar",
+   "start": 9.8,
+   "end": 39.56
+  },
+  {
+   "name": "lead electric guitar",
+   "start": 59.15,
+   "end": 68.95
+  },
+  {
+   "name": "lead electric guitar",
+   "start": 108.13,
+   "end": 127.72
+  },
+  {
+   "name": "lead electric guitar",
+   "start": 188.95,
+   "end": 281.5
+  },
+  {
+   "name": "synthesizer",
+   "start": 0.38,
+   "end": 19.97
+  },
+  {
+   "name": "synthesizer",
+   "start": 176.7,
+   "end": 198.75
+  },
+  {
+   "name": "organ",
+   "start": 19.97,
+   "end": 176.7
+  },
+  {
+   "name": "organ",
+   "start": 198.75,
+   "end": 281.5
+  },
+  {
+   "name": "bass guitar",
+   "start": 17.52,
+   "end": 179.0
+  },
+  {
+   "name": "bass guitar",
+   "start": 195.0,
+   "end": 281.5
+  },
+  {
+   "name": "drums",
+   "start": 17.52,
+   "end": 177.5
+  },
+  {
+   "name": "drums",
+   "start": 193.85,
+   "end": 278.5
+  },
+  {
+   "name": "lead vocals",
+   "start": 39.56,
+   "end": 59.1
+  },
+  {
+   "name": "lead vocals",
+   "start": 68.95,
+   "end": 108.5
+  },
+  {
+   "name": "lead vocals",
+   "start": 127.72,
+   "end": 185.5
+  },
+  {
+   "name": "lead vocals",
+   "start": 197.5,
+   "end": 198.5
+  },
+  {
+   "name": "lead vocals",
+   "start": 237.93,
+   "end": 275.0
+  },
+  {
+   "name": "backing vocals",
+   "start": 51.8,
+   "end": 59.1
+  },
+  {
+   "name": "backing vocals",
+   "start": 81.2,
+   "end": 108.13
+  },
+  {
+   "name": "backing vocals",
+   "start": 139.8,
+   "end": 142.2
+  },
+  {
+   "name": "backing vocals",
+   "start": 147.32,
+   "end": 176.7
+  },
+  {
+   "name": "backing vocals",
+   "start": 181.0,
+   "end": 185.5
+  },
+  {
+   "name": "backing vocals",
+   "start": 237.93,
+   "end": 275.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 39.56,
+   "end": 44.3,
+   "text": "I got a lot on my mind, ain't got all of the time, but trying to do right"
+  },
+  {
+   "start": 44.5,
+   "end": 49.2,
+   "text": "I may have lost a lot, but I'm keeping it tight, never give up the fight, no"
+  },
+  {
+   "start": 49.5,
+   "end": 52.0,
+   "text": "When my life was a wreck"
+  },
+  {
+   "start": 52.1,
+   "end": 54.3,
+   "text": "When my life was a wreck"
+  },
+  {
+   "start": 54.4,
+   "end": 56.9,
+   "text": "Got to keep it all in check"
+  },
+  {
+   "start": 56.95,
+   "end": 59.1,
+   "text": "I keep it all in check"
+  },
+  {
+   "start": 68.95,
+   "end": 73.8,
+   "text": "Even in the darkest days, got a trail to blaze, gonna stick to my ways"
+  },
+  {
+   "start": 73.9,
+   "end": 78.7,
+   "text": "I used to be caught in a phase where life was a maze, until I saw the sun's rays"
+  },
+  {
+   "start": 78.9,
+   "end": 81.4,
+   "text": "When your life is a wreck"
+  },
+  {
+   "start": 81.5,
+   "end": 83.7,
+   "text": "Your life is a wreck"
+  },
+  {
+   "start": 83.8,
+   "end": 88.4,
+   "text": "You got to take the first step, yeah"
+  },
+  {
+   "start": 88.54,
+   "end": 91.0,
+   "text": "Whoa-oh-oh-oh-oh"
+  },
+  {
+   "start": 91.1,
+   "end": 93.5,
+   "text": "Paddle on through the waves now"
+  },
+  {
+   "start": 93.5,
+   "end": 95.9,
+   "text": "Whoa-oh-oh-oh-oh"
+  },
+  {
+   "start": 96.0,
+   "end": 98.3,
+   "text": "Gonna take me to that place"
+  },
+  {
+   "start": 98.4,
+   "end": 100.8,
+   "text": "Whoa-oh-oh-oh-oh"
+  },
+  {
+   "start": 100.9,
+   "end": 103.2,
+   "text": "Find the fire inside"
+  },
+  {
+   "start": 103.3,
+   "end": 105.7,
+   "text": "Whoa-oh-oh-oh-oh"
+  },
+  {
+   "start": 105.8,
+   "end": 108.5,
+   "text": "It's a fate that you decide"
+  },
+  {
+   "start": 127.8,
+   "end": 132.5,
+   "text": "When I feel like I'm losing control"
+  },
+  {
+   "start": 132.8,
+   "end": 137.3,
+   "text": "Got to reach within my soul"
+  },
+  {
+   "start": 137.6,
+   "end": 142.0,
+   "text": "And if you're ever feeling low, yeah"
+  },
+  {
+   "start": 142.4,
+   "end": 147.2,
+   "text": "You got to take the first step and go, yeah"
+  },
+  {
+   "start": 147.4,
+   "end": 149.8,
+   "text": "Take the first step to the right"
+  },
+  {
+   "start": 149.85,
+   "end": 152.2,
+   "text": "Got to find what's inside"
+  },
+  {
+   "start": 152.3,
+   "end": 157.1,
+   "text": "Before we run out of time, run out of time, run out of time"
+  },
+  {
+   "start": 157.11,
+   "end": 159.6,
+   "text": "Whoa-oh-oh-oh-oh"
+  },
+  {
+   "start": 159.7,
+   "end": 162.0,
+   "text": "Paddle on through the waves now"
+  },
+  {
+   "start": 162.05,
+   "end": 164.5,
+   "text": "Whoa-oh-oh-oh-oh"
+  },
+  {
+   "start": 164.6,
+   "end": 166.9,
+   "text": "Gonna take me to that place"
+  },
+  {
+   "start": 167.0,
+   "end": 169.4,
+   "text": "Whoa-oh-oh-oh-oh"
+  },
+  {
+   "start": 169.5,
+   "end": 171.8,
+   "text": "Find the fire inside"
+  },
+  {
+   "start": 171.9,
+   "end": 174.3,
+   "text": "Whoa-oh-oh-oh-oh"
+  },
+  {
+   "start": 174.4,
+   "end": 179.0,
+   "text": "It's a fate that you decide"
+  },
+  {
+   "start": 181.0,
+   "end": 185.5,
+   "text": "That you decide"
+  },
+  {
+   "start": 197.5,
+   "end": 198.5,
+   "text": "Woo!"
+  },
+  {
+   "start": 237.93,
+   "end": 240.3,
+   "text": "Whoa-oh-oh"
+  },
+  {
+   "start": 240.4,
+   "end": 242.8,
+   "text": "I'm paddling on, I'm paddling strong"
+  },
+  {
+   "start": 242.9,
+   "end": 245.2,
+   "text": "Whoa-oh-oh"
+  },
+  {
+   "start": 245.3,
+   "end": 247.7,
+   "text": "Find the fire, find the fire"
+  },
+  {
+   "start": 247.8,
+   "end": 250.1,
+   "text": "Whoa-oh-oh"
+  },
+  {
+   "start": 250.2,
+   "end": 252.6,
+   "text": "I'm paddling on, I'm paddling strong"
+  },
+  {
+   "start": 252.7,
+   "end": 255.0,
+   "text": "Whoa-oh-oh"
+  },
+  {
+   "start": 255.1,
+   "end": 258.8,
+   "text": "Find the fire, find the fire"
+  },
+  {
+   "start": 260.8,
+   "end": 263.6,
+   "text": "Find the fire"
+  },
+  {
+   "start": 265.8,
+   "end": 269.0,
+   "text": "Find the fire"
+  },
+  {
+   "start": 271.0,
+   "end": 275.0,
+   "text": "Find the fire"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 8873,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 8873
+   }
+  ],
+  "prompt_token_count": 9427,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 907
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 8520
+   }
+  ],
+  "thoughts_token_count": 52293,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 70593,
+  "traffic_type": null
+ }
+}

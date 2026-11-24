@@ -1,0 +1,406 @@
+{
+ "bpm": 136,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0,
+   "end": 123,
+   "key": "E minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0,
+   "end": 4.36,
+   "chord": "C:maj"
+  },
+  {
+   "start": 4.36,
+   "end": 6.96,
+   "chord": "E:min"
+  },
+  {
+   "start": 6.96,
+   "end": 10.88,
+   "chord": "C:maj"
+  },
+  {
+   "start": 10.88,
+   "end": 19.19,
+   "chord": "E:min"
+  },
+  {
+   "start": 19.19,
+   "end": 20.95,
+   "chord": "A:min"
+  },
+  {
+   "start": 20.95,
+   "end": 27.94,
+   "chord": "E:min"
+  },
+  {
+   "start": 27.94,
+   "end": 29.7,
+   "chord": "A:min"
+  },
+  {
+   "start": 29.7,
+   "end": 31.46,
+   "chord": "E:min"
+  },
+  {
+   "start": 31.46,
+   "end": 33.22,
+   "chord": "E:min7"
+  },
+  {
+   "start": 33.22,
+   "end": 34.94,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 34.94,
+   "end": 36.69,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 36.69,
+   "end": 38.45,
+   "chord": "E:min"
+  },
+  {
+   "start": 38.45,
+   "end": 40.19,
+   "chord": "E:min7"
+  },
+  {
+   "start": 40.19,
+   "end": 41.95,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 41.95,
+   "end": 43.71,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 43.71,
+   "end": 50.67,
+   "chord": "E:min"
+  },
+  {
+   "start": 50.67,
+   "end": 52.43,
+   "chord": "A:min"
+  },
+  {
+   "start": 52.43,
+   "end": 59.42,
+   "chord": "E:min"
+  },
+  {
+   "start": 59.42,
+   "end": 61.18,
+   "chord": "A:min"
+  },
+  {
+   "start": 61.18,
+   "end": 62.94,
+   "chord": "E:min"
+  },
+  {
+   "start": 62.94,
+   "end": 64.7,
+   "chord": "E:min7"
+  },
+  {
+   "start": 64.7,
+   "end": 66.46,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 66.46,
+   "end": 68.22,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 68.22,
+   "end": 69.98,
+   "chord": "E:min"
+  },
+  {
+   "start": 69.98,
+   "end": 71.74,
+   "chord": "E:min7"
+  },
+  {
+   "start": 71.74,
+   "end": 73.5,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 73.5,
+   "end": 75.26,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 75.26,
+   "end": 77.02,
+   "chord": "E:min"
+  },
+  {
+   "start": 77.02,
+   "end": 80.94,
+   "chord": "C:maj"
+  },
+  {
+   "start": 80.94,
+   "end": 83.54,
+   "chord": "E:min"
+  },
+  {
+   "start": 83.54,
+   "end": 87.46,
+   "chord": "C:maj"
+  },
+  {
+   "start": 87.46,
+   "end": 95.22,
+   "chord": "E:min"
+  },
+  {
+   "start": 95.22,
+   "end": 98.7,
+   "chord": "A:min"
+  },
+  {
+   "start": 98.7,
+   "end": 104.3,
+   "chord": "E:min"
+  },
+  {
+   "start": 104.3,
+   "end": 107.02,
+   "chord": "A:min"
+  },
+  {
+   "start": 107.02,
+   "end": 107.9,
+   "chord": "E:min"
+  },
+  {
+   "start": 107.9,
+   "end": 109.66,
+   "chord": "E:min7"
+  },
+  {
+   "start": 109.66,
+   "end": 111.42,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 111.42,
+   "end": 113.18,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 113.18,
+   "end": 114.94,
+   "chord": "E:min"
+  },
+  {
+   "start": 114.94,
+   "end": 116.7,
+   "chord": "E:min7"
+  },
+  {
+   "start": 116.7,
+   "end": 118.46,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 118.46,
+   "end": 120.22,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 120.22,
+   "end": 121.1,
+   "chord": "E:min"
+  },
+  {
+   "start": 121.1,
+   "end": 121.98,
+   "chord": "E:min/b3"
+  },
+  {
+   "start": 121.98,
+   "end": 122.86,
+   "chord": "B:7/5"
+  },
+  {
+   "start": 122.86,
+   "end": 123.74,
+   "chord": "E:min"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "vocals",
+   "start": 0,
+   "end": 121.0
+  },
+  {
+   "name": "strings",
+   "start": 0,
+   "end": 123.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 0.0,
+   "end": 4.3,
+   "text": "I look at all the lonely people"
+  },
+  {
+   "start": 6.9,
+   "end": 10.8,
+   "text": "I look at all the lonely people"
+  },
+  {
+   "start": 13.8,
+   "end": 20.0,
+   "text": "Eleanor Rigby picks up the rice in the church where a wedding has been"
+  },
+  {
+   "start": 20.8,
+   "end": 22.4,
+   "text": "Lives in a dream"
+  },
+  {
+   "start": 22.6,
+   "end": 28.2,
+   "text": "Waits at the window, wearing the face that she keeps in a jar by the door"
+  },
+  {
+   "start": 29.5,
+   "end": 31.1,
+   "text": "Who is it for?"
+  },
+  {
+   "start": 31.3,
+   "end": 33.8,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 34.3,
+   "end": 37.0,
+   "text": "Where do they all come from?"
+  },
+  {
+   "start": 38.3,
+   "end": 40.8,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 41.3,
+   "end": 44.0,
+   "text": "Where do they all belong?"
+  },
+  {
+   "start": 45.2,
+   "end": 51.1,
+   "text": "Father McKenzie writing the words of a sermon that no one will hear"
+  },
+  {
+   "start": 52.0,
+   "end": 53.7,
+   "text": "No one comes near"
+  },
+  {
+   "start": 54.0,
+   "end": 59.8,
+   "text": "Look at him working, darning his socks in the night when there's nobody there"
+  },
+  {
+   "start": 60.9,
+   "end": 62.4,
+   "text": "What does he care?"
+  },
+  {
+   "start": 62.7,
+   "end": 65.2,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 65.7,
+   "end": 68.4,
+   "text": "Where do they all come from?"
+  },
+  {
+   "start": 69.7,
+   "end": 72.2,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 72.7,
+   "end": 75.4,
+   "text": "Where do they all belong?"
+  },
+  {
+   "start": 76.6,
+   "end": 80.9,
+   "text": "I look at all the lonely people"
+  },
+  {
+   "start": 83.5,
+   "end": 87.8,
+   "text": "I look at all the lonely people"
+  },
+  {
+   "start": 90.4,
+   "end": 96.2,
+   "text": "Eleanor Rigby died in the church and was buried along with her name"
+  },
+  {
+   "start": 97.2,
+   "end": 98.8,
+   "text": "Nobody came"
+  },
+  {
+   "start": 98.9,
+   "end": 104.8,
+   "text": "Father McKenzie wiping the dirt from his hands as he walks from the grave"
+  },
+  {
+   "start": 105.9,
+   "end": 107.5,
+   "text": "No one was saved"
+  },
+  {
+   "start": 107.7,
+   "end": 110.2,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 110.7,
+   "end": 113.4,
+   "text": "Where do they all come from?"
+  },
+  {
+   "start": 114.7,
+   "end": 117.2,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 117.7,
+   "end": 120.4,
+   "text": "Where do they all belong?"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 5387,
+  "input_tokens": 1173
+ }
+}

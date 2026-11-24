@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "music-bench",
+  "compatibility_date": "2026-11-20",
+  "observability": { "enabled": true },
+  // Static site only: built by build_site.py into web/
+  "assets": { "directory": "web", "html_handling": "auto-trailing-slash" },
+  "workers_dev": false,
+  "routes": [{ "pattern": "musicbench.odapt.ai", "custom_domain": true }]
+}

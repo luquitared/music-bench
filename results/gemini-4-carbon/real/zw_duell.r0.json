@@ -1,0 +1,689 @@
+{
+ "bpm": 116,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 232.0,
+   "key": "C minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 1.8,
+   "chord": "Ab:maj7"
+  },
+  {
+   "start": 1.8,
+   "end": 3.2,
+   "chord": "G:7"
+  },
+  {
+   "start": 3.2,
+   "end": 4.6,
+   "chord": "C:min"
+  },
+  {
+   "start": 4.6,
+   "end": 7.5,
+   "chord": "Db:maj"
+  },
+  {
+   "start": 7.5,
+   "end": 9.2,
+   "chord": "C:min"
+  },
+  {
+   "start": 9.2,
+   "end": 11.2,
+   "chord": "G:7"
+  },
+  {
+   "start": 11.2,
+   "end": 12.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 12.0,
+   "end": 15.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 15.5,
+   "end": 18.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 18.5,
+   "end": 21.8,
+   "chord": "G:7"
+  },
+  {
+   "start": 21.8,
+   "end": 24.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 24.5,
+   "end": 25.6,
+   "chord": "C:7"
+  },
+  {
+   "start": 25.6,
+   "end": 28.2,
+   "chord": "F:min"
+  },
+  {
+   "start": 28.2,
+   "end": 31.2,
+   "chord": "G:7"
+  },
+  {
+   "start": 31.2,
+   "end": 34.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 34.0,
+   "end": 35.5,
+   "chord": "C:7"
+  },
+  {
+   "start": 35.5,
+   "end": 37.5,
+   "chord": "F:min"
+  },
+  {
+   "start": 37.5,
+   "end": 39.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 39.0,
+   "end": 41.0,
+   "chord": "F:min"
+  },
+  {
+   "start": 41.0,
+   "end": 42.2,
+   "chord": "C:min"
+  },
+  {
+   "start": 42.2,
+   "end": 43.5,
+   "chord": "D:7"
+  },
+  {
+   "start": 43.5,
+   "end": 46.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 46.5,
+   "end": 49.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 49.0,
+   "end": 51.0,
+   "chord": "G:7"
+  },
+  {
+   "start": 51.0,
+   "end": 53.8,
+   "chord": "C:min"
+  },
+  {
+   "start": 53.8,
+   "end": 55.5,
+   "chord": "C:7"
+  },
+  {
+   "start": 55.5,
+   "end": 57.5,
+   "chord": "F:min"
+  },
+  {
+   "start": 57.5,
+   "end": 59.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 59.5,
+   "end": 63.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 63.5,
+   "end": 65.0,
+   "chord": "C:7"
+  },
+  {
+   "start": 65.0,
+   "end": 67.0,
+   "chord": "F:min"
+  },
+  {
+   "start": 67.0,
+   "end": 69.5,
+   "chord": "D:7"
+  },
+  {
+   "start": 69.5,
+   "end": 71.8,
+   "chord": "G:7"
+  },
+  {
+   "start": 71.8,
+   "end": 74.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 74.5,
+   "end": 78.0,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 78.0,
+   "end": 80.0,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 80.0,
+   "end": 82.5,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 82.5,
+   "end": 86.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 86.5,
+   "end": 90.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 90.0,
+   "end": 93.0,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 93.0,
+   "end": 95.0,
+   "chord": "F:min"
+  },
+  {
+   "start": 95.0,
+   "end": 96.2,
+   "chord": "D:7"
+  },
+  {
+   "start": 96.2,
+   "end": 99.0,
+   "chord": "G:7"
+  },
+  {
+   "start": 99.0,
+   "end": 101.5,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 101.5,
+   "end": 105.0,
+   "chord": "G:7"
+  },
+  {
+   "start": 105.0,
+   "end": 107.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 107.5,
+   "end": 110.2,
+   "chord": "G:7"
+  },
+  {
+   "start": 110.2,
+   "end": 111.8,
+   "chord": "C:min"
+  },
+  {
+   "start": 111.8,
+   "end": 113.0,
+   "chord": "C:7"
+  },
+  {
+   "start": 113.0,
+   "end": 115.0,
+   "chord": "F:min"
+  },
+  {
+   "start": 115.0,
+   "end": 121.0,
+   "chord": "G:7"
+  },
+  {
+   "start": 121.0,
+   "end": 123.8,
+   "chord": "C:min"
+  },
+  {
+   "start": 123.8,
+   "end": 126.8,
+   "chord": "G:7"
+  },
+  {
+   "start": 126.8,
+   "end": 128.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 128.5,
+   "end": 129.8,
+   "chord": "C:7"
+  },
+  {
+   "start": 129.8,
+   "end": 131.5,
+   "chord": "F:min"
+  },
+  {
+   "start": 131.5,
+   "end": 133.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 133.0,
+   "end": 134.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 134.5,
+   "end": 135.8,
+   "chord": "C:min"
+  },
+  {
+   "start": 135.8,
+   "end": 136.8,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 136.8,
+   "end": 141.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 141.5,
+   "end": 145.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 145.0,
+   "end": 147.0,
+   "chord": "G:7"
+  },
+  {
+   "start": 147.0,
+   "end": 149.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 149.5,
+   "end": 151.0,
+   "chord": "C:7"
+  },
+  {
+   "start": 151.0,
+   "end": 153.5,
+   "chord": "F:min"
+  },
+  {
+   "start": 153.5,
+   "end": 156.2,
+   "chord": "G:7"
+  },
+  {
+   "start": 156.2,
+   "end": 160.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 160.0,
+   "end": 161.5,
+   "chord": "C:7"
+  },
+  {
+   "start": 161.5,
+   "end": 165.8,
+   "chord": "F:min"
+  },
+  {
+   "start": 165.8,
+   "end": 167.8,
+   "chord": "C:min"
+  },
+  {
+   "start": 167.8,
+   "end": 169.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 169.5,
+   "end": 174.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 174.5,
+   "end": 177.8,
+   "chord": "G:7"
+  },
+  {
+   "start": 177.8,
+   "end": 181.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 181.0,
+   "end": 183.0,
+   "chord": "F:min"
+  },
+  {
+   "start": 183.0,
+   "end": 185.0,
+   "chord": "G:7"
+  },
+  {
+   "start": 185.0,
+   "end": 188.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 188.0,
+   "end": 190.0,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 190.0,
+   "end": 192.5,
+   "chord": "F:min"
+  },
+  {
+   "start": 192.5,
+   "end": 195.2,
+   "chord": "D:7"
+  },
+  {
+   "start": 195.2,
+   "end": 199.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 199.5,
+   "end": 202.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 202.5,
+   "end": 205.2,
+   "chord": "G:7"
+  },
+  {
+   "start": 205.2,
+   "end": 206.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 206.5,
+   "end": 208.0,
+   "chord": "C:7"
+  },
+  {
+   "start": 208.0,
+   "end": 210.5,
+   "chord": "F:min"
+  },
+  {
+   "start": 210.5,
+   "end": 216.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 216.5,
+   "end": 219.5,
+   "chord": "C:min"
+  },
+  {
+   "start": 219.5,
+   "end": 222.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 222.5,
+   "end": 224.2,
+   "chord": "C:min"
+  },
+  {
+   "start": 224.2,
+   "end": 225.5,
+   "chord": "C:7"
+  },
+  {
+   "start": 225.5,
+   "end": 227.2,
+   "chord": "F:min"
+  },
+  {
+   "start": 227.2,
+   "end": 228.8,
+   "chord": "C:min"
+  },
+  {
+   "start": 228.8,
+   "end": 230.5,
+   "chord": "G:7"
+  },
+  {
+   "start": 230.5,
+   "end": 232.0,
+   "chord": "C:min"
+  },
+  {
+   "start": 232.0,
+   "end": 237.0,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "Piano",
+   "start": 0.0,
+   "end": 232.0
+  },
+  {
+   "name": "Male vocals",
+   "start": 15.5,
+   "end": 231.8
+  },
+  {
+   "name": "Handclaps",
+   "start": 121.0,
+   "end": 135.5
+  },
+  {
+   "name": "Handclaps",
+   "start": 216.5,
+   "end": 230.0
+  },
+  {
+   "name": "Backing vocals",
+   "start": 219.5,
+   "end": 231.5
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 15.5,
+   "end": 22.8,
+   "text": "Gn\u00e4diges Fr\u00e4ulein, ich bitte um Verzeihung"
+  },
+  {
+   "start": 23.5,
+   "end": 29.8,
+   "text": "und um einen Augenblick Geh\u00f6r."
+  },
+  {
+   "start": 30.8,
+   "end": 37.5,
+   "text": "Es ist die Frage von dringlicher Bedeutung"
+  },
+  {
+   "start": 38.5,
+   "end": 44.5,
+   "text": "und sie lastet in mir schwer."
+  },
+  {
+   "start": 46.5,
+   "end": 52.0,
+   "text": "Der Zufall lenkte meine Schritte"
+  },
+  {
+   "start": 53.5,
+   "end": 58.8,
+   "text": "gestern an den Ostseestrand,"
+  },
+  {
+   "start": 59.8,
+   "end": 66.2,
+   "text": "wo ich Sie dann in dessen wei\u00dfer Mitte"
+  },
+  {
+   "start": 66.5,
+   "end": 73.0,
+   "text": "mit 'nem anderen Manne fand."
+  },
+  {
+   "start": 74.2,
+   "end": 81.2,
+   "text": "Oh zarte Hand, warst stets selbst dir Schmuck und Zierde,"
+  },
+  {
+   "start": 81.8,
+   "end": 88.2,
+   "text": "nun erdr\u00fcckt durch des Ringes Last."
+  },
+  {
+   "start": 89.2,
+   "end": 95.5,
+   "text": "Und es gibt nichts, was ich nicht tun w\u00fcrde,"
+  },
+  {
+   "start": 95.5,
+   "end": 103.5,
+   "text": "jener Mann ist mir zutiefst verhasst."
+  },
+  {
+   "start": 105.0,
+   "end": 111.5,
+   "text": "Bestellen Sie Ihrem Verlobten, ich fordere ihn zum Duell."
+  },
+  {
+   "start": 112.0,
+   "end": 117.0,
+   "text": "Zwar schie\u00df ich nicht zum Vergn\u00fcgen,"
+  },
+  {
+   "start": 118.2,
+   "end": 122.0,
+   "text": "aber schnell, aber schnell, aber schnell!"
+  },
+  {
+   "start": 141.5,
+   "end": 148.2,
+   "text": "Gehetzt die Wolken, gepeitscht die Ostseewellen"
+  },
+  {
+   "start": 148.8,
+   "end": 154.8,
+   "text": "von dem Sturm, der jeden Laut zerrei\u00dft."
+  },
+  {
+   "start": 156.2,
+   "end": 162.8,
+   "text": "Die graue D\u00e4mmerung allein sieht die Gesellen"
+  },
+  {
+   "start": 163.5,
+   "end": 169.8,
+   "text": "als zwei Schatten auf des Strandes Wei\u00df."
+  },
+  {
+   "start": 171.0,
+   "end": 176.0,
+   "text": "Indes durchf\u00e4hrt's die Jungfrau wie ein Beben,"
+  },
+  {
+   "start": 177.5,
+   "end": 183.8,
+   "text": "denn sie erf\u00e4hrt, wohin der Freiherr fuhr."
+  },
+  {
+   "start": 184.5,
+   "end": 191.0,
+   "text": "Schnell, Kutscher, schneller! Es geht um Tod und Leben!"
+  },
+  {
+   "start": 192.2,
+   "end": 198.5,
+   "text": "Ach, und ging es doch um ihres nur."
+  },
+  {
+   "start": 199.8,
+   "end": 206.8,
+   "text": "Bestellt sie doch ihrem Verlobten die Nachricht, vor der ihr graut:"
+  },
+  {
+   "start": 207.2,
+   "end": 212.5,
+   "text": "Einer von beiden muss sterben"
+  },
+  {
+   "start": 213.8,
+   "end": 217.5,
+   "text": "und sie ist des M\u00f6rders Braut!"
+  },
+  {
+   "start": 229.2,
+   "end": 231.8,
+   "text": "Pa-pa-ra-pa-pau!"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 5332,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 5332
+   }
+  ],
+  "prompt_token_count": 7935,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 815
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 7120
+   }
+  ],
+  "thoughts_token_count": 3781,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 17048,
+  "traffic_type": null
+ }
+}

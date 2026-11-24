@@ -1,0 +1,404 @@
+{
+ "bpm": 136,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 203.0,
+   "key": "E minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 3.85,
+   "chord": "C:maj"
+  },
+  {
+   "start": 3.85,
+   "end": 7.01,
+   "chord": "E:min"
+  },
+  {
+   "start": 7.01,
+   "end": 10.42,
+   "chord": "C:maj"
+  },
+  {
+   "start": 10.42,
+   "end": 18.89,
+   "chord": "E:min"
+  },
+  {
+   "start": 18.89,
+   "end": 22.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 22.4,
+   "end": 27.63,
+   "chord": "E:min"
+  },
+  {
+   "start": 27.63,
+   "end": 31.11,
+   "chord": "C:maj"
+  },
+  {
+   "start": 31.11,
+   "end": 32.85,
+   "chord": "E:min7"
+  },
+  {
+   "start": 32.85,
+   "end": 34.59,
+   "chord": "E:min6"
+  },
+  {
+   "start": 34.59,
+   "end": 36.29,
+   "chord": "C:maj"
+  },
+  {
+   "start": 36.29,
+   "end": 38.07,
+   "chord": "E:min"
+  },
+  {
+   "start": 38.07,
+   "end": 39.81,
+   "chord": "E:min7"
+  },
+  {
+   "start": 39.81,
+   "end": 41.51,
+   "chord": "E:min6"
+  },
+  {
+   "start": 41.51,
+   "end": 43.25,
+   "chord": "C:maj"
+  },
+  {
+   "start": 43.25,
+   "end": 50.14,
+   "chord": "E:min"
+  },
+  {
+   "start": 50.14,
+   "end": 53.62,
+   "chord": "C:maj"
+  },
+  {
+   "start": 53.62,
+   "end": 58.84,
+   "chord": "E:min"
+  },
+  {
+   "start": 58.84,
+   "end": 62.29,
+   "chord": "C:maj"
+  },
+  {
+   "start": 62.29,
+   "end": 64.03,
+   "chord": "E:min7"
+  },
+  {
+   "start": 64.03,
+   "end": 65.77,
+   "chord": "E:min6"
+  },
+  {
+   "start": 65.77,
+   "end": 67.51,
+   "chord": "C:maj"
+  },
+  {
+   "start": 67.51,
+   "end": 69.25,
+   "chord": "E:min"
+  },
+  {
+   "start": 69.25,
+   "end": 70.95,
+   "chord": "E:min7"
+  },
+  {
+   "start": 70.95,
+   "end": 72.69,
+   "chord": "E:min6"
+  },
+  {
+   "start": 72.69,
+   "end": 74.43,
+   "chord": "C:maj"
+  },
+  {
+   "start": 74.43,
+   "end": 76.19,
+   "chord": "E:min"
+  },
+  {
+   "start": 76.19,
+   "end": 79.67,
+   "chord": "C:maj"
+  },
+  {
+   "start": 79.67,
+   "end": 83.11,
+   "chord": "E:min"
+  },
+  {
+   "start": 83.11,
+   "end": 86.58,
+   "chord": "C:maj"
+  },
+  {
+   "start": 86.58,
+   "end": 95.24,
+   "chord": "E:min"
+  },
+  {
+   "start": 95.24,
+   "end": 98.71,
+   "chord": "C:maj"
+  },
+  {
+   "start": 98.71,
+   "end": 103.9,
+   "chord": "E:min"
+  },
+  {
+   "start": 103.9,
+   "end": 107.38,
+   "chord": "C:maj"
+  },
+  {
+   "start": 107.38,
+   "end": 109.12,
+   "chord": "E:min7"
+  },
+  {
+   "start": 109.12,
+   "end": 110.89,
+   "chord": "E:min6"
+  },
+  {
+   "start": 110.89,
+   "end": 112.57,
+   "chord": "C:maj"
+  },
+  {
+   "start": 112.57,
+   "end": 114.31,
+   "chord": "E:min"
+  },
+  {
+   "start": 114.31,
+   "end": 116.05,
+   "chord": "E:min7"
+  },
+  {
+   "start": 116.05,
+   "end": 117.78,
+   "chord": "E:min6"
+  },
+  {
+   "start": 117.78,
+   "end": 119.51,
+   "chord": "C:maj"
+  },
+  {
+   "start": 119.51,
+   "end": 122.99,
+   "chord": "E:min"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "violin",
+   "start": 0.0,
+   "end": 203.0
+  },
+  {
+   "name": "viola",
+   "start": 0.0,
+   "end": 203.0
+  },
+  {
+   "name": "cello",
+   "start": 0.0,
+   "end": 203.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Ah, look at all the lonely people"
+  },
+  {
+   "start": 7.01,
+   "end": 12.1,
+   "text": "Ah, look at all the lonely people"
+  },
+  {
+   "start": 13.88,
+   "end": 19.65,
+   "text": "Eleanor Rigby, picks up the rice in the church where a wedding has been"
+  },
+  {
+   "start": 20.89,
+   "end": 22.4,
+   "text": "Lives in a dream"
+  },
+  {
+   "start": 22.8,
+   "end": 28.5,
+   "text": "Waits at the window, wearing the face that she keeps in a jar by the door"
+  },
+  {
+   "start": 29.55,
+   "end": 31.11,
+   "text": "Who is it for?"
+  },
+  {
+   "start": 31.11,
+   "end": 34.59,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 34.59,
+   "end": 37.5,
+   "text": "Where do they all come from?"
+  },
+  {
+   "start": 38.07,
+   "end": 41.51,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 41.51,
+   "end": 44.5,
+   "text": "Where do they all belong?"
+  },
+  {
+   "start": 45.1,
+   "end": 50.8,
+   "text": "Father McKenzie, writing the words of a sermon that no one will hear"
+  },
+  {
+   "start": 51.9,
+   "end": 53.62,
+   "text": "No one comes near"
+  },
+  {
+   "start": 53.9,
+   "end": 59.5,
+   "text": "Look at him working, darning his socks in the night when there's nobody there"
+  },
+  {
+   "start": 60.5,
+   "end": 62.29,
+   "text": "What does he care?"
+  },
+  {
+   "start": 62.29,
+   "end": 65.77,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 65.77,
+   "end": 68.5,
+   "text": "Where do they all come from?"
+  },
+  {
+   "start": 69.25,
+   "end": 72.69,
+   "text": "All the lonely people"
+  },
+  {
+   "start": 72.69,
+   "end": 75.5,
+   "text": "Where do they all belong?"
+  },
+  {
+   "start": 76.19,
+   "end": 81.3,
+   "text": "Ah, look at all the lonely people"
+  },
+  {
+   "start": 83.11,
+   "end": 88.2,
+   "text": "Ah, look at all the lonely people"
+  },
+  {
+   "start": 90.0,
+   "end": 95.8,
+   "text": "Eleanor Rigby, died in the church and was buried along with her name"
+  },
+  {
+   "start": 97.0,
+   "end": 98.71,
+   "text": "Nobody came"
+  },
+  {
+   "start": 99.0,
+   "end": 104.8,
+   "text": "Father McKenzie, wiping the dirt from his hands as he walks from the grave"
+  },
+  {
+   "start": 105.7,
+   "end": 107.38,
+   "text": "No one was saved"
+  },
+  {
+   "start": 107.38,
+   "end": 110.89,
+   "text": "All the lonely people (Ah, look at all the lonely people)"
+  },
+  {
+   "start": 110.89,
+   "end": 113.8,
+   "text": "Where do they all come from?"
+  },
+  {
+   "start": 114.31,
+   "end": 117.78,
+   "text": "All the lonely people (Ah, look at all the lonely people)"
+  },
+  {
+   "start": 117.78,
+   "end": 120.8,
+   "text": "Where do they all belong?"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 2221,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 2221
+   }
+  ],
+  "prompt_token_count": 4369,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 591
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 3778
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 6590,
+  "traffic_type": null
+ }
+}

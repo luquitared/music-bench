@@ -1,0 +1,594 @@
+{
+ "bpm": 103,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 145.0,
+   "key": "A major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.48,
+   "chord": "A:maj"
+  },
+  {
+   "start": 2.48,
+   "end": 4.81,
+   "chord": "E:maj"
+  },
+  {
+   "start": 4.81,
+   "end": 7.14,
+   "chord": "A:maj"
+  },
+  {
+   "start": 7.14,
+   "end": 9.47,
+   "chord": "E:maj"
+  },
+  {
+   "start": 9.47,
+   "end": 10.63,
+   "chord": "A:maj"
+  },
+  {
+   "start": 10.63,
+   "end": 11.8,
+   "chord": "E:maj"
+  },
+  {
+   "start": 11.8,
+   "end": 12.96,
+   "chord": "F#:min"
+  },
+  {
+   "start": 12.96,
+   "end": 14.13,
+   "chord": "A:7"
+  },
+  {
+   "start": 14.13,
+   "end": 15.29,
+   "chord": "D:maj"
+  },
+  {
+   "start": 15.29,
+   "end": 16.46,
+   "chord": "D:min"
+  },
+  {
+   "start": 16.46,
+   "end": 19.95,
+   "chord": "A:maj"
+  },
+  {
+   "start": 19.95,
+   "end": 21.12,
+   "chord": "E:maj"
+  },
+  {
+   "start": 21.12,
+   "end": 22.28,
+   "chord": "F#:min"
+  },
+  {
+   "start": 22.28,
+   "end": 23.45,
+   "chord": "A:7"
+  },
+  {
+   "start": 23.45,
+   "end": 24.61,
+   "chord": "D:maj"
+  },
+  {
+   "start": 24.61,
+   "end": 25.78,
+   "chord": "D:min"
+  },
+  {
+   "start": 25.78,
+   "end": 28.11,
+   "chord": "A:maj"
+  },
+  {
+   "start": 28.11,
+   "end": 30.44,
+   "chord": "F#:min"
+  },
+  {
+   "start": 30.44,
+   "end": 32.77,
+   "chord": "D:maj"
+  },
+  {
+   "start": 32.77,
+   "end": 35.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 35.1,
+   "end": 37.43,
+   "chord": "A:maj"
+  },
+  {
+   "start": 37.43,
+   "end": 39.76,
+   "chord": "F#:min"
+  },
+  {
+   "start": 39.76,
+   "end": 42.09,
+   "chord": "B:7"
+  },
+  {
+   "start": 42.09,
+   "end": 44.42,
+   "chord": "D:min"
+  },
+  {
+   "start": 44.42,
+   "end": 49.08,
+   "chord": "A:maj"
+  },
+  {
+   "start": 49.08,
+   "end": 51.41,
+   "chord": "E:maj"
+  },
+  {
+   "start": 51.41,
+   "end": 52.57,
+   "chord": "A:maj"
+  },
+  {
+   "start": 52.57,
+   "end": 53.74,
+   "chord": "E:maj"
+  },
+  {
+   "start": 53.74,
+   "end": 54.9,
+   "chord": "F#:min"
+  },
+  {
+   "start": 54.9,
+   "end": 56.07,
+   "chord": "A:7"
+  },
+  {
+   "start": 56.07,
+   "end": 57.23,
+   "chord": "D:maj"
+  },
+  {
+   "start": 57.23,
+   "end": 58.4,
+   "chord": "D:min"
+  },
+  {
+   "start": 58.4,
+   "end": 61.89,
+   "chord": "A:maj"
+  },
+  {
+   "start": 61.89,
+   "end": 63.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 63.06,
+   "end": 64.22,
+   "chord": "F#:min"
+  },
+  {
+   "start": 64.22,
+   "end": 65.39,
+   "chord": "A:7"
+  },
+  {
+   "start": 65.39,
+   "end": 66.55,
+   "chord": "D:maj"
+  },
+  {
+   "start": 66.55,
+   "end": 67.72,
+   "chord": "D:min"
+  },
+  {
+   "start": 67.72,
+   "end": 70.05,
+   "chord": "A:maj"
+  },
+  {
+   "start": 70.05,
+   "end": 72.38,
+   "chord": "F#:min"
+  },
+  {
+   "start": 72.38,
+   "end": 74.71,
+   "chord": "D:maj"
+  },
+  {
+   "start": 74.71,
+   "end": 77.04,
+   "chord": "G:maj"
+  },
+  {
+   "start": 77.04,
+   "end": 79.37,
+   "chord": "A:maj"
+  },
+  {
+   "start": 79.37,
+   "end": 81.7,
+   "chord": "F#:min"
+  },
+  {
+   "start": 81.7,
+   "end": 84.03,
+   "chord": "B:7"
+  },
+  {
+   "start": 84.03,
+   "end": 86.36,
+   "chord": "D:min"
+  },
+  {
+   "start": 86.36,
+   "end": 89.85,
+   "chord": "A:maj"
+  },
+  {
+   "start": 89.85,
+   "end": 91.02,
+   "chord": "E:maj"
+  },
+  {
+   "start": 91.02,
+   "end": 92.18,
+   "chord": "F#:min"
+  },
+  {
+   "start": 92.18,
+   "end": 93.35,
+   "chord": "A:7"
+  },
+  {
+   "start": 93.35,
+   "end": 94.51,
+   "chord": "D:maj"
+  },
+  {
+   "start": 94.51,
+   "end": 95.68,
+   "chord": "D:min"
+  },
+  {
+   "start": 95.68,
+   "end": 99.17,
+   "chord": "A:maj"
+  },
+  {
+   "start": 99.17,
+   "end": 100.34,
+   "chord": "E:maj"
+  },
+  {
+   "start": 100.34,
+   "end": 101.5,
+   "chord": "F#:min"
+  },
+  {
+   "start": 101.5,
+   "end": 102.67,
+   "chord": "A:7"
+  },
+  {
+   "start": 102.67,
+   "end": 103.83,
+   "chord": "D:maj"
+  },
+  {
+   "start": 103.83,
+   "end": 105.0,
+   "chord": "D:min"
+  },
+  {
+   "start": 105.0,
+   "end": 107.33,
+   "chord": "A:maj"
+  },
+  {
+   "start": 107.33,
+   "end": 109.66,
+   "chord": "F#:min"
+  },
+  {
+   "start": 109.66,
+   "end": 111.99,
+   "chord": "D:maj"
+  },
+  {
+   "start": 111.99,
+   "end": 114.32,
+   "chord": "G:maj"
+  },
+  {
+   "start": 114.32,
+   "end": 116.65,
+   "chord": "A:maj"
+  },
+  {
+   "start": 116.65,
+   "end": 118.98,
+   "chord": "F#:min"
+  },
+  {
+   "start": 118.98,
+   "end": 121.31,
+   "chord": "B:7"
+  },
+  {
+   "start": 121.31,
+   "end": 123.64,
+   "chord": "D:min"
+  },
+  {
+   "start": 123.64,
+   "end": 128.3,
+   "chord": "A:maj"
+  },
+  {
+   "start": 128.3,
+   "end": 130.5,
+   "chord": "E:maj"
+  },
+  {
+   "start": 130.5,
+   "end": 135.2,
+   "chord": "D:min"
+  },
+  {
+   "start": 135.2,
+   "end": 137.55,
+   "chord": "A:maj"
+  },
+  {
+   "start": 137.55,
+   "end": 139.9,
+   "chord": "E:maj"
+  },
+  {
+   "start": 139.9,
+   "end": 143.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 143.8,
+   "end": 145.0,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "electric guitar",
+   "start": 0.0,
+   "end": 143.8
+  },
+  {
+   "name": "bass guitar",
+   "start": 0.0,
+   "end": 143.5
+  },
+  {
+   "name": "vocals",
+   "start": 8.3,
+   "end": 45.9
+  },
+  {
+   "name": "backing vocals",
+   "start": 8.3,
+   "end": 45.9
+  },
+  {
+   "name": "drums",
+   "start": 9.2,
+   "end": 130.3
+  },
+  {
+   "name": "tambourine",
+   "start": 9.4,
+   "end": 130.0
+  },
+  {
+   "name": "acoustic guitar",
+   "start": 9.4,
+   "end": 130.2
+  },
+  {
+   "name": "vocals",
+   "start": 50.5,
+   "end": 87.9
+  },
+  {
+   "name": "backing vocals",
+   "start": 50.5,
+   "end": 87.9
+  },
+  {
+   "name": "piano",
+   "start": 88.7,
+   "end": 107.3
+  },
+  {
+   "name": "vocals",
+   "start": 106.7,
+   "end": 125.2
+  },
+  {
+   "name": "backing vocals",
+   "start": 106.7,
+   "end": 125.2
+  },
+  {
+   "name": "vocals",
+   "start": 130.0,
+   "end": 136.2
+  },
+  {
+   "name": "backing vocals",
+   "start": 130.0,
+   "end": 136.2
+  },
+  {
+   "name": "drums",
+   "start": 135.2,
+   "end": 140.5
+  },
+  {
+   "name": "acoustic guitar",
+   "start": 135.2,
+   "end": 142.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 8.3,
+   "end": 12.6,
+   "text": "There are places I remember"
+  },
+  {
+   "start": 13.2,
+   "end": 17.4,
+   "text": "All my life, though some have changed"
+  },
+  {
+   "start": 17.9,
+   "end": 22.0,
+   "text": "Some forever, not for better"
+  },
+  {
+   "start": 22.5,
+   "end": 26.9,
+   "text": "Some have gone and some remain"
+  },
+  {
+   "start": 27.4,
+   "end": 31.7,
+   "text": "All these places have their moments"
+  },
+  {
+   "start": 32.2,
+   "end": 36.8,
+   "text": "With lovers and friends I still can recall"
+  },
+  {
+   "start": 36.9,
+   "end": 41.0,
+   "text": "Some are dead and some are living"
+  },
+  {
+   "start": 41.8,
+   "end": 45.9,
+   "text": "In my life I've loved them all"
+  },
+  {
+   "start": 50.5,
+   "end": 54.7,
+   "text": "But of all these friends and lovers"
+  },
+  {
+   "start": 55.1,
+   "end": 59.5,
+   "text": "There is no one compares with you"
+  },
+  {
+   "start": 60.0,
+   "end": 64.2,
+   "text": "And these memories lose their meaning"
+  },
+  {
+   "start": 64.7,
+   "end": 69.1,
+   "text": "When I think of love as something new"
+  },
+  {
+   "start": 69.4,
+   "end": 73.7,
+   "text": "Though I know I'll never lose affection"
+  },
+  {
+   "start": 74.2,
+   "end": 78.6,
+   "text": "For people and things that went before"
+  },
+  {
+   "start": 79.0,
+   "end": 83.2,
+   "text": "I know I'll often stop and think about them"
+  },
+  {
+   "start": 83.8,
+   "end": 87.9,
+   "text": "In my life I love you more"
+  },
+  {
+   "start": 106.7,
+   "end": 111.0,
+   "text": "Though I know I'll never lose affection"
+  },
+  {
+   "start": 111.5,
+   "end": 115.9,
+   "text": "For people and things that went before"
+  },
+  {
+   "start": 116.3,
+   "end": 120.5,
+   "text": "I know I'll often stop and think about them"
+  },
+  {
+   "start": 121.0,
+   "end": 125.2,
+   "text": "In my life I love you more"
+  },
+  {
+   "start": 130.0,
+   "end": 136.2,
+   "text": "In my life I love you more"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 4502,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 4502
+   }
+  ],
+  "prompt_token_count": 5053,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 635
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 4418
+   }
+  ],
+  "thoughts_token_count": 9873,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 19428,
+  "traffic_type": null
+ }
+}

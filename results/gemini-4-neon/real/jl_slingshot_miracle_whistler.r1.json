@@ -1,0 +1,629 @@
+{
+ "bpm": 116,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 229.0,
+   "key": "G major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.07,
+   "chord": "N"
+  },
+  {
+   "start": 2.07,
+   "end": 6.22,
+   "chord": "G:maj"
+  },
+  {
+   "start": 6.22,
+   "end": 10.37,
+   "chord": "B:min"
+  },
+  {
+   "start": 10.37,
+   "end": 12.45,
+   "chord": "C:maj"
+  },
+  {
+   "start": 12.45,
+   "end": 14.52,
+   "chord": "G:maj"
+  },
+  {
+   "start": 14.52,
+   "end": 18.67,
+   "chord": "D:maj"
+  },
+  {
+   "start": 18.67,
+   "end": 22.82,
+   "chord": "G:maj"
+  },
+  {
+   "start": 22.82,
+   "end": 26.97,
+   "chord": "B:min"
+  },
+  {
+   "start": 26.97,
+   "end": 29.05,
+   "chord": "C:maj"
+  },
+  {
+   "start": 29.05,
+   "end": 31.12,
+   "chord": "G:maj"
+  },
+  {
+   "start": 31.12,
+   "end": 35.27,
+   "chord": "D:maj"
+  },
+  {
+   "start": 35.27,
+   "end": 39.42,
+   "chord": "G:maj"
+  },
+  {
+   "start": 39.42,
+   "end": 43.57,
+   "chord": "B:min"
+  },
+  {
+   "start": 43.57,
+   "end": 45.65,
+   "chord": "C:maj"
+  },
+  {
+   "start": 45.65,
+   "end": 47.72,
+   "chord": "G:maj"
+  },
+  {
+   "start": 47.72,
+   "end": 51.87,
+   "chord": "D:maj"
+  },
+  {
+   "start": 51.87,
+   "end": 53.95,
+   "chord": "G:maj"
+  },
+  {
+   "start": 53.95,
+   "end": 56.02,
+   "chord": "C:maj"
+  },
+  {
+   "start": 56.02,
+   "end": 58.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 58.1,
+   "end": 60.17,
+   "chord": "D:maj"
+  },
+  {
+   "start": 60.17,
+   "end": 62.25,
+   "chord": "E:min"
+  },
+  {
+   "start": 62.25,
+   "end": 64.32,
+   "chord": "C:maj"
+  },
+  {
+   "start": 64.32,
+   "end": 66.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 66.4,
+   "end": 70.55,
+   "chord": "D:maj"
+  },
+  {
+   "start": 70.55,
+   "end": 72.62,
+   "chord": "C:maj"
+  },
+  {
+   "start": 72.62,
+   "end": 74.7,
+   "chord": "G:maj"
+  },
+  {
+   "start": 74.7,
+   "end": 76.77,
+   "chord": "D:maj"
+  },
+  {
+   "start": 76.77,
+   "end": 78.85,
+   "chord": "E:min"
+  },
+  {
+   "start": 78.85,
+   "end": 80.92,
+   "chord": "C:maj"
+  },
+  {
+   "start": 80.92,
+   "end": 83.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 83.0,
+   "end": 87.15,
+   "chord": "D:maj"
+  },
+  {
+   "start": 87.15,
+   "end": 91.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 91.3,
+   "end": 95.45,
+   "chord": "B:min"
+  },
+  {
+   "start": 95.45,
+   "end": 97.52,
+   "chord": "C:maj"
+  },
+  {
+   "start": 97.52,
+   "end": 99.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 99.6,
+   "end": 103.75,
+   "chord": "D:maj"
+  },
+  {
+   "start": 103.75,
+   "end": 107.9,
+   "chord": "G:maj"
+  },
+  {
+   "start": 107.9,
+   "end": 112.05,
+   "chord": "B:min"
+  },
+  {
+   "start": 112.05,
+   "end": 114.12,
+   "chord": "C:maj"
+  },
+  {
+   "start": 114.12,
+   "end": 116.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 116.2,
+   "end": 120.35,
+   "chord": "D:maj"
+  },
+  {
+   "start": 120.35,
+   "end": 122.42,
+   "chord": "G:maj"
+  },
+  {
+   "start": 122.42,
+   "end": 124.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 124.5,
+   "end": 126.57,
+   "chord": "G:maj"
+  },
+  {
+   "start": 126.57,
+   "end": 128.65,
+   "chord": "D:maj"
+  },
+  {
+   "start": 128.65,
+   "end": 130.72,
+   "chord": "E:min"
+  },
+  {
+   "start": 130.72,
+   "end": 132.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 132.8,
+   "end": 134.87,
+   "chord": "G:maj"
+  },
+  {
+   "start": 134.87,
+   "end": 139.02,
+   "chord": "D:maj"
+  },
+  {
+   "start": 139.02,
+   "end": 141.1,
+   "chord": "C:maj"
+  },
+  {
+   "start": 141.1,
+   "end": 143.17,
+   "chord": "G:maj"
+  },
+  {
+   "start": 143.17,
+   "end": 145.25,
+   "chord": "D:maj"
+  },
+  {
+   "start": 145.25,
+   "end": 147.32,
+   "chord": "E:min"
+  },
+  {
+   "start": 147.32,
+   "end": 149.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 149.4,
+   "end": 151.47,
+   "chord": "G:maj"
+  },
+  {
+   "start": 151.47,
+   "end": 155.62,
+   "chord": "D:maj"
+  },
+  {
+   "start": 155.62,
+   "end": 159.77,
+   "chord": "G:maj"
+  },
+  {
+   "start": 159.77,
+   "end": 163.92,
+   "chord": "B:min"
+  },
+  {
+   "start": 163.92,
+   "end": 166.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 166.0,
+   "end": 168.07,
+   "chord": "G:maj"
+  },
+  {
+   "start": 168.07,
+   "end": 172.22,
+   "chord": "D:maj"
+  },
+  {
+   "start": 172.22,
+   "end": 176.37,
+   "chord": "G:maj"
+  },
+  {
+   "start": 176.37,
+   "end": 180.52,
+   "chord": "B:min"
+  },
+  {
+   "start": 180.52,
+   "end": 182.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 182.6,
+   "end": 184.67,
+   "chord": "G:maj"
+  },
+  {
+   "start": 184.67,
+   "end": 190.9,
+   "chord": "D:maj"
+  },
+  {
+   "start": 190.9,
+   "end": 195.05,
+   "chord": "G:maj"
+  },
+  {
+   "start": 195.05,
+   "end": 199.2,
+   "chord": "B:min"
+  },
+  {
+   "start": 199.2,
+   "end": 201.27,
+   "chord": "C:maj"
+  },
+  {
+   "start": 201.27,
+   "end": 203.35,
+   "chord": "G:maj"
+  },
+  {
+   "start": 203.35,
+   "end": 207.5,
+   "chord": "D:maj"
+  },
+  {
+   "start": 207.5,
+   "end": 211.65,
+   "chord": "G:maj"
+  },
+  {
+   "start": 211.65,
+   "end": 215.8,
+   "chord": "B:min"
+  },
+  {
+   "start": 215.8,
+   "end": 217.87,
+   "chord": "C:maj"
+  },
+  {
+   "start": 217.87,
+   "end": 219.95,
+   "chord": "G:maj"
+  },
+  {
+   "start": 219.95,
+   "end": 224.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 224.0,
+   "end": 228.8,
+   "chord": "G:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "electric guitar",
+   "start": 0.7,
+   "end": 228.8
+  },
+  {
+   "name": "drums",
+   "start": 1.6,
+   "end": 228.0
+  },
+  {
+   "name": "bass guitar",
+   "start": 2.07,
+   "end": 228.5
+  },
+  {
+   "name": "acoustic guitar",
+   "start": 2.07,
+   "end": 228.5
+  },
+  {
+   "name": "organ",
+   "start": 18.67,
+   "end": 228.8
+  },
+  {
+   "name": "vocals",
+   "start": 18.3,
+   "end": 120.5
+  },
+  {
+   "name": "vocals",
+   "start": 138.8,
+   "end": 224.2
+  },
+  {
+   "name": "backing vocals",
+   "start": 27.0,
+   "end": 120.5
+  },
+  {
+   "name": "backing vocals",
+   "start": 138.8,
+   "end": 224.2
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 18.3,
+   "end": 22.4,
+   "text": "He's a whistler when the wind blows"
+  },
+  {
+   "start": 22.6,
+   "end": 26.5,
+   "text": "Keeps it simple, only whole notes"
+  },
+  {
+   "start": 27.0,
+   "end": 33.5,
+   "text": "Plays his hollow tune effortlessly"
+  },
+  {
+   "start": 35.0,
+   "end": 39.0,
+   "text": "He just sits there in limbo"
+  },
+  {
+   "start": 39.3,
+   "end": 43.3,
+   "text": "Doesn't listen for the blowholes"
+  },
+  {
+   "start": 43.6,
+   "end": 51.8,
+   "text": "Curtains waver, the old refrain repeats"
+  },
+  {
+   "start": 53.5,
+   "end": 57.5,
+   "text": "A penny for a thought"
+  },
+  {
+   "start": 57.6,
+   "end": 61.5,
+   "text": "For pounds of flesh he bought"
+  },
+  {
+   "start": 62.0,
+   "end": 69.0,
+   "text": "A peso for what not to confess here"
+  },
+  {
+   "start": 70.3,
+   "end": 74.2,
+   "text": "The last shall be the first"
+  },
+  {
+   "start": 74.5,
+   "end": 78.5,
+   "text": "The wordlessly coerced"
+  },
+  {
+   "start": 79.0,
+   "end": 85.8,
+   "text": "Death is not the worst atrocity"
+  },
+  {
+   "start": 87.0,
+   "end": 91.0,
+   "text": "There's a hissing through the window"
+  },
+  {
+   "start": 91.2,
+   "end": 95.3,
+   "text": "Like a twisted virtuoso"
+  },
+  {
+   "start": 95.8,
+   "end": 102.5,
+   "text": "Warning of a storm brewing again"
+  },
+  {
+   "start": 103.6,
+   "end": 107.7,
+   "text": "To the victor goes the intro"
+  },
+  {
+   "start": 107.9,
+   "end": 112.0,
+   "text": "Full of whispered innuendo"
+  },
+  {
+   "start": 112.4,
+   "end": 120.5,
+   "text": "A time once more for a paranoid crusade"
+  },
+  {
+   "start": 138.8,
+   "end": 142.8,
+   "text": "The past shall be reversed"
+  },
+  {
+   "start": 143.0,
+   "end": 147.0,
+   "text": "The dead not so accursed"
+  },
+  {
+   "start": 147.4,
+   "end": 154.5,
+   "text": "A universe rehearsed in tragedy"
+  },
+  {
+   "start": 155.4,
+   "end": 159.5,
+   "text": "He's a whistler, he's a widow"
+  },
+  {
+   "start": 159.8,
+   "end": 163.8,
+   "text": "Doesn't miss her, plays it solo"
+  },
+  {
+   "start": 164.4,
+   "end": 171.0,
+   "text": "Blissfully ignoring his instinct"
+  },
+  {
+   "start": 172.0,
+   "end": 176.2,
+   "text": "Tears bitter on a pillow"
+  },
+  {
+   "start": 176.5,
+   "end": 180.5,
+   "text": "Makes his mission not to know more"
+  },
+  {
+   "start": 181.0,
+   "end": 188.5,
+   "text": "Curtains flutter, the old refrain repeats"
+  },
+  {
+   "start": 191.2,
+   "end": 198.8,
+   "text": "Yeah, he's a whistler"
+  },
+  {
+   "start": 207.0,
+   "end": 211.2,
+   "text": "He's a whistler"
+  },
+  {
+   "start": 211.4,
+   "end": 215.5,
+   "text": "He's a whistler"
+  },
+  {
+   "start": 216.0,
+   "end": 224.2,
+   "text": "Oh"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 3940,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 3940
+   }
+  ],
+  "prompt_token_count": 7681,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 799
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 6882
+   }
+  ],
+  "thoughts_token_count": 20546,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 32167,
+  "traffic_type": null
+ }
+}

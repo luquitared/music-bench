@@ -1,0 +1,889 @@
+{
+ "bpm": 83,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 330.0,
+   "key": "Eb major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.67,
+   "chord": "C:min7"
+  },
+  {
+   "start": 0.67,
+   "end": 1.72,
+   "chord": "D:min7"
+  },
+  {
+   "start": 1.72,
+   "end": 3.09,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 3.09,
+   "end": 3.59,
+   "chord": "F:min"
+  },
+  {
+   "start": 3.59,
+   "end": 4.65,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 4.65,
+   "end": 5.95,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 5.95,
+   "end": 6.62,
+   "chord": "C:min7"
+  },
+  {
+   "start": 6.62,
+   "end": 7.67,
+   "chord": "D:min7"
+  },
+  {
+   "start": 7.67,
+   "end": 8.91,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 8.91,
+   "end": 9.39,
+   "chord": "F:min"
+  },
+  {
+   "start": 9.39,
+   "end": 10.42,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 10.42,
+   "end": 11.71,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 11.71,
+   "end": 12.23,
+   "chord": "C:min"
+  },
+  {
+   "start": 12.23,
+   "end": 13.28,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 13.28,
+   "end": 14.54,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 14.54,
+   "end": 15.05,
+   "chord": "F:min"
+  },
+  {
+   "start": 15.05,
+   "end": 16.05,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 16.05,
+   "end": 17.34,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 17.34,
+   "end": 17.99,
+   "chord": "C:min"
+  },
+  {
+   "start": 17.99,
+   "end": 19.01,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 19.01,
+   "end": 20.32,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 20.32,
+   "end": 20.79,
+   "chord": "F:min"
+  },
+  {
+   "start": 20.79,
+   "end": 21.84,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 21.84,
+   "end": 23.09,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 23.09,
+   "end": 28.86,
+   "chord": "C:min"
+  },
+  {
+   "start": 28.86,
+   "end": 34.47,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 34.47,
+   "end": 37.33,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 37.33,
+   "end": 40.31,
+   "chord": "G:min"
+  },
+  {
+   "start": 40.31,
+   "end": 43.1,
+   "chord": "F:min"
+  },
+  {
+   "start": 43.1,
+   "end": 51.78,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 51.78,
+   "end": 52.35,
+   "chord": "F:min"
+  },
+  {
+   "start": 52.35,
+   "end": 53.47,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 53.47,
+   "end": 54.68,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 54.68,
+   "end": 55.34,
+   "chord": "C:min"
+  },
+  {
+   "start": 55.34,
+   "end": 56.41,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 56.41,
+   "end": 57.56,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 57.56,
+   "end": 58.13,
+   "chord": "F:min"
+  },
+  {
+   "start": 58.13,
+   "end": 59.17,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 59.17,
+   "end": 60.41,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 60.41,
+   "end": 63.16,
+   "chord": "C:min"
+  },
+  {
+   "start": 63.16,
+   "end": 66.22,
+   "chord": "N"
+  },
+  {
+   "start": 66.22,
+   "end": 71.75,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 71.75,
+   "end": 74.68,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 74.68,
+   "end": 77.69,
+   "chord": "G:min"
+  },
+  {
+   "start": 77.69,
+   "end": 80.58,
+   "chord": "F:min"
+  },
+  {
+   "start": 80.58,
+   "end": 88.99,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 88.99,
+   "end": 92.11,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 92.11,
+   "end": 94.92,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 94.92,
+   "end": 97.79,
+   "chord": "F:min"
+  },
+  {
+   "start": 97.79,
+   "end": 100.64,
+   "chord": "C:min"
+  },
+  {
+   "start": 100.64,
+   "end": 103.56,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 103.56,
+   "end": 106.42,
+   "chord": "F:min"
+  },
+  {
+   "start": 106.42,
+   "end": 109.25,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 109.25,
+   "end": 112.15,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 112.15,
+   "end": 112.83,
+   "chord": "C:min"
+  },
+  {
+   "start": 112.83,
+   "end": 113.86,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 113.86,
+   "end": 115.05,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 115.05,
+   "end": 115.63,
+   "chord": "F:min"
+  },
+  {
+   "start": 115.63,
+   "end": 116.71,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 116.71,
+   "end": 118.01,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 118.01,
+   "end": 118.6,
+   "chord": "C:min"
+  },
+  {
+   "start": 118.6,
+   "end": 119.56,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 119.56,
+   "end": 120.73,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 120.73,
+   "end": 121.37,
+   "chord": "F:min"
+  },
+  {
+   "start": 121.37,
+   "end": 122.41,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 122.41,
+   "end": 123.75,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 123.75,
+   "end": 126.44,
+   "chord": "F:min"
+  },
+  {
+   "start": 126.44,
+   "end": 129.36,
+   "chord": "C:min"
+  },
+  {
+   "start": 129.36,
+   "end": 132.16,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 132.16,
+   "end": 133.54,
+   "chord": "F:min"
+  },
+  {
+   "start": 133.54,
+   "end": 135.14,
+   "chord": "C:min"
+  },
+  {
+   "start": 135.14,
+   "end": 138.04,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 138.04,
+   "end": 139.47,
+   "chord": "G:min7"
+  },
+  {
+   "start": 139.47,
+   "end": 141.48,
+   "chord": "C:min"
+  },
+  {
+   "start": 141.48,
+   "end": 142.67,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 142.67,
+   "end": 143.73,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 143.73,
+   "end": 144.36,
+   "chord": "F:min"
+  },
+  {
+   "start": 144.36,
+   "end": 145.39,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 145.39,
+   "end": 146.76,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 146.76,
+   "end": 147.27,
+   "chord": "C:min"
+  },
+  {
+   "start": 147.27,
+   "end": 148.3,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 148.3,
+   "end": 149.41,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 149.41,
+   "end": 150.11,
+   "chord": "F:min"
+  },
+  {
+   "start": 150.11,
+   "end": 151.17,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 151.17,
+   "end": 152.34,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 152.34,
+   "end": 155.34,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 155.34,
+   "end": 158.13,
+   "chord": "G:min"
+  },
+  {
+   "start": 158.13,
+   "end": 161.01,
+   "chord": "F:min"
+  },
+  {
+   "start": 161.01,
+   "end": 166.7,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 166.7,
+   "end": 169.67,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 169.67,
+   "end": 172.51,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 172.51,
+   "end": 175.43,
+   "chord": "F:min"
+  },
+  {
+   "start": 175.43,
+   "end": 178.18,
+   "chord": "C:min"
+  },
+  {
+   "start": 178.18,
+   "end": 181.14,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 181.14,
+   "end": 184.08,
+   "chord": "F:min"
+  },
+  {
+   "start": 184.08,
+   "end": 186.95,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 186.95,
+   "end": 189.76,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 189.76,
+   "end": 190.48,
+   "chord": "C:min"
+  },
+  {
+   "start": 190.48,
+   "end": 191.47,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 191.47,
+   "end": 192.6,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 192.6,
+   "end": 193.19,
+   "chord": "F:min"
+  },
+  {
+   "start": 193.19,
+   "end": 194.28,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 194.28,
+   "end": 195.5,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 195.5,
+   "end": 196.14,
+   "chord": "C:min"
+  },
+  {
+   "start": 196.14,
+   "end": 197.14,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 197.14,
+   "end": 198.48,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 198.48,
+   "end": 198.97,
+   "chord": "F:min"
+  },
+  {
+   "start": 198.97,
+   "end": 199.98,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 199.98,
+   "end": 201.21,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 201.21,
+   "end": 201.84,
+   "chord": "C:min"
+  },
+  {
+   "start": 201.84,
+   "end": 202.98,
+   "chord": "D:min"
+  },
+  {
+   "start": 202.98,
+   "end": 203.65,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 203.65,
+   "end": 204.22,
+   "chord": "F:maj"
+  },
+  {
+   "start": 204.22,
+   "end": 204.88,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 204.88,
+   "end": 205.27,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 205.27,
+   "end": 227.54,
+   "chord": "C:maj"
+  },
+  {
+   "start": 227.54,
+   "end": 230.0,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0.0,
+   "end": 11.71
+  },
+  {
+   "name": "male vocal",
+   "start": 10.42,
+   "end": 11.71
+  },
+  {
+   "name": "drum kit",
+   "start": 11.71,
+   "end": 230.0
+  },
+  {
+   "name": "bass guitar",
+   "start": 11.71,
+   "end": 63.16
+  },
+  {
+   "name": "electric guitar",
+   "start": 11.71,
+   "end": 230.0
+  },
+  {
+   "name": "synthesizer",
+   "start": 11.71,
+   "end": 51.78
+  },
+  {
+   "name": "male vocal",
+   "start": 22.8,
+   "end": 51.78
+  },
+  {
+   "name": "male vocal",
+   "start": 60.41,
+   "end": 112.15
+  },
+  {
+   "name": "synthesizer",
+   "start": 60.41,
+   "end": 112.15
+  },
+  {
+   "name": "bass guitar",
+   "start": 66.22,
+   "end": 230.0
+  },
+  {
+   "name": "saxophone",
+   "start": 113.5,
+   "end": 141.48
+  },
+  {
+   "name": "synthesizer",
+   "start": 123.75,
+   "end": 140.0
+  },
+  {
+   "name": "male vocal",
+   "start": 152.34,
+   "end": 191.47
+  },
+  {
+   "name": "piano",
+   "start": 152.34,
+   "end": 227.54
+  },
+  {
+   "name": "synthesizer",
+   "start": 152.34,
+   "end": 189.76
+  },
+  {
+   "name": "saxophone",
+   "start": 201.21,
+   "end": 227.54
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 10.42,
+   "end": 11.71,
+   "text": "wow"
+  },
+  {
+   "start": 22.8,
+   "end": 25.0,
+   "text": "Ich bin kein Tourist"
+  },
+  {
+   "start": 25.0,
+   "end": 28.0,
+   "text": "Ich dachte einmal"
+  },
+  {
+   "start": 28.0,
+   "end": 30.8,
+   "text": "dass das Ziel im Wege ist"
+  },
+  {
+   "start": 30.8,
+   "end": 34.47,
+   "text": "die Adresse egal"
+  },
+  {
+   "start": 34.47,
+   "end": 36.8,
+   "text": "Mit jedem Weg verliert man"
+  },
+  {
+   "start": 36.8,
+   "end": 39.8,
+   "text": "ein Herz und ein Jahr"
+  },
+  {
+   "start": 39.8,
+   "end": 42.1,
+   "text": "Das Herz w\u00e4chst nur langsam"
+  },
+  {
+   "start": 42.1,
+   "end": 45.2,
+   "text": "ein Jahr nie mehr nach"
+  },
+  {
+   "start": 45.2,
+   "end": 51.78,
+   "text": "Es w\u00e4chst nie mehr nach"
+  },
+  {
+   "start": 60.41,
+   "end": 63.16,
+   "text": "Morgen bin ich weg"
+  },
+  {
+   "start": 63.16,
+   "end": 65.8,
+   "text": "und du wei\u00dft, was das hei\u00dft"
+  },
+  {
+   "start": 65.8,
+   "end": 68.5,
+   "text": "drei, vier Koffer im Gep\u00e4ck"
+  },
+  {
+   "start": 68.5,
+   "end": 71.75,
+   "text": "aber nicht nur verreist"
+  },
+  {
+   "start": 71.75,
+   "end": 74.2,
+   "text": "Tief, tief im Westen"
+  },
+  {
+   "start": 74.2,
+   "end": 77.69,
+   "text": "ist es besser als man glaubt"
+  },
+  {
+   "start": 77.69,
+   "end": 80.2,
+   "text": "Doch ihr wisst am besten"
+  },
+  {
+   "start": 80.2,
+   "end": 83.2,
+   "text": "dass man nicht viel zu glauben braucht"
+  },
+  {
+   "start": 83.2,
+   "end": 88.99,
+   "text": "zu glauben braucht"
+  },
+  {
+   "start": 88.99,
+   "end": 94.0,
+   "text": "Liebe, Freiheit, Sex und Eifersucht"
+  },
+  {
+   "start": 94.0,
+   "end": 98.2,
+   "text": "sind gro\u00dfe Worte, meistens fett gedruckt"
+  },
+  {
+   "start": 98.2,
+   "end": 100.64,
+   "text": "Allein"
+  },
+  {
+   "start": 100.64,
+   "end": 106.42,
+   "text": "das Wort zu Hause steht ganz klein"
+  },
+  {
+   "start": 106.42,
+   "end": 108.5,
+   "text": "wei\u00df auf wei\u00df"
+  },
+  {
+   "start": 108.5,
+   "end": 112.15,
+   "text": "zwischen den Zeilen"
+  },
+  {
+   "start": 152.34,
+   "end": 153.8,
+   "text": "Matze, mach's gut"
+  },
+  {
+   "start": 153.8,
+   "end": 157.0,
+   "text": "ich schenk' dir mein Klavier"
+  },
+  {
+   "start": 157.0,
+   "end": 159.5,
+   "text": "so leid es mir tut"
+  },
+  {
+   "start": 159.5,
+   "end": 163.5,
+   "text": "es bleibt lieber hier"
+  },
+  {
+   "start": 163.5,
+   "end": 167.8,
+   "text": "bleibt lieber hier"
+  },
+  {
+   "start": 167.8,
+   "end": 172.0,
+   "text": "Liebe, Freiheit, Sex und Eifersucht"
+  },
+  {
+   "start": 172.0,
+   "end": 177.2,
+   "text": "sind gro\u00dfe Worte, meistens fett gedruckt"
+  },
+  {
+   "start": 177.2,
+   "end": 180.0,
+   "text": "Allein"
+  },
+  {
+   "start": 180.0,
+   "end": 185.0,
+   "text": "das Wort zu Hause steht ganz klein"
+  },
+  {
+   "start": 185.0,
+   "end": 187.5,
+   "text": "wei\u00df auf wei\u00df"
+  },
+  {
+   "start": 187.5,
+   "end": 191.47,
+   "text": "zwischen den Zeilen"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 5003,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 5003
+   }
+  ],
+  "prompt_token_count": 7086,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 761
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 6325
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 12089,
+  "traffic_type": null
+ }
+}

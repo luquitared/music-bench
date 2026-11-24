@@ -1,0 +1,694 @@
+{
+ "bpm": 66,
+ "time_signature": "3/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 124.21,
+   "key": "A major"
+  },
+  {
+   "start": 124.21,
+   "end": 203.0,
+   "key": "D minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.94,
+   "chord": "N"
+  },
+  {
+   "start": 0.94,
+   "end": 2.52,
+   "chord": "A:maj"
+  },
+  {
+   "start": 2.52,
+   "end": 4.09,
+   "chord": "A:maj"
+  },
+  {
+   "start": 4.09,
+   "end": 5.87,
+   "chord": "A:maj"
+  },
+  {
+   "start": 5.87,
+   "end": 7.4,
+   "chord": "D:maj"
+  },
+  {
+   "start": 7.4,
+   "end": 8.96,
+   "chord": "A:maj"
+  },
+  {
+   "start": 8.96,
+   "end": 10.71,
+   "chord": "E:maj"
+  },
+  {
+   "start": 10.71,
+   "end": 11.55,
+   "chord": "A:maj"
+  },
+  {
+   "start": 11.55,
+   "end": 12.38,
+   "chord": "D:maj"
+  },
+  {
+   "start": 12.38,
+   "end": 14.0,
+   "chord": "A:maj"
+  },
+  {
+   "start": 14.0,
+   "end": 17.34,
+   "chord": "A:maj"
+  },
+  {
+   "start": 17.34,
+   "end": 18.99,
+   "chord": "F#:min"
+  },
+  {
+   "start": 18.99,
+   "end": 20.6,
+   "chord": "D:maj"
+  },
+  {
+   "start": 20.6,
+   "end": 22.27,
+   "chord": "E:maj"
+  },
+  {
+   "start": 22.27,
+   "end": 25.37,
+   "chord": "A:maj"
+  },
+  {
+   "start": 25.37,
+   "end": 26.85,
+   "chord": "B:min"
+  },
+  {
+   "start": 26.85,
+   "end": 28.59,
+   "chord": "E:7"
+  },
+  {
+   "start": 28.59,
+   "end": 30.18,
+   "chord": "C#:min"
+  },
+  {
+   "start": 30.18,
+   "end": 31.8,
+   "chord": "F#:min"
+  },
+  {
+   "start": 31.8,
+   "end": 33.42,
+   "chord": "B:min"
+  },
+  {
+   "start": 33.42,
+   "end": 35.19,
+   "chord": "B:7"
+  },
+  {
+   "start": 35.19,
+   "end": 36.02,
+   "chord": "E:sus4"
+  },
+  {
+   "start": 36.02,
+   "end": 37.62,
+   "chord": "E:maj"
+  },
+  {
+   "start": 37.62,
+   "end": 40.91,
+   "chord": "A:maj"
+  },
+  {
+   "start": 40.91,
+   "end": 44.11,
+   "chord": "F#:min"
+  },
+  {
+   "start": 44.11,
+   "end": 45.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 45.8,
+   "end": 47.55,
+   "chord": "E:maj"
+  },
+  {
+   "start": 47.55,
+   "end": 50.11,
+   "chord": "A:maj"
+  },
+  {
+   "start": 50.11,
+   "end": 53.39,
+   "chord": "A:maj"
+  },
+  {
+   "start": 53.39,
+   "end": 55.02,
+   "chord": "F#:min"
+  },
+  {
+   "start": 55.02,
+   "end": 56.71,
+   "chord": "D:maj"
+  },
+  {
+   "start": 56.71,
+   "end": 58.47,
+   "chord": "E:maj"
+  },
+  {
+   "start": 58.47,
+   "end": 61.56,
+   "chord": "A:maj"
+  },
+  {
+   "start": 61.56,
+   "end": 63.24,
+   "chord": "B:min"
+  },
+  {
+   "start": 63.24,
+   "end": 64.86,
+   "chord": "E:7"
+  },
+  {
+   "start": 64.86,
+   "end": 66.52,
+   "chord": "C#:min"
+  },
+  {
+   "start": 66.52,
+   "end": 68.18,
+   "chord": "F#:min"
+  },
+  {
+   "start": 68.18,
+   "end": 69.85,
+   "chord": "B:min"
+  },
+  {
+   "start": 69.85,
+   "end": 71.48,
+   "chord": "B:7"
+  },
+  {
+   "start": 71.48,
+   "end": 72.3,
+   "chord": "E:sus4"
+  },
+  {
+   "start": 72.3,
+   "end": 73.92,
+   "chord": "E:maj"
+  },
+  {
+   "start": 73.92,
+   "end": 77.15,
+   "chord": "A:maj"
+  },
+  {
+   "start": 77.15,
+   "end": 80.5,
+   "chord": "F#:min"
+  },
+  {
+   "start": 80.5,
+   "end": 82.13,
+   "chord": "D:maj"
+  },
+  {
+   "start": 82.13,
+   "end": 83.71,
+   "chord": "E:maj"
+  },
+  {
+   "start": 83.71,
+   "end": 85.15,
+   "chord": "A:maj"
+  },
+  {
+   "start": 85.15,
+   "end": 86.38,
+   "chord": "A:7"
+  },
+  {
+   "start": 86.38,
+   "end": 89.56,
+   "chord": "D:min"
+  },
+  {
+   "start": 89.56,
+   "end": 92.64,
+   "chord": "A:min"
+  },
+  {
+   "start": 92.64,
+   "end": 95.88,
+   "chord": "E:7"
+  },
+  {
+   "start": 95.88,
+   "end": 98.17,
+   "chord": "A:min"
+  },
+  {
+   "start": 98.17,
+   "end": 99.0,
+   "chord": "A:7"
+  },
+  {
+   "start": 99.0,
+   "end": 102.27,
+   "chord": "D:min"
+  },
+  {
+   "start": 102.27,
+   "end": 105.51,
+   "chord": "A:min"
+  },
+  {
+   "start": 105.51,
+   "end": 108.53,
+   "chord": "E:7"
+  },
+  {
+   "start": 108.53,
+   "end": 111.7,
+   "chord": "A:min"
+  },
+  {
+   "start": 111.7,
+   "end": 114.95,
+   "chord": "D:min"
+  },
+  {
+   "start": 114.95,
+   "end": 118.2,
+   "chord": "A:min"
+  },
+  {
+   "start": 118.2,
+   "end": 121.37,
+   "chord": "E:7"
+  },
+  {
+   "start": 121.37,
+   "end": 123.68,
+   "chord": "A:min"
+  },
+  {
+   "start": 123.68,
+   "end": 124.47,
+   "chord": "A:7"
+  },
+  {
+   "start": 124.47,
+   "end": 127.67,
+   "chord": "D:min"
+  },
+  {
+   "start": 127.67,
+   "end": 130.98,
+   "chord": "A:min"
+  },
+  {
+   "start": 130.98,
+   "end": 134.14,
+   "chord": "E:7"
+  },
+  {
+   "start": 134.14,
+   "end": 136.3,
+   "chord": "A:min"
+  },
+  {
+   "start": 136.3,
+   "end": 137.1,
+   "chord": "A:7"
+  },
+  {
+   "start": 137.1,
+   "end": 140.26,
+   "chord": "D:min"
+  },
+  {
+   "start": 140.26,
+   "end": 143.47,
+   "chord": "A:min"
+  },
+  {
+   "start": 143.47,
+   "end": 146.7,
+   "chord": "E:7"
+  },
+  {
+   "start": 146.7,
+   "end": 148.98,
+   "chord": "A:min"
+  },
+  {
+   "start": 148.98,
+   "end": 149.84,
+   "chord": "A:7"
+  },
+  {
+   "start": 149.84,
+   "end": 153.05,
+   "chord": "D:min"
+  },
+  {
+   "start": 153.05,
+   "end": 156.23,
+   "chord": "A:min"
+  },
+  {
+   "start": 156.23,
+   "end": 159.35,
+   "chord": "E:7"
+  },
+  {
+   "start": 159.35,
+   "end": 162.14,
+   "chord": "A:min"
+  },
+  {
+   "start": 162.14,
+   "end": 165.43,
+   "chord": "A:maj"
+  },
+  {
+   "start": 165.43,
+   "end": 167.2,
+   "chord": "F#:min"
+  },
+  {
+   "start": 167.2,
+   "end": 168.79,
+   "chord": "D:maj"
+  },
+  {
+   "start": 168.79,
+   "end": 170.48,
+   "chord": "E:maj"
+  },
+  {
+   "start": 170.48,
+   "end": 173.79,
+   "chord": "A:maj"
+  },
+  {
+   "start": 173.79,
+   "end": 175.44,
+   "chord": "B:min"
+  },
+  {
+   "start": 175.44,
+   "end": 177.08,
+   "chord": "E:7"
+  },
+  {
+   "start": 177.08,
+   "end": 178.73,
+   "chord": "C#:min"
+  },
+  {
+   "start": 178.73,
+   "end": 180.42,
+   "chord": "F#:min"
+  },
+  {
+   "start": 180.42,
+   "end": 182.06,
+   "chord": "B:min"
+  },
+  {
+   "start": 182.06,
+   "end": 183.7,
+   "chord": "B:7"
+  },
+  {
+   "start": 183.7,
+   "end": 184.5,
+   "chord": "E:sus4"
+  },
+  {
+   "start": 184.5,
+   "end": 186.1,
+   "chord": "E:maj"
+  },
+  {
+   "start": 186.1,
+   "end": 189.43,
+   "chord": "A:maj"
+  },
+  {
+   "start": 189.43,
+   "end": 192.69,
+   "chord": "F#:min"
+  },
+  {
+   "start": 192.69,
+   "end": 194.25,
+   "chord": "D:maj"
+  },
+  {
+   "start": 194.25,
+   "end": 199.13,
+   "chord": "E:maj"
+  },
+  {
+   "start": 199.13,
+   "end": 201.3,
+   "chord": "A:maj"
+  },
+  {
+   "start": 201.3,
+   "end": 203.0,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0.0,
+   "end": 203.0
+  },
+  {
+   "name": "male vocal",
+   "start": 12.38,
+   "end": 203.0
+  },
+  {
+   "name": "drums",
+   "start": 86.38,
+   "end": 162.14
+  },
+  {
+   "name": "electric bass",
+   "start": 86.38,
+   "end": 162.14
+  },
+  {
+   "name": "electric guitar",
+   "start": 86.38,
+   "end": 162.14
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 12.38,
+   "end": 18.99,
+   "text": "Ich geb ein Tigerfest zu Haus in meinem Garten,"
+  },
+  {
+   "start": 18.99,
+   "end": 25.37,
+   "text": "ich lad euch alle dazu herzlichst ein."
+  },
+  {
+   "start": 25.37,
+   "end": 30.98,
+   "text": "Die Frauen solln noch warten, die M\u00e4nner solln kommen."
+  },
+  {
+   "start": 30.98,
+   "end": 36.8,
+   "text": "Nicht gleich die Verliebten, erst nehm ich die Frommen."
+  },
+  {
+   "start": 36.8,
+   "end": 43.31,
+   "text": "Da gibt es Zuckerbrot und Wein und ganz spezielle Leckereien."
+  },
+  {
+   "start": 43.31,
+   "end": 49.3,
+   "text": "Ihr werdet alle sehr zufrieden sein."
+  },
+  {
+   "start": 49.3,
+   "end": 55.02,
+   "text": "Und bei dem Tigerfest zu Haus in meinem Garten,"
+  },
+  {
+   "start": 55.02,
+   "end": 61.56,
+   "text": "da gibt's Musik und Tanz und Liebelei."
+  },
+  {
+   "start": 61.56,
+   "end": 67.35,
+   "text": "Es muss nicht entarten, wir sind nicht in Eile."
+  },
+  {
+   "start": 67.35,
+   "end": 73.11,
+   "text": "Ich kriege schon Schwung rein, wenn ich euch verteile."
+  },
+  {
+   "start": 73.11,
+   "end": 79.7,
+   "text": "Es kommt ein Jeder an die Reih' mit Allerliebst und Allerlei,"
+  },
+  {
+   "start": 79.7,
+   "end": 85.15,
+   "text": "ihr f\u00fchlt euch sicher alle wohl dabei."
+  },
+  {
+   "start": 85.15,
+   "end": 91.11,
+   "text": "Dann kommen die Tiger aus ihrem Versteck,"
+  },
+  {
+   "start": 91.11,
+   "end": 97.43,
+   "text": "da werdet ihr schreien, ein paar laufen weg."
+  },
+  {
+   "start": 97.43,
+   "end": 103.85,
+   "text": "Doch lie\u00df ich schon lange die Tore versperren,"
+  },
+  {
+   "start": 103.85,
+   "end": 110.97,
+   "text": "denn die Tiger haben Hunger und sie fressen gern."
+  },
+  {
+   "start": 110.97,
+   "end": 116.58,
+   "text": "Sie werden euch verspeisen, zuerst alle Frauen,"
+  },
+  {
+   "start": 116.58,
+   "end": 122.92,
+   "text": "danach alle Weisen und alle Schlauen,"
+  },
+  {
+   "start": 122.92,
+   "end": 129.3,
+   "text": "als Letztes die Dummen, ja, da hilft keine List,"
+  },
+  {
+   "start": 129.3,
+   "end": 136.3,
+   "text": "so lang bis keiner von euch \u00fcbrig ist."
+  },
+  {
+   "start": 136.3,
+   "end": 141.87,
+   "text": "Ein paar Stunden sp\u00e4ter, da sitz ich allein"
+  },
+  {
+   "start": 141.87,
+   "end": 148.27,
+   "text": "auf meiner Terrasse und trinke den Wein"
+  },
+  {
+   "start": 148.27,
+   "end": 154.64,
+   "text": "und esse die Reste und rekle mich m\u00fcd"
+  },
+  {
+   "start": 154.64,
+   "end": 161.36,
+   "text": "und sing mir selber noch das kleine Lied."
+  },
+  {
+   "start": 161.36,
+   "end": 167.2,
+   "text": "Ich gab ein Tigerfest zu Haus in meinem Garten,"
+  },
+  {
+   "start": 167.2,
+   "end": 173.79,
+   "text": "ein recht geselliges Beisammensein."
+  },
+  {
+   "start": 173.79,
+   "end": 179.55,
+   "text": "Erst lie\u00df ich es starten, dann kamen die Tiger."
+  },
+  {
+   "start": 179.55,
+   "end": 185.33,
+   "text": "Die Menschen waren wehrlos, die Tiger blieben Sieger."
+  },
+  {
+   "start": 185.33,
+   "end": 193.49,
+   "text": "Ja, solche Feste find ich fein und sie gelingen allgemein."
+  },
+  {
+   "start": 193.49,
+   "end": 201.3,
+   "text": "Ich lad euch alle, alle herzlichst ein."
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 3208,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 3208
+   }
+  ],
+  "prompt_token_count": 6845,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 747
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 6098
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 10053,
+  "traffic_type": null
+ }
+}

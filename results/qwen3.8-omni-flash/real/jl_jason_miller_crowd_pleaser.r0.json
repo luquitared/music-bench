@@ -1,0 +1,606 @@
+{
+ "bpm": 100,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0,
+   "end": 193,
+   "key": "C# minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0,
+   "end": 2.04,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 2.04,
+   "end": 9.84,
+   "chord": "B:maj"
+  },
+  {
+   "start": 9.84,
+   "end": 11.64,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 11.64,
+   "end": 19.43,
+   "chord": "B:maj"
+  },
+  {
+   "start": 19.43,
+   "end": 21.23,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 21.23,
+   "end": 29.03,
+   "chord": "B:maj"
+  },
+  {
+   "start": 29.03,
+   "end": 30.83,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 30.83,
+   "end": 38.63,
+   "chord": "B:maj"
+  },
+  {
+   "start": 38.63,
+   "end": 40.43,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 40.43,
+   "end": 48.23,
+   "chord": "B:maj"
+  },
+  {
+   "start": 48.23,
+   "end": 50.03,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 50.03,
+   "end": 57.83,
+   "chord": "B:maj"
+  },
+  {
+   "start": 57.83,
+   "end": 59.63,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 59.63,
+   "end": 67.43,
+   "chord": "B:maj"
+  },
+  {
+   "start": 67.43,
+   "end": 69.23,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 69.23,
+   "end": 77.03,
+   "chord": "B:maj"
+  },
+  {
+   "start": 77.03,
+   "end": 78.83,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 78.83,
+   "end": 86.63,
+   "chord": "B:maj"
+  },
+  {
+   "start": 86.63,
+   "end": 88.43,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 88.43,
+   "end": 96.23,
+   "chord": "B:maj"
+  },
+  {
+   "start": 96.23,
+   "end": 98.03,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 98.03,
+   "end": 105.83,
+   "chord": "B:maj"
+  },
+  {
+   "start": 105.83,
+   "end": 107.63,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 107.63,
+   "end": 115.43,
+   "chord": "B:maj"
+  },
+  {
+   "start": 115.43,
+   "end": 117.23,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 117.23,
+   "end": 125.03,
+   "chord": "B:maj"
+  },
+  {
+   "start": 125.03,
+   "end": 126.83,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 126.83,
+   "end": 134.63,
+   "chord": "B:maj"
+  },
+  {
+   "start": 134.63,
+   "end": 136.43,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 136.43,
+   "end": 144.23,
+   "chord": "B:maj"
+  },
+  {
+   "start": 144.23,
+   "end": 146.03,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 146.03,
+   "end": 153.83,
+   "chord": "B:maj"
+  },
+  {
+   "start": 153.83,
+   "end": 155.63,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 155.63,
+   "end": 163.43,
+   "chord": "B:maj"
+  },
+  {
+   "start": 163.43,
+   "end": 165.23,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 165.23,
+   "end": 173.03,
+   "chord": "B:maj"
+  },
+  {
+   "start": 173.03,
+   "end": 174.83,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 174.83,
+   "end": 182.63,
+   "chord": "B:maj"
+  },
+  {
+   "start": 182.63,
+   "end": 184.43,
+   "chord": "A:maj7"
+  },
+  {
+   "start": 184.43,
+   "end": 192.23,
+   "chord": "B:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0,
+   "end": 193
+  },
+  {
+   "name": "drum machine",
+   "start": 17.2,
+   "end": 193
+  },
+  {
+   "name": "bass",
+   "start": 17.2,
+   "end": 193
+  },
+  {
+   "name": "synth pad",
+   "start": 0,
+   "end": 193
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 20.0,
+   "end": 21.56,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 21.56,
+   "end": 23.32,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 23.32,
+   "end": 25.08,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 25.08,
+   "end": 26.84,
+   "text": "Skate like they ain't nothin' doin'"
+  },
+  {
+   "start": 26.84,
+   "end": 28.6,
+   "text": "Live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 29.0,
+   "end": 30.56,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 30.56,
+   "end": 32.32,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 32.32,
+   "end": 34.08,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 34.08,
+   "end": 35.84,
+   "text": "Skate like they ain't nothin' doin'"
+  },
+  {
+   "start": 35.84,
+   "end": 38.6,
+   "text": "Live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 39.0,
+   "end": 40.56,
+   "text": "People tellin' lies on me"
+  },
+  {
+   "start": 40.56,
+   "end": 42.32,
+   "text": "Feelin' like Pac, all eyes on me"
+  },
+  {
+   "start": 42.32,
+   "end": 44.08,
+   "text": "What my next rhyme gon' be"
+  },
+  {
+   "start": 44.08,
+   "end": 47.32,
+   "text": "Dumb motherfuckers never ever gon' shine off me"
+  },
+  {
+   "start": 47.32,
+   "end": 49.08,
+   "text": "Wait for it, wait for it, wait for it"
+  },
+  {
+   "start": 49.08,
+   "end": 51.32,
+   "text": "Don't worry, my haters is gon' pay for it"
+  },
+  {
+   "start": 51.32,
+   "end": 53.08,
+   "text": "Chase dreams while dumb niggas'll chase whores"
+  },
+  {
+   "start": 53.08,
+   "end": 55.32,
+   "text": "Overseas on a great tour, oh"
+  },
+  {
+   "start": 55.32,
+   "end": 57.08,
+   "text": "Maybe I'm just dreamin'"
+  },
+  {
+   "start": 57.08,
+   "end": 59.08,
+   "text": "It beats bein' with demons"
+  },
+  {
+   "start": 59.08,
+   "end": 61.08,
+   "text": "All niggas is schemin'"
+  },
+  {
+   "start": 61.08,
+   "end": 63.08,
+   "text": "At least I'm thinkin' of an achievement"
+  },
+  {
+   "start": 63.08,
+   "end": 65.08,
+   "text": "People talk shit for four seasons for no reason"
+  },
+  {
+   "start": 65.08,
+   "end": 67.08,
+   "text": "People dog LeBron 'til LeBron show up"
+  },
+  {
+   "start": 67.08,
+   "end": 69.08,
+   "text": "When he steps on the paint then they guards go up"
+  },
+  {
+   "start": 69.08,
+   "end": 71.08,
+   "text": "Scars go up, all the applause go up"
+  },
+  {
+   "start": 71.08,
+   "end": 75.08,
+   "text": "And everybody in the whole damn crowd goes nuts"
+  },
+  {
+   "start": 77.0,
+   "end": 78.56,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 78.56,
+   "end": 80.32,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 80.32,
+   "end": 82.08,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 82.08,
+   "end": 83.84,
+   "text": "Skate like they ain't nothin' doin'"
+  },
+  {
+   "start": 83.84,
+   "end": 85.6,
+   "text": "Live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 86.0,
+   "end": 87.56,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 87.56,
+   "end": 89.32,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 89.32,
+   "end": 91.08,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 91.08,
+   "end": 92.84,
+   "text": "Skate like they ain't nothin' doin'"
+  },
+  {
+   "start": 92.84,
+   "end": 95.6,
+   "text": "Live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 96.0,
+   "end": 97.56,
+   "text": "Spectators, sideliners"
+  },
+  {
+   "start": 97.56,
+   "end": 99.32,
+   "text": "Spendin' days comin' up with sly comments"
+  },
+  {
+   "start": 99.32,
+   "end": 101.08,
+   "text": "That's psychotic, why tarnish a fly product?"
+  },
+  {
+   "start": 101.08,
+   "end": 103.08,
+   "text": "Why be mad just 'cause I got it?"
+  },
+  {
+   "start": 103.08,
+   "end": 105.08,
+   "text": "Hey, I may never know"
+  },
+  {
+   "start": 105.08,
+   "end": 107.08,
+   "text": "Wave to the haters that put me on a pedestal"
+  },
+  {
+   "start": 107.08,
+   "end": 109.08,
+   "text": "Talk smack but they really know I'm incredible"
+  },
+  {
+   "start": 109.08,
+   "end": 111.08,
+   "text": "Unforgettable, young blueeyed, the new guy is on schedule"
+  },
+  {
+   "start": 111.08,
+   "end": 113.08,
+   "text": "Man behind bars and that's minus the federal"
+  },
+  {
+   "start": 113.08,
+   "end": 115.08,
+   "text": "Stone giant, what the hell could some pebbles do?"
+  },
+  {
+   "start": 115.08,
+   "end": 117.08,
+   "text": "Why you revel in drama? I'm buildin' revenue"
+  },
+  {
+   "start": 117.08,
+   "end": 119.08,
+   "text": "Tell 'em you get 'em tomorrow, there ain't no stressin' you"
+  },
+  {
+   "start": 119.08,
+   "end": 121.08,
+   "text": "Life goes on, life goes on"
+  },
+  {
+   "start": 121.08,
+   "end": 123.08,
+   "text": "You the shit even before those lights went on"
+  },
+  {
+   "start": 123.08,
+   "end": 125.08,
+   "text": "They gon' trash you even if they like your song"
+  },
+  {
+   "start": 125.08,
+   "end": 127.08,
+   "text": "People always gon' judge, homie, right or wrong"
+  },
+  {
+   "start": 134.0,
+   "end": 135.56,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 135.56,
+   "end": 137.32,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 137.32,
+   "end": 139.08,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 139.08,
+   "end": 140.84,
+   "text": "Skate like they ain't nothin' doin'"
+  },
+  {
+   "start": 140.84,
+   "end": 142.6,
+   "text": "Live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 144.0,
+   "end": 145.56,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 145.56,
+   "end": 147.32,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 147.32,
+   "end": 149.08,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 149.08,
+   "end": 150.84,
+   "text": "Skate like they ain't nothin' doin'"
+  },
+  {
+   "start": 150.84,
+   "end": 153.6,
+   "text": "Live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 154.0,
+   "end": 155.56,
+   "text": "We don't give a damn what you did"
+  },
+  {
+   "start": 155.56,
+   "end": 157.32,
+   "text": "We don't give a damn who you are"
+  },
+  {
+   "start": 157.32,
+   "end": 159.08,
+   "text": "Homie, you ain't down with the team"
+  },
+  {
+   "start": 159.08,
+   "end": 160.84,
+   "text": "We don't give a damn what you think"
+  },
+  {
+   "start": 160.84,
+   "end": 162.6,
+   "text": "We don't give a damn what you thought"
+  },
+  {
+   "start": 163.0,
+   "end": 164.56,
+   "text": "We don't give a damn what you did"
+  },
+  {
+   "start": 164.56,
+   "end": 166.32,
+   "text": "We don't give a damn who you are"
+  },
+  {
+   "start": 166.32,
+   "end": 168.08,
+   "text": "Homie, you ain't down with the team"
+  },
+  {
+   "start": 168.08,
+   "end": 169.84,
+   "text": "We don't give a damn what you think"
+  },
+  {
+   "start": 169.84,
+   "end": 171.6,
+   "text": "We don't give a damn what you thought"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 7742,
+  "input_tokens": 1642
+ }
+}

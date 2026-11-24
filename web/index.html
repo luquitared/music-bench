@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Can AI Hear Music?</title>
+<meta name="description" content="An open benchmark of audio models turning songs into a music timeline: chords, key, tempo, instruments and lyrics, scored against ground truth. Run it on your model and submit by pull request.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="canonical" href="https://musicbench.odapt.ai/">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://musicbench.odapt.ai/">
+<meta property="og:title" content="Can AI hear music?">
+<meta property="og:description" content="Audio models turn songs into chords, key, tempo, instruments and lyrics, scored against ground truth. An open benchmark with a leaderboard.">
+<meta property="og:image" content="https://musicbench.odapt.ai/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://musicbench.odapt.ai/og.png">
+<script src="events.js" defer></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f4ef;--panel:#fffdf8;--ink:#1c1b19;--muted:#6b675f;--line:#e2ddd2;
+  --argon:#8a8f98;--carbon:#c2563a;--neon:#2f7d6d;--warn:#b7791f;--p4:#6b5bb5;--p5:#b58a1f;--p6:#3f7fbf;
+  --serif:"Fraunces",Georgia,serif;--sans:"Inter",system-ui,sans-serif;--mono:"JetBrains Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#141413;--panel:#1c1b19;--ink:#ece8df;--muted:#9a958b;--line:#2e2c28;
+  --argon:#9aa0aa;--carbon:#e0785a;--neon:#5cc0a8;--warn:#e0a84a;}}
+:root[data-theme="dark"]{--bg:#141413;--panel:#1c1b19;--ink:#ece8df;--muted:#9a958b;--line:#2e2c28;
+  --argon:#9aa0aa;--carbon:#e0785a;--neon:#5cc0a8;--warn:#e0a84a;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+header{padding:72px 0 40px;border-bottom:1px solid var(--line)}
+.kicker{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+h1{font:600 clamp(36px,7vw,60px)/1.05 var(--serif);margin:16px 0 20px;letter-spacing:-.02em}
+h2{font:600 28px/1.2 var(--serif);margin:0 0 12px;letter-spacing:-.01em}
+h3{font:600 15px/1.3 var(--sans);margin:0 0 8px}
+.lede{font-size:19px;color:var(--muted);max-width:640px;margin:0}
+section{padding:56px 0;border-bottom:1px solid var(--line)}
+p{margin:0 0 14px;max-width:680px}
+.muted{color:var(--muted)}
+.legend{display:flex;gap:18px;flex-wrap:wrap;font:500 13px var(--mono);margin:18px 0 6px}
+.legend span{display:inline-flex;align-items:center;gap:7px}
+.sw{width:11px;height:11px;border-radius:3px;display:inline-block}
+.verdict{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:28px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px 18px}
+.card .big{font:600 34px/1 var(--serif);margin:6px 0 6px}
+.card .lbl{font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.card p{font-size:14px;color:var(--muted);margin:0}
+.chart{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px 18px 10px;margin:22px 0;overflow-x:auto}
+.chart svg{display:block;width:100%;height:auto;min-width:520px}
+.chart text{font-family:var(--mono);fill:var(--muted);font-size:11px}
+.chart .t{fill:var(--ink);font-family:var(--sans);font-size:12px;font-weight:500}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:18px 0}
+th,td{text-align:right;padding:9px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+th:first-child,td:first-child{text-align:left;white-space:normal}
+th{font:500 11px var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+td.best{font-weight:600}
+.tablewrap{overflow-x:auto}
+.mono{font-family:var(--mono);font-size:13px}
+.pill{font:500 11px var(--mono);padding:2px 7px;border-radius:99px;border:1px solid var(--line);color:var(--muted)}
+.pill.ok{color:var(--neon);border-color:currentColor}.pill.bad{color:var(--carbon);border-color:currentColor}
+ul.notes{padding-left:18px;max-width:680px}ul.notes li{margin:0 0 8px}
+footer{padding:40px 0 64px;color:var(--muted);font-size:13px}
+a{color:inherit;text-decoration-color:var(--line);text-underline-offset:3px}a:hover{text-decoration-color:currentColor}
+.cta{display:inline-block;margin-top:6px;font:500 14px var(--sans);padding:9px 14px;border-radius:8px;background:var(--ink);color:var(--bg);text-decoration:none}
+.cta:hover{opacity:.9}
+td .sw{vertical-align:-1px;margin-right:4px}
+.toggle{position:fixed;top:14px;right:14px;background:var(--panel);border:1px solid var(--line);color:var(--ink);border-radius:99px;font:500 12px var(--mono);padding:6px 11px;cursor:pointer}
+</style>
+</head>
+<body>
+<button class="toggle" id="tg" aria-label="Toggle theme">theme</button>
+<div class="wrap">
+<header>
+  <div class="kicker">Benchmark · November 2026</div>
+  <h1>Can AI hear music?</h1>
+  <p class="lede">We asked audio models to turn a song into a full metadata timeline (chords, key, tempo, instruments, lyrics) and scored every answer against ground truth. The test is open: run it on your model and send a pull request.</p>
+  <div class="verdict" id="verdict"></div>
+</header>
+
+<section id="board">
+  <h2>Leaderboard</h2>
+  <p>Rescored from raw answers on every pull request. <b>Overall</b> is the plain average of the starred columns. <span id="board-src" class="muted"></span></p>
+  <div class="tablewrap"><table id="lb"></table></div>
+  <p><a class="cta" href="https://github.com/luquitared/music-bench#run-it-on-your-model" data-track="submit_click">Run it on your model →</a></p>
+</section>
+
+<section id="cliff-s">
+  <h2>The cliff: clean audio vs real recordings</h2>
+  <p>On songs we generated from MIDI, the Gemini models get about 9 in 10 chords right. On real recordings the number falls, and on obscure songs it falls to around half. Qwen is the exception, and an odd one: weaker on the easy songs, best on the obscure ones (more below). Bars show the share of each song where the model names the correct chord at that moment (major/minor level, scored with <span class="mono">mir_eval</span>).</p>
+  <div class="legend" id="legend"></div>
+  <div class="chart" id="cliff"></div>
+  <p class="muted">Generated songs can't be memorized and have perfect labels, so they are the easiest case. It is also likely the kind of data labs synthesize for training, which may be why the strongest models are near the ceiling there.</p>
+</section>
+
+<section id="probe-s">
+  <h2>Listening, not reciting</h2>
+  <p>Famous songs might be answered from memory: the chords to "Let It Be" are all over the internet. So two Beatles songs are pitch-shifted into new keys. A model reciting from memory reports the original key; a model that listens follows the shift.</p>
+  <div class="tablewrap"><table id="probe"></table></div>
+</section>
+
+<section id="songs-s">
+  <h2>Song by song</h2>
+  <p>Chord accuracy per real song. Zweieck is an obscure German band; its songs change key and use denser harmony. The Beatles songs are simpler and cleaner, which helps as much as any familiarity.</p>
+  <div class="chart" id="songs"></div>
+</section>
+
+<section id="lyrics-s">
+  <h2>Lyrics: words yes, timing so-so</h2>
+  <p>Eight obscure Creative Commons songs with human-timed lyric lines. Bars show word accuracy (1 minus word error rate). Timing is the weak part: even the best model puts only about half of the lines within one second of the truth, and single runs sometimes shift the whole lyric timeline by 30 seconds or more.</p>
+  <div class="chart" id="lyrics"></div>
+</section>
+
+<section id="takeaways">
+  <h2>What this means</h2>
+  <ul class="notes" id="takeaway-list">
+      <li><b>Gemini 4 Neon leads overall</b>, mainly on key tracking (92% on songs that change key) and lyrics, but it spends about 23k output and thinking tokens per song, roughly 7 times Argon.</li>
+    <li><b>Qwen 3.8 Omni Flash is the surprise.</b> It is the cheapest model here and scores 71% on the obscure chords, where the best Gemini gets 48%, yet only 69% on the generated songs that every Gemini aces. It follows the pitch-shifted songs, so it is listening. But Isophonics, the source of the chord labels, is a standard training set for chord recognition, so prior exposure to these exact recordings can't be ruled out. It also failed 4 of its 40 real-song requests: its API rejects the longest song's upload, and it twice returned an empty answer.</li>
+    <li><b>Key, tempo and words are usable.</b> Chords on unfamiliar recordings and lyric timestamps are not reliable from any model on its own; even the best puts only half of the lyric lines within a second.</li>
+    <li><b>For a production timeline</b>, run dedicated tools for chords, beats and lyric alignment, and use a model to check and label their output.</li>
+    <li>Gemini 4 Argon refuses one Zweieck song on input every time (<span class="mono">BlockedReason.OTHER</span>, likely a copyright filter). It scores zero there, as every failed answer does.</li>
+  </ul>
+</section>
+
+<section id="method">
+  <h2>Method</h2>
+  <ul class="notes">
+    <li><b>Generated set:</b> 7 songs rendered from MIDI with a General MIDI soundfont, with key changes, 7th chords, instruments entering mid-song and spoken lyrics. Labels are exact.</li>
+    <li><b>Real chords and key:</b> 6 Zweieck and 4 Beatles songs with human annotations from the Isophonics dataset, plus 2 pitch-shifted copies. Audio is matched to the annotated recordings by length. One Isophonics key label (Here Comes the Sun, listed as A minor) is corrected to A major.</li>
+    <li><b>Real lyrics:</b> 8 English songs from JamendoLyrics with human line timings.</li>
+    <li><b>Prompt:</b> one request per song asking for JSON with bpm, keys, chords, instruments and lyrics, each with start and end times. Default settings, 2 runs per song. A refused or unparseable answer scores zero for that song.</li>
+    <li><b>Caveats:</b> 20 real songs is small; treat differences under about 5 points as noise. Instruments are only scored on the generated set, since none of the real datasets label them.</li>
+  </ul>
+</section>
+
+<footer>Code, data and submissions: <a href="https://github.com/luquitared/music-bench" data-track="repo_click">github.com/luquitared/music-bench</a>. Scores computed with <a href="https://github.com/craffel/mir_eval">mir_eval</a> and <a href="https://github.com/jitsi/jiwer">jiwer</a>. Datasets: <a href="http://isophonics.net/datasets">Isophonics</a>, <a href="https://github.com/f90/jamendolyrics">JamendoLyrics</a>. An <a href="https://odapt.ai">Odapt</a> project.</footer>
+</div>
+
+<script>
+const SNAP = {"metrics": [{"key": "synthetic_chords", "label": "Chords \u00b7 generated", "higher_is_better": true, "in_overall": true}, {"key": "famous_chords", "label": "Chords \u00b7 Beatles", "higher_is_better": true, "in_overall": true}, {"key": "obscure_chords", "label": "Chords \u00b7 obscure", "higher_is_better": true, "in_overall": true}, {"key": "obscure_key", "label": "Key \u00b7 obscure", "higher_is_better": true, "in_overall": true}, {"key": "probe_key", "label": "Key \u00b7 pitch-shifted", "higher_is_better": true, "in_overall": false}, {"key": "lyrics_wer", "label": "Lyrics word error", "higher_is_better": false, "in_overall": false}, {"key": "lyrics_within_1s", "label": "Lyric lines \u22641s", "higher_is_better": true, "in_overall": true}, {"key": "synthetic_instruments", "label": "Instruments \u00b7 generated", "higher_is_better": true, "in_overall": false}], "models": [{"slug": "gemini-4-neon", "model": "gemini-4-neon", "provider": "gemini", "date": "2026-11-24", "runs": 2, "notes": "default thinking settings", "submitted_by": "", "scores": {"synthetic_chords": 0.9588, "synthetic_key": 0.9988, "synthetic_instruments": 0.8875, "famous_chords": 0.7974, "obscure_chords": 0.4809, "famous_key": 1.0, "obscure_key": 0.9189, "probe_key": 1.0, "lyrics_wer": 0.125, "lyrics_within_1s": 0.4967, "refusals": 0, "unparsed": 0, "output_tokens_per_song": 23425.1296, "overall": 0.7305}, "detail": {"songs": {"zw_mr_morgan": 0.4777, "zw_akne": 0.5556, "zw_blass": 0.6095, "zw_tigerfest": 0.3479, "zw_duell": 0.4531, "zw_zuhause": 0.4416, "bt_here_comes_the_sun": 0.7065, "bt_eleanor_rigby": 0.8178, "bt_let_it_be": 0.7392, "bt_in_my_life": 0.9262, "bt_let_it_be_shift+2": 0.5357, "bt_here_comes_the_sun_shift-3": 0.7357}, "lyrics": {"jl_hila_give_me_the_same": 0.9177, "jl_songwriterz_back_in_time": 0.5945, "jl_avercage_embers": 0.5344, "jl_color_out_falling_star": 0.875, "jl_the_madpix_project_one_way_street": 0.9262, "jl_jason_miller_crowd_pleaser": 0.855, "jl_ridgway_fire_inside": 0.8668, "jl_slingshot_miracle_whistler": 0.9506}, "probe": [{"song": "bt_let_it_be_shift+2", "run": 0, "true": "D major", "pred": ["D major"]}, {"song": "bt_let_it_be_shift+2", "run": 1, "true": "D major", "pred": ["D major"]}, {"song": "bt_here_comes_the_sun_shift-3", "run": 0, "true": "F# major", "pred": ["F# major"]}, {"song": "bt_here_comes_the_sun_shift-3", "run": 1, "true": "F# major", "pred": ["F# major"]}]}}, {"slug": "gemini-4-carbon", "model": "gemini-4-carbon", "provider": "gemini", "date": "2026-11-24", "runs": 2, "notes": "default thinking settings", "submitted_by": "", "scores": {"synthetic_chords": 0.9562, "synthetic_key": 0.9487, "synthetic_instruments": 0.8464, "famous_chords": 0.7561, "obscure_chords": 0.4506, "famous_key": 0.9997, "obscure_key": 0.817, "probe_key": 0.9997, "lyrics_wer": 0.1477, "lyrics_within_1s": 0.4798, "refusals": 0, "unparsed": 0, "output_tokens_per_song": 13784.7593, "overall": 0.6919}, "detail": {"songs": {"zw_mr_morgan": 0.5406, "zw_akne": 0.4699, "zw_blass": 0.6389, "zw_tigerfest": 0.3001, "zw_duell": 0.3413, "zw_zuhause": 0.4129, "bt_here_comes_the_sun": 0.6005, "bt_eleanor_rigby": 0.8822, "bt_let_it_be": 0.6692, "bt_in_my_life": 0.8725, "bt_let_it_be_shift+2": 0.7016, "bt_here_comes_the_sun_shift-3": 0.4323}, "lyrics": {"jl_hila_give_me_the_same": 0.9255, "jl_songwriterz_back_in_time": 0.521, "jl_avercage_embers": 0.545, "jl_color_out_falling_star": 0.8616, "jl_the_madpix_project_one_way_street": 0.9317, "jl_jason_miller_crowd_pleaser": 0.7965, "jl_ridgway_fire_inside": 0.8306, "jl_slingshot_miracle_whistler": 0.9352}, "probe": [{"song": "bt_let_it_be_shift+2", "run": 0, "true": "D major", "pred": ["D major"]}, {"song": "bt_let_it_be_shift+2", "run": 1, "true": "D major", "pred": ["D major"]}, {"song": "bt_here_comes_the_sun_shift-3", "run": 0, "true": "F# major", "pred": ["F# major"]}, {"song": "bt_here_comes_the_sun_shift-3", "run": 1, "true": "F# major", "pred": ["F# major"]}]}}, {"slug": "qwen3.8-omni-flash", "model": "qwen/qwen3.8-omni-flash", "provider": "openai", "date": "2026-11-24", "runs": 2, "notes": "via OpenRouter, default settings", "submitted_by": "", "scores": {"synthetic_chords": 0.6899, "synthetic_key": 0.9495, "synthetic_instruments": 0.7952, "famous_chords": 0.6366, "obscure_chords": 0.7053, "famous_key": 1.0, "obscure_key": 0.9145, "probe_key": 0.5, "lyrics_wer": 0.1684, "lyrics_within_1s": 0.4153, "refusals": 2, "unparsed": 2, "output_tokens_per_song": 7191.8269, "overall": 0.6723}, "detail": {"songs": {"zw_mr_morgan": 0.5893, "zw_akne": 0.7805, "zw_blass": 0.8439, "zw_tigerfest": 0.7974, "zw_duell": 0.5732, "zw_zuhause": 0.6478, "bt_here_comes_the_sun": 0.8801, "bt_eleanor_rigby": 0.6936, "bt_let_it_be": 0.4762, "bt_in_my_life": 0.4964, "bt_let_it_be_shift+2": 0.19, "bt_here_comes_the_sun_shift-3": 0.3249}, "lyrics": {"jl_hila_give_me_the_same": 0.9193, "jl_songwriterz_back_in_time": 0.5294, "jl_avercage_embers": 0.455, "jl_color_out_falling_star": 0.8705, "jl_the_madpix_project_one_way_street": 0.9099, "jl_jason_miller_crowd_pleaser": 0.7908, "jl_ridgway_fire_inside": 0.0, "jl_slingshot_miracle_whistler": 0.8982}, "probe": [{"song": "bt_let_it_be_shift+2", "run": 0, "true": "D major", "pred": null}, {"song": "bt_let_it_be_shift+2", "run": 1, "true": "D major", "pred": ["D major"]}, {"song": "bt_here_comes_the_sun_shift-3", "run": 0, "true": "F# major", "pred": null}, {"song": "bt_here_comes_the_sun_shift-3", "run": 1, "true": "F# major", "pred": ["F#:major"]}]}}, {"slug": "gemini-4-argon", "model": "gemini-4-argon", "provider": "gemini", "date": "2026-11-24", "runs": 2, "notes": "default thinking settings", "submitted_by": "", "scores": {"synthetic_chords": 0.9245, "synthetic_key": 0.9493, "synthetic_instruments": 0.8542, "famous_chords": 0.689, "obscure_chords": 0.3318, "famous_key": 0.9884, "obscure_key": 0.4879, "probe_key": 0.7486, "lyrics_wer": 0.1669, "lyrics_within_1s": 0.3854, "refusals": 2, "unparsed": 0, "output_tokens_per_song": 3332.4444, "overall": 0.5637}, "detail": {"songs": {"zw_mr_morgan": 0.5746, "zw_akne": 0.3318, "zw_blass": 0.5148, "zw_tigerfest": 0.2774, "zw_duell": 0.0, "zw_zuhause": 0.2921, "bt_here_comes_the_sun": 0.6445, "bt_eleanor_rigby": 0.8006, "bt_let_it_be": 0.4566, "bt_in_my_life": 0.8542, "bt_let_it_be_shift+2": 0.5078, "bt_here_comes_the_sun_shift-3": 0.282}, "lyrics": {"jl_hila_give_me_the_same": 0.8292, "jl_songwriterz_back_in_time": 0.5273, "jl_avercage_embers": 0.4127, "jl_color_out_falling_star": 0.8683, "jl_the_madpix_project_one_way_street": 0.8743, "jl_jason_miller_crowd_pleaser": 0.8503, "jl_ridgway_fire_inside": 0.7599, "jl_slingshot_miracle_whistler": 0.9414}, "probe": [{"song": "bt_let_it_be_shift+2", "run": 0, "true": "D major", "pred": ["D major", "B minor", "D major"]}, {"song": "bt_let_it_be_shift+2", "run": 1, "true": "D major", "pred": ["D major"]}, {"song": "bt_here_comes_the_sun_shift-3", "run": 0, "true": "F# major", "pred": ["F# major"]}, {"song": "bt_here_comes_the_sun_shift-3", "run": 1, "true": "F# major", "pred": ["G major"]}]}}]};
+const LIVE = "https://raw.githubusercontent.com/luquitared/music-bench/main/results/leaderboard.json";
+const PALETTE = ["var(--neon)","var(--carbon)","var(--argon)","var(--p4)","var(--p5)","var(--p6)"];
+const pct = v => v == null ? "–" : (v*100).toFixed(0) + "%";
+const NAMES = {"qwen/qwen3.8-omni-flash":"Qwen 3.8 Omni Flash"};
+const nameOf = e => NAMES[e.model] || (e.model || e.slug).replace(/^google\//,"").replace(/^gemini-4-(\w+)$/, (_,n)=>"Gemini 4 " + n[0].toUpperCase()+n.slice(1));
+const nice = s => s.replace(/^(zw|bt|jl)_/,"").replace(/_/g," ").replace(/\b\w/g,c=>c.toUpperCase());
+
+function render(D, isLive) {
+  const M = D.models, col = {};
+  [...M].sort((a,b)=>a.slug.localeCompare(b.slug)).forEach((e,i)=> col[e.slug] = {"gemini-4-neon":PALETTE[0],"gemini-4-carbon":PALETTE[1],"gemini-4-argon":PALETTE[2]}[e.slug] || PALETTE[3 + (i % 3)]);
+  const sc = (e,k) => e.scores[k];
+  const top = k => M.reduce((a,b)=> (sc(b,k) ?? -1) > (sc(a,k) ?? -1) ? b : a);
+  if (!isLive) {
+    document.getElementById("verdict").innerHTML = [
+      ["Chords, generated songs", "synthetic_chords", "Near the ceiling for the best models"],
+      ["Chords, obscure real songs", "obscure_chords", "Best model, about half"],
+      ["Key, obscure songs with modulations", "obscure_key", "Best model"],
+      ["Lyric lines within 1s", "lyrics_within_1s", "Words are fine, timing isn't"],
+    ].map(([l,k,p]) => { const e = top(k); return `<div class="card"><div class="lbl">${l}</div><div class="big">${pct(sc(e,k))}</div><p>${p} (${nameOf(e)})</p></div>`; }).join("");
+    document.getElementById("legend").innerHTML = M.map(e => `<span><i class="sw" style="background:${col[e.slug]}"></i>${nameOf(e)}</span>`).join("");
+    const bars = (el, groups, opts = {}) => {
+      const W = 760, lh = opts.lh || 22, gap = opts.gap || 18, left = opts.left || 190, n = M.length;
+      const gh = n*lh + gap, H = groups.length*gh + 34, x = v => left + v*(W-left-60);
+      let s = `<svg viewBox="0 0 ${W} ${H}" role="img">`;
+      for (const t of [0,.25,.5,.75,1]) s += `<line x1="${x(t)}" x2="${x(t)}" y1="0" y2="${H-24}" stroke="var(--line)"/><text x="${x(t)}" y="${H-8}" text-anchor="middle">${pct(t)}</text>`;
+      groups.forEach((g,i) => {
+        const y0 = i*gh + 6;
+        s += `<text class="t" x="0" y="${y0 + n*lh/2 + 4}">${g.label}</text>`;
+        M.forEach((e,j) => { const v = g.vals(e); if (v == null) return;
+          s += `<rect x="${left}" y="${y0+j*lh+3}" width="${Math.max(1,x(v)-left)}" height="${lh-7}" rx="3" fill="${col[e.slug]}"/><text x="${x(v)+6}" y="${y0+j*lh+15}">${pct(v)}</text>`; });
+      });
+      document.getElementById(el).innerHTML = s + "</svg>";
+    };
+    bars("cliff", [
+      {label:"Generated (MIDI)", vals:e=>sc(e,"synthetic_chords")},
+      {label:"Beatles", vals:e=>sc(e,"famous_chords")},
+      {label:"Zweieck (obscure)", vals:e=>sc(e,"obscure_chords")},
+    ]);
+    const songs = Object.keys(M[0].detail.songs).filter(s=>!s.includes("shift")).sort();
+    bars("songs", songs.map(s => ({label:(s.startsWith("zw")?"Zweieck · ":"Beatles · ")+nice(s), vals:e=>e.detail.songs[s]})), {left:250, lh:14, gap:12});
+    const ly = Object.keys(M[0].detail.lyrics).sort();
+    bars("lyrics", ly.map(s => ({label:nice(s), vals:e=>e.detail.lyrics[s]})), {left:250, lh:14, gap:12});
+    const runs = {};
+    M.forEach(e => e.detail.probe.forEach(p => { const k = p.song + "|" + p.run; (runs[k] ||= {song:p.song, run:p.run, true:p.true})[e.slug] = p.pred ? p.pred[0] : null; }));
+    document.getElementById("probe").innerHTML = `<tr><th>Shifted copy</th><th>True key</th>${M.map(e=>`<th>${nameOf(e)}</th>`).join("")}</tr>` +
+      Object.values(runs).sort((a,b)=>(a.song+a.run).localeCompare(b.song+b.run)).map(r => `<tr><td>${nice(r.song.replace(/_shift.*/,""))} <span class="muted">(${r.song.match(/shift([+-]\d+)/)[1]} semitones, run ${r.run+1})</span></td><td class="mono">${r.true}</td>` +
+        M.map(e => { const k = r[e.slug]; return `<td><span class="pill ${k===r.true?"ok":"bad"}">${k ?? "no answer"}</span></td>`; }).join("") + "</tr>").join("");
+  }
+  const MET = D.metrics.filter(m => m.key !== "synthetic_instruments");
+  document.getElementById("lb").innerHTML = `<tr><th>#</th><th>Model</th><th>Overall</th>${MET.map(m=>`<th>${m.label}${m.in_overall?"*":""}</th>`).join("")}<th>Failed</th><th>Tokens</th></tr>` +
+    M.map((e,i) => `<tr><td>${i+1}</td><td><i class="sw" style="background:${col[e.slug]}"></i> ${nameOf(e)}</td><td class="best">${pct(sc(e,"overall"))}</td>` +
+      MET.map(m => `<td class="${top(m.key)===e && m.higher_is_better?"best":""}">${pct(sc(e,m.key))}</td>`).join("") +
+      `<td>${sc(e,"refusals")+sc(e,"unparsed")}</td><td>${sc(e,"output_tokens_per_song")==null?"–":Math.round(sc(e,"output_tokens_per_song")/1000)+"k"}</td></tr>`).join("");
+  document.getElementById("board-src").textContent = isLive ? "Live from the repo." : "";
+}
+render(SNAP, false);
+fetch(LIVE, {cache:"no-store"}).then(r => r.ok ? r.json() : null).then(d => { if (d && d.models && d.models.length) render(d, true); }).catch(()=>{});
+document.addEventListener("click", e => { const a = e.target.closest && e.target.closest("[data-track]"); if (a && window.track) track(a.dataset.track); });
+
+const tg = document.getElementById("tg"), root = document.documentElement;
+try { const t = localStorage.getItem("theme"); if (t) root.dataset.theme = t; } catch(e) {}
+tg.onclick = () => { const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  root.dataset.theme = dark ? "light" : "dark"; window.track && track("theme_toggle", { theme: root.dataset.theme }); try { localStorage.setItem("theme", root.dataset.theme); } catch(e) {} };
+</script>
+</body>
+</html>

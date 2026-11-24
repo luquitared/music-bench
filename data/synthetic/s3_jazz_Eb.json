@@ -1,0 +1,118 @@
+{
+ "id": "s3_jazz_Eb",
+ "bpm": 92,
+ "time_signature": "4/4",
+ "duration": 41.74,
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 41.74,
+   "key": "Eb major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.609,
+   "chord": "F:min7"
+  },
+  {
+   "start": 2.609,
+   "end": 5.217,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 5.217,
+   "end": 7.826,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 7.826,
+   "end": 10.435,
+   "chord": "C:min7"
+  },
+  {
+   "start": 10.435,
+   "end": 13.043,
+   "chord": "F:min7"
+  },
+  {
+   "start": 13.043,
+   "end": 15.652,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 15.652,
+   "end": 18.261,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 18.261,
+   "end": 20.87,
+   "chord": "C:min7"
+  },
+  {
+   "start": 20.87,
+   "end": 23.478,
+   "chord": "F:min7"
+  },
+  {
+   "start": 23.478,
+   "end": 26.087,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 26.087,
+   "end": 28.696,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 28.696,
+   "end": 31.304,
+   "chord": "C:min7"
+  },
+  {
+   "start": 31.304,
+   "end": 33.913,
+   "chord": "F:min7"
+  },
+  {
+   "start": 33.913,
+   "end": 36.522,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 36.522,
+   "end": 39.13,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 39.13,
+   "end": 41.739,
+   "chord": "C:min7"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "electric piano",
+   "start": 0.0,
+   "end": 41.74
+  },
+  {
+   "name": "acoustic bass",
+   "start": 0.0,
+   "end": 41.74
+  },
+  {
+   "name": "drums",
+   "start": 0.0,
+   "end": 41.74
+  },
+  {
+   "name": "saxophone",
+   "start": 20.87,
+   "end": 41.74
+  }
+ ],
+ "lyrics": []
+}

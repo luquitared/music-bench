@@ -1,0 +1,110 @@
+{
+ "bpm": 60.0,
+ "chords": [
+  {
+   "chord": "Bb:min",
+   "end": 1.6,
+   "start": 0.0
+  },
+  {
+   "chord": "Gb:maj",
+   "end": 3.2,
+   "start": 1.6
+  },
+  {
+   "chord": "Db:maj",
+   "end": 4.8,
+   "start": 3.2
+  },
+  {
+   "chord": "F:7",
+   "end": 6.4,
+   "start": 4.8
+  },
+  {
+   "chord": "Bb:min",
+   "end": 8.0,
+   "start": 6.4
+  },
+  {
+   "chord": "Eb:min",
+   "end": 9.6,
+   "start": 8.0
+  },
+  {
+   "chord": "F:min",
+   "end": 11.2,
+   "start": 9.6
+  },
+  {
+   "chord": "F:7",
+   "end": 12.8,
+   "start": 11.2
+  },
+  {
+   "chord": "Bb:min",
+   "end": 14.4,
+   "start": 12.8
+  },
+  {
+   "chord": "Gb:maj",
+   "end": 16.0,
+   "start": 14.4
+  },
+  {
+   "chord": "Db:maj",
+   "end": 17.6,
+   "start": 16.0
+  },
+  {
+   "chord": "F:7",
+   "end": 19.2,
+   "start": 17.6
+  },
+  {
+   "chord": "Bb:min",
+   "end": 20.8,
+   "start": 19.2
+  },
+  {
+   "chord": "Eb:min",
+   "end": 22.4,
+   "start": 20.8
+  },
+  {
+   "chord": "F:min",
+   "end": 24.0,
+   "start": 22.4
+  },
+  {
+   "chord": "F:7",
+   "end": 25.6,
+   "start": 24.0
+  }
+ ],
+ "instruments": [
+  {
+   "end": 25.6,
+   "name": "Church Organ",
+   "start": 0.0
+  },
+  {
+   "end": 25.6,
+   "name": "Cello",
+   "start": 0.0
+  }
+ ],
+ "keys": [
+  {
+   "end": 25.6,
+   "key": "Bb minor",
+   "start": 0.0
+  }
+ ],
+ "lyrics": [],
+ "time_signature": "4/4",
+ "_usage": {
+  "output_tokens": 512,
+  "input_tokens": 1186
+ }
+}

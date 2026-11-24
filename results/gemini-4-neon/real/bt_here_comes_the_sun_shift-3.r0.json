@@ -1,0 +1,734 @@
+{
+ "bpm": 130,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 183.8,
+   "key": "F# major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.2,
+   "end": 3.9,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 3.9,
+   "end": 5.7,
+   "chord": "B:maj"
+  },
+  {
+   "start": 5.7,
+   "end": 7.6,
+   "chord": "C#:7"
+  },
+  {
+   "start": 7.6,
+   "end": 11.3,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 11.3,
+   "end": 13.2,
+   "chord": "B:maj"
+  },
+  {
+   "start": 13.2,
+   "end": 15.1,
+   "chord": "C#:7"
+  },
+  {
+   "start": 15.1,
+   "end": 18.8,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 18.8,
+   "end": 20.7,
+   "chord": "B:maj"
+  },
+  {
+   "start": 20.7,
+   "end": 22.6,
+   "chord": "G#:7"
+  },
+  {
+   "start": 22.6,
+   "end": 25.3,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 25.3,
+   "end": 26.3,
+   "chord": "B:maj"
+  },
+  {
+   "start": 26.3,
+   "end": 28.1,
+   "chord": "C#:7"
+  },
+  {
+   "start": 28.1,
+   "end": 31.8,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 31.8,
+   "end": 33.7,
+   "chord": "B:maj"
+  },
+  {
+   "start": 33.7,
+   "end": 35.5,
+   "chord": "C#:7"
+  },
+  {
+   "start": 35.5,
+   "end": 39.2,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 39.2,
+   "end": 41.1,
+   "chord": "B:maj"
+  },
+  {
+   "start": 41.1,
+   "end": 42.9,
+   "chord": "C#:7"
+  },
+  {
+   "start": 42.9,
+   "end": 46.6,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 46.6,
+   "end": 48.5,
+   "chord": "B:maj"
+  },
+  {
+   "start": 48.5,
+   "end": 50.4,
+   "chord": "G#:7"
+  },
+  {
+   "start": 50.4,
+   "end": 53.1,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 53.1,
+   "end": 54.1,
+   "chord": "B:maj"
+  },
+  {
+   "start": 54.1,
+   "end": 55.9,
+   "chord": "C#:7"
+  },
+  {
+   "start": 55.9,
+   "end": 56.9,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 56.9,
+   "end": 57.8,
+   "chord": "B:maj"
+  },
+  {
+   "start": 57.8,
+   "end": 59.6,
+   "chord": "C#:7"
+  },
+  {
+   "start": 59.6,
+   "end": 63.3,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 63.3,
+   "end": 65.2,
+   "chord": "B:maj"
+  },
+  {
+   "start": 65.2,
+   "end": 67.0,
+   "chord": "C#:7"
+  },
+  {
+   "start": 67.0,
+   "end": 70.7,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 70.7,
+   "end": 72.6,
+   "chord": "B:maj"
+  },
+  {
+   "start": 72.6,
+   "end": 74.4,
+   "chord": "C#:7"
+  },
+  {
+   "start": 74.4,
+   "end": 78.1,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 78.1,
+   "end": 80.0,
+   "chord": "B:maj"
+  },
+  {
+   "start": 80.0,
+   "end": 81.8,
+   "chord": "G#:7"
+  },
+  {
+   "start": 81.8,
+   "end": 84.6,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 84.6,
+   "end": 85.5,
+   "chord": "B:maj"
+  },
+  {
+   "start": 85.5,
+   "end": 87.4,
+   "chord": "C#:7"
+  },
+  {
+   "start": 87.4,
+   "end": 89.2,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 89.2,
+   "end": 90.1,
+   "chord": "B:maj"
+  },
+  {
+   "start": 90.1,
+   "end": 90.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 90.8,
+   "end": 91.5,
+   "chord": "E:maj"
+  },
+  {
+   "start": 91.5,
+   "end": 92.7,
+   "chord": "B:maj"
+  },
+  {
+   "start": 92.7,
+   "end": 94.5,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 94.5,
+   "end": 96.1,
+   "chord": "C#:7"
+  },
+  {
+   "start": 96.1,
+   "end": 96.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 96.8,
+   "end": 97.5,
+   "chord": "E:maj"
+  },
+  {
+   "start": 97.5,
+   "end": 98.7,
+   "chord": "B:maj"
+  },
+  {
+   "start": 98.7,
+   "end": 100.5,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 100.5,
+   "end": 102.1,
+   "chord": "C#:7"
+  },
+  {
+   "start": 102.1,
+   "end": 102.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 102.8,
+   "end": 103.5,
+   "chord": "E:maj"
+  },
+  {
+   "start": 103.5,
+   "end": 104.7,
+   "chord": "B:maj"
+  },
+  {
+   "start": 104.7,
+   "end": 106.5,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 106.5,
+   "end": 108.1,
+   "chord": "C#:7"
+  },
+  {
+   "start": 108.1,
+   "end": 108.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 108.8,
+   "end": 109.5,
+   "chord": "E:maj"
+  },
+  {
+   "start": 109.5,
+   "end": 110.7,
+   "chord": "B:maj"
+  },
+  {
+   "start": 110.7,
+   "end": 112.5,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 112.5,
+   "end": 114.1,
+   "chord": "C#:7"
+  },
+  {
+   "start": 114.1,
+   "end": 114.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 114.8,
+   "end": 115.5,
+   "chord": "E:maj"
+  },
+  {
+   "start": 115.5,
+   "end": 116.7,
+   "chord": "B:maj"
+  },
+  {
+   "start": 116.7,
+   "end": 118.5,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 118.5,
+   "end": 120.1,
+   "chord": "C#:7"
+  },
+  {
+   "start": 120.1,
+   "end": 120.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 120.8,
+   "end": 121.5,
+   "chord": "E:maj"
+  },
+  {
+   "start": 121.5,
+   "end": 122.7,
+   "chord": "B:maj"
+  },
+  {
+   "start": 122.7,
+   "end": 124.5,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 124.5,
+   "end": 131.9,
+   "chord": "C#:7"
+  },
+  {
+   "start": 131.9,
+   "end": 135.6,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 135.6,
+   "end": 137.4,
+   "chord": "B:maj"
+  },
+  {
+   "start": 137.4,
+   "end": 139.2,
+   "chord": "C#:7"
+  },
+  {
+   "start": 139.2,
+   "end": 143.0,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 143.0,
+   "end": 144.8,
+   "chord": "B:maj"
+  },
+  {
+   "start": 144.8,
+   "end": 146.7,
+   "chord": "C#:7"
+  },
+  {
+   "start": 146.7,
+   "end": 150.4,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 150.4,
+   "end": 152.2,
+   "chord": "B:maj"
+  },
+  {
+   "start": 152.2,
+   "end": 154.1,
+   "chord": "G#:7"
+  },
+  {
+   "start": 154.1,
+   "end": 156.9,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 156.9,
+   "end": 157.8,
+   "chord": "B:maj"
+  },
+  {
+   "start": 157.8,
+   "end": 159.6,
+   "chord": "C#:7"
+  },
+  {
+   "start": 159.6,
+   "end": 163.4,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 163.4,
+   "end": 165.2,
+   "chord": "B:maj"
+  },
+  {
+   "start": 165.2,
+   "end": 167.1,
+   "chord": "G#:7"
+  },
+  {
+   "start": 167.1,
+   "end": 169.8,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 169.8,
+   "end": 170.8,
+   "chord": "B:maj"
+  },
+  {
+   "start": 170.8,
+   "end": 172.6,
+   "chord": "C#:7"
+  },
+  {
+   "start": 172.6,
+   "end": 175.4,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 175.4,
+   "end": 176.4,
+   "chord": "B:maj"
+  },
+  {
+   "start": 176.4,
+   "end": 178.2,
+   "chord": "C#:7"
+  },
+  {
+   "start": 178.2,
+   "end": 178.9,
+   "chord": "A:maj"
+  },
+  {
+   "start": 178.9,
+   "end": 179.6,
+   "chord": "E:maj"
+  },
+  {
+   "start": 179.6,
+   "end": 180.9,
+   "chord": "B:maj"
+  },
+  {
+   "start": 180.9,
+   "end": 183.8,
+   "chord": "F#:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "acoustic guitar",
+   "start": 0.2,
+   "end": 183.8
+  },
+  {
+   "name": "synthesizer",
+   "start": 11.0,
+   "end": 183.5
+  },
+  {
+   "name": "vocals",
+   "start": 15.1,
+   "end": 174.6
+  },
+  {
+   "name": "strings",
+   "start": 15.1,
+   "end": 183.5
+  },
+  {
+   "name": "bass guitar",
+   "start": 23.5,
+   "end": 183.5
+  },
+  {
+   "name": "drums",
+   "start": 23.5,
+   "end": 182.0
+  },
+  {
+   "name": "electric guitar",
+   "start": 24.4,
+   "end": 183.5
+  },
+  {
+   "name": "organ",
+   "start": 28.1,
+   "end": 183.0
+  },
+  {
+   "name": "percussion",
+   "start": 28.1,
+   "end": 181.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 15.1,
+   "end": 18.8,
+   "text": "Here comes the sun, doo doo doo doo"
+  },
+  {
+   "start": 18.8,
+   "end": 22.4,
+   "text": "Here comes the sun, and I say"
+  },
+  {
+   "start": 22.4,
+   "end": 24.4,
+   "text": "It's all right"
+  },
+  {
+   "start": 28.1,
+   "end": 30.0,
+   "text": "Little darling"
+  },
+  {
+   "start": 30.0,
+   "end": 35.2,
+   "text": "It's been a long, cold, lonely winter"
+  },
+  {
+   "start": 35.5,
+   "end": 37.4,
+   "text": "Little darling"
+  },
+  {
+   "start": 37.4,
+   "end": 42.2,
+   "text": "It feels like years since it's been here"
+  },
+  {
+   "start": 42.9,
+   "end": 46.5,
+   "text": "Here comes the sun, doo doo doo doo"
+  },
+  {
+   "start": 46.6,
+   "end": 50.2,
+   "text": "Here comes the sun, and I say"
+  },
+  {
+   "start": 50.3,
+   "end": 52.2,
+   "text": "It's all right"
+  },
+  {
+   "start": 59.6,
+   "end": 61.4,
+   "text": "Little darling"
+  },
+  {
+   "start": 61.5,
+   "end": 66.8,
+   "text": "The smiles returning to the faces"
+  },
+  {
+   "start": 67.0,
+   "end": 68.8,
+   "text": "Little darling"
+  },
+  {
+   "start": 68.9,
+   "end": 73.8,
+   "text": "It seems like years since it's been here"
+  },
+  {
+   "start": 74.4,
+   "end": 76.5,
+   "text": "Here comes the sun"
+  },
+  {
+   "start": 78.1,
+   "end": 81.7,
+   "text": "Here comes the sun, and I say"
+  },
+  {
+   "start": 81.8,
+   "end": 83.7,
+   "text": "It's all right"
+  },
+  {
+   "start": 96.1,
+   "end": 100.2,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 102.1,
+   "end": 106.2,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 108.1,
+   "end": 112.2,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 114.1,
+   "end": 118.2,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 120.1,
+   "end": 124.2,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 131.9,
+   "end": 133.8,
+   "text": "Little darling"
+  },
+  {
+   "start": 133.9,
+   "end": 139.0,
+   "text": "I feel that ice is slowly melting"
+  },
+  {
+   "start": 139.2,
+   "end": 141.1,
+   "text": "Little darling"
+  },
+  {
+   "start": 141.2,
+   "end": 146.1,
+   "text": "It seems like years since it's been clear"
+  },
+  {
+   "start": 146.7,
+   "end": 150.3,
+   "text": "Here comes the sun, doo doo doo doo"
+  },
+  {
+   "start": 150.4,
+   "end": 153.9,
+   "text": "Here comes the sun, and I say"
+  },
+  {
+   "start": 154.0,
+   "end": 155.9,
+   "text": "It's all right"
+  },
+  {
+   "start": 159.6,
+   "end": 163.3,
+   "text": "Here comes the sun, doo doo doo doo"
+  },
+  {
+   "start": 163.4,
+   "end": 165.6,
+   "text": "Here comes the sun"
+  },
+  {
+   "start": 167.0,
+   "end": 168.9,
+   "text": "It's all right"
+  },
+  {
+   "start": 172.6,
+   "end": 174.6,
+   "text": "It's all right"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 5570,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 5570
+   }
+  ],
+  "prompt_token_count": 6285,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 711
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 5574
+   }
+  ],
+  "thoughts_token_count": 13221,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 25076,
+  "traffic_type": null
+ }
+}

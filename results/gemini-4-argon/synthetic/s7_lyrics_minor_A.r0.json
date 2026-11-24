@@ -1,0 +1,136 @@
+{
+ "bpm": 120.0,
+ "chords": [
+  {
+   "chord": "A:min",
+   "end": 2.0,
+   "start": 0.0
+  },
+  {
+   "chord": "F:maj",
+   "end": 4.0,
+   "start": 2.0
+  },
+  {
+   "chord": "C:maj",
+   "end": 6.0,
+   "start": 4.0
+  },
+  {
+   "chord": "G:maj",
+   "end": 8.0,
+   "start": 6.0
+  },
+  {
+   "chord": "A:min",
+   "end": 10.0,
+   "start": 8.0
+  },
+  {
+   "chord": "F:maj",
+   "end": 12.0,
+   "start": 10.0
+  },
+  {
+   "chord": "D:min",
+   "end": 14.0,
+   "start": 12.0
+  },
+  {
+   "chord": "E:maj",
+   "end": 16.0,
+   "start": 14.0
+  },
+  {
+   "chord": "A:min",
+   "end": 18.0,
+   "start": 16.0
+  },
+  {
+   "chord": "F:maj",
+   "end": 20.0,
+   "start": 18.0
+  },
+  {
+   "chord": "C:maj",
+   "end": 22.0,
+   "start": 20.0
+  },
+  {
+   "chord": "G:maj",
+   "end": 24.0,
+   "start": 22.0
+  },
+  {
+   "chord": "A:min",
+   "end": 26.0,
+   "start": 24.0
+  },
+  {
+   "chord": "F:maj",
+   "end": 28.0,
+   "start": 26.0
+  },
+  {
+   "chord": "D:min",
+   "end": 30.0,
+   "start": 28.0
+  },
+  {
+   "chord": "E:maj",
+   "end": 32.0,
+   "start": 30.0
+  }
+ ],
+ "instruments": [
+  {
+   "end": 32.0,
+   "name": "Finger Bass",
+   "start": 0.0
+  },
+  {
+   "end": 32.0,
+   "name": "Jazz Guitar",
+   "start": 0.0
+  },
+  {
+   "end": 32.0,
+   "name": "Warm Pad",
+   "start": 16.0
+  },
+  {
+   "end": 32.0,
+   "name": "Standard Drum Kit",
+   "start": 0.0
+  }
+ ],
+ "keys": [
+  {
+   "end": 32.0,
+   "key": "A minor",
+   "start": 0.0
+  }
+ ],
+ "lyrics": [
+  {
+   "end": 6.699,
+   "start": 4.0,
+   "text": "Seven lanterns floating on the quiet bay."
+  },
+  {
+   "end": 18.884,
+   "start": 16.0,
+   "text": "Paper boats that never learned to find their way."
+  },
+  {
+   "end": 26.787,
+   "start": 24.0,
+   "text": "Hold the rope and pull the anchor from the sand."
+  }
+ ],
+ "time_signature": "4/4",
+ "_usage": {
+  "output_tokens": 666,
+  "input_tokens": 1396
+ }
+}

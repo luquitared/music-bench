@@ -1,0 +1,120 @@
+{
+ "bpm": 112.0,
+ "chords": [
+  {
+   "chord": "D:maj",
+   "end": 2.143,
+   "start": 0.0
+  },
+  {
+   "chord": "B:min",
+   "end": 4.286,
+   "start": 2.143
+  },
+  {
+   "chord": "G:maj",
+   "end": 6.429,
+   "start": 4.286
+  },
+  {
+   "chord": "A:maj",
+   "end": 8.571,
+   "start": 6.429
+  },
+  {
+   "chord": "D:maj",
+   "end": 10.714,
+   "start": 8.571
+  },
+  {
+   "chord": "B:min",
+   "end": 12.857,
+   "start": 10.714
+  },
+  {
+   "chord": "G:maj",
+   "end": 15.0,
+   "start": 12.857
+  },
+  {
+   "chord": "A:maj",
+   "end": 17.143,
+   "start": 15.0
+  },
+  {
+   "chord": "E:maj",
+   "end": 19.286,
+   "start": 17.143
+  },
+  {
+   "chord": "C#:min",
+   "end": 21.429,
+   "start": 19.286
+  },
+  {
+   "chord": "A:maj",
+   "end": 23.571,
+   "start": 21.429
+  },
+  {
+   "chord": "B:maj",
+   "end": 25.714,
+   "start": 23.571
+  },
+  {
+   "chord": "E:maj",
+   "end": 27.857,
+   "start": 25.714
+  },
+  {
+   "chord": "C#:min",
+   "end": 30.0,
+   "start": 27.857
+  },
+  {
+   "chord": "A:maj",
+   "end": 32.143,
+   "start": 30.0
+  },
+  {
+   "chord": "B:maj",
+   "end": 34.286,
+   "start": 32.143
+  }
+ ],
+ "instruments": [
+  {
+   "end": 34.286,
+   "name": "Acoustic Grand Piano",
+   "start": 0.0
+  },
+  {
+   "end": 34.286,
+   "name": "Flute",
+   "start": 8.571
+  },
+  {
+   "end": 34.286,
+   "name": "String Ensemble 1",
+   "start": 0.0
+  }
+ ],
+ "keys": [
+  {
+   "end": 17.143,
+   "key": "D major",
+   "start": 0.0
+  },
+  {
+   "end": 34.286,
+   "key": "E major",
+   "start": 17.143
+  }
+ ],
+ "lyrics": [],
+ "time_signature": "4/4",
+ "_usage": {
+  "output_tokens": 895,
+  "input_tokens": 1475
+ }
+}

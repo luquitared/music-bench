@@ -1,0 +1,779 @@
+{
+ "bpm": 80,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 221.3,
+   "key": "E major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.56,
+   "chord": "N"
+  },
+  {
+   "start": 0.56,
+   "end": 2.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 2.06,
+   "end": 3.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 3.56,
+   "end": 6.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 6.56,
+   "end": 8.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 8.06,
+   "end": 9.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 9.56,
+   "end": 12.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 12.56,
+   "end": 14.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 14.06,
+   "end": 15.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 15.56,
+   "end": 18.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 18.56,
+   "end": 20.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 20.06,
+   "end": 21.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 21.56,
+   "end": 24.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 24.56,
+   "end": 26.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 26.06,
+   "end": 27.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 27.56,
+   "end": 30.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 30.56,
+   "end": 32.06,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 32.06,
+   "end": 33.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 33.56,
+   "end": 36.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 36.56,
+   "end": 38.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 38.06,
+   "end": 39.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 39.56,
+   "end": 42.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 42.56,
+   "end": 44.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 44.06,
+   "end": 45.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 45.56,
+   "end": 48.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 48.56,
+   "end": 50.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 50.06,
+   "end": 51.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 51.56,
+   "end": 54.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 54.56,
+   "end": 56.06,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 56.06,
+   "end": 57.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 57.56,
+   "end": 60.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 60.56,
+   "end": 63.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 63.56,
+   "end": 66.56,
+   "chord": "E:maj"
+  },
+  {
+   "start": 66.56,
+   "end": 69.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 69.56,
+   "end": 72.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 72.56,
+   "end": 75.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 75.56,
+   "end": 78.56,
+   "chord": "E:maj"
+  },
+  {
+   "start": 78.56,
+   "end": 81.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 81.56,
+   "end": 84.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 84.56,
+   "end": 86.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 86.06,
+   "end": 87.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 87.56,
+   "end": 90.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 90.56,
+   "end": 92.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 92.06,
+   "end": 93.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 93.56,
+   "end": 96.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 96.56,
+   "end": 98.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 98.06,
+   "end": 99.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 99.56,
+   "end": 102.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 102.56,
+   "end": 104.06,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 104.06,
+   "end": 105.56,
+   "chord": "B:sus4"
+  },
+  {
+   "start": 105.56,
+   "end": 108.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 108.56,
+   "end": 111.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 111.56,
+   "end": 114.56,
+   "chord": "E:maj"
+  },
+  {
+   "start": 114.56,
+   "end": 117.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 117.56,
+   "end": 120.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 120.56,
+   "end": 123.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 123.56,
+   "end": 126.56,
+   "chord": "E:maj"
+  },
+  {
+   "start": 126.56,
+   "end": 129.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 129.56,
+   "end": 132.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 132.56,
+   "end": 134.06,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 134.06,
+   "end": 135.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 135.56,
+   "end": 137.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 137.06,
+   "end": 138.56,
+   "chord": "B:maj/D#"
+  },
+  {
+   "start": 138.56,
+   "end": 140.06,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 140.06,
+   "end": 141.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 141.56,
+   "end": 143.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 143.06,
+   "end": 144.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 144.56,
+   "end": 146.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 146.06,
+   "end": 147.56,
+   "chord": "B:maj/D#"
+  },
+  {
+   "start": 147.56,
+   "end": 149.06,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 149.06,
+   "end": 150.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 150.56,
+   "end": 152.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 152.06,
+   "end": 153.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 153.56,
+   "end": 155.06,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 155.06,
+   "end": 156.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 156.56,
+   "end": 158.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 158.06,
+   "end": 159.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 159.56,
+   "end": 161.06,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 161.06,
+   "end": 162.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 162.56,
+   "end": 164.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 164.06,
+   "end": 165.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 165.56,
+   "end": 167.06,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 167.06,
+   "end": 168.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 168.56,
+   "end": 171.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 171.56,
+   "end": 174.56,
+   "chord": "E:maj"
+  },
+  {
+   "start": 174.56,
+   "end": 177.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 177.56,
+   "end": 180.56,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 180.56,
+   "end": 183.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 183.56,
+   "end": 186.56,
+   "chord": "E:maj"
+  },
+  {
+   "start": 186.56,
+   "end": 189.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 189.56,
+   "end": 191.06,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 191.06,
+   "end": 192.56,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 192.56,
+   "end": 194.06,
+   "chord": "B:maj"
+  },
+  {
+   "start": 194.06,
+   "end": 197.06,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 197.06,
+   "end": 200.06,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 200.06,
+   "end": 203.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 203.06,
+   "end": 204.56,
+   "chord": "B:maj"
+  },
+  {
+   "start": 204.56,
+   "end": 206.06,
+   "chord": "G#:min"
+  },
+  {
+   "start": 206.06,
+   "end": 209.06,
+   "chord": "C#m:7"
+  },
+  {
+   "start": 209.06,
+   "end": 212.06,
+   "chord": "A:sus2"
+  },
+  {
+   "start": 212.06,
+   "end": 215.06,
+   "chord": "E:maj"
+  },
+  {
+   "start": 215.06,
+   "end": 219.5,
+   "chord": "E:maj"
+  },
+  {
+   "start": 219.5,
+   "end": 221.3,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "Clean Electric Guitar",
+   "start": 0.56,
+   "end": 108.56
+  },
+  {
+   "name": "Lead Male Vocals",
+   "start": 13.5,
+   "end": 196.0
+  },
+  {
+   "name": "Drums",
+   "start": 36.56,
+   "end": 215.5
+  },
+  {
+   "name": "Electric Bass",
+   "start": 36.56,
+   "end": 219.5
+  },
+  {
+   "name": "Distorted Electric Guitar",
+   "start": 60.56,
+   "end": 219.5
+  },
+  {
+   "name": "Backing Vocals",
+   "start": 60.56,
+   "end": 196.0
+  },
+  {
+   "name": "Synthesizer Pad",
+   "start": 60.56,
+   "end": 219.5
+  },
+  {
+   "name": "Lead Electric Guitar",
+   "start": 134.06,
+   "end": 219.5
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 13.5,
+   "end": 17.5,
+   "text": "Someday you'll come back here"
+  },
+  {
+   "start": 19.3,
+   "end": 23.0,
+   "text": "And you'll open up your arms"
+  },
+  {
+   "start": 25.3,
+   "end": 31.3,
+   "text": "And you'll laugh and say I knew it wouldn't take you long"
+  },
+  {
+   "start": 31.6,
+   "end": 35.0,
+   "text": "To realize I was gone"
+  },
+  {
+   "start": 37.3,
+   "end": 41.5,
+   "text": "And it's only been three years"
+  },
+  {
+   "start": 43.3,
+   "end": 47.0,
+   "text": "But to me it's been so long"
+  },
+  {
+   "start": 49.0,
+   "end": 53.3,
+   "text": "And I remember it like yesterday"
+  },
+  {
+   "start": 53.5,
+   "end": 59.0,
+   "text": "Oh you could say I've been holding on"
+  },
+  {
+   "start": 59.8,
+   "end": 65.0,
+   "text": "And I waited all of my life"
+  },
+  {
+   "start": 65.3,
+   "end": 68.0,
+   "text": "For you to make it right"
+  },
+  {
+   "start": 68.0,
+   "end": 71.0,
+   "text": "But the time has come and gone"
+  },
+  {
+   "start": 71.8,
+   "end": 77.0,
+   "text": "And it's faded and lost all its light"
+  },
+  {
+   "start": 77.2,
+   "end": 80.0,
+   "text": "A star that shines so bright"
+  },
+  {
+   "start": 80.0,
+   "end": 83.0,
+   "text": "Falls from the sky"
+  },
+  {
+   "start": 84.3,
+   "end": 88.3,
+   "text": "Don't make a wish that won't come true"
+  },
+  {
+   "start": 88.8,
+   "end": 95.0,
+   "text": "And I learned that from you such a long time ago"
+  },
+  {
+   "start": 96.3,
+   "end": 100.3,
+   "text": "When you left you said you had to find"
+  },
+  {
+   "start": 100.8,
+   "end": 103.5,
+   "text": "A better way of life"
+  },
+  {
+   "start": 103.8,
+   "end": 106.8,
+   "text": "This one just wouldn't do"
+  },
+  {
+   "start": 107.8,
+   "end": 113.0,
+   "text": "And I waited all of my life"
+  },
+  {
+   "start": 113.3,
+   "end": 116.0,
+   "text": "For you to take your time"
+  },
+  {
+   "start": 116.3,
+   "end": 119.5,
+   "text": "To find your place"
+  },
+  {
+   "start": 120.3,
+   "end": 124.0,
+   "text": "But I learned that this world still turns without you"
+  },
+  {
+   "start": 124.0,
+   "end": 125.6,
+   "text": "And you were just a phase"
+  },
+  {
+   "start": 125.6,
+   "end": 128.0,
+   "text": "And I learned without you here"
+  },
+  {
+   "start": 128.2,
+   "end": 131.0,
+   "text": "I was happier alone"
+  },
+  {
+   "start": 131.2,
+   "end": 134.5,
+   "text": "Than I ever would have known"
+  },
+  {
+   "start": 156.0,
+   "end": 160.0,
+   "text": "And I'm waiting, I'm waiting"
+  },
+  {
+   "start": 162.0,
+   "end": 168.5,
+   "text": "And I'm waiting, I'm waiting, I'm waiting"
+  },
+  {
+   "start": 168.5,
+   "end": 173.0,
+   "text": "And I waited all of my life"
+  },
+  {
+   "start": 173.3,
+   "end": 176.0,
+   "text": "For you to take your time"
+  },
+  {
+   "start": 176.0,
+   "end": 179.5,
+   "text": "But the time has come and gone"
+  },
+  {
+   "start": 179.8,
+   "end": 185.0,
+   "text": "And it's faded and lost all its light"
+  },
+  {
+   "start": 185.2,
+   "end": 188.0,
+   "text": "A star that shines so bright"
+  },
+  {
+   "start": 188.0,
+   "end": 191.0,
+   "text": "Falls from the sky"
+  },
+  {
+   "start": 191.0,
+   "end": 196.0,
+   "text": "On this cold December night"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 6277,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 6277
+   }
+  ],
+  "prompt_token_count": 7443,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 783
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 6660
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 13720,
+  "traffic_type": null
+ }
+}

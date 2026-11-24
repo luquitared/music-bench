@@ -1,0 +1,95 @@
+{
+ "bpm": 75,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0,
+   "end": 27,
+   "key": "Bb minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0,
+   "end": 1.6,
+   "chord": "Bb:min"
+  },
+  {
+   "start": 1.6,
+   "end": 3.2,
+   "chord": "Gb:maj"
+  },
+  {
+   "start": 3.2,
+   "end": 4.8,
+   "chord": "Db:maj"
+  },
+  {
+   "start": 4.8,
+   "end": 6.4,
+   "chord": "F:min"
+  },
+  {
+   "start": 6.4,
+   "end": 8.0,
+   "chord": "Bb:min"
+  },
+  {
+   "start": 8.0,
+   "end": 9.6,
+   "chord": "Eb:min"
+  },
+  {
+   "start": 9.6,
+   "end": 11.2,
+   "chord": "F:min"
+  },
+  {
+   "start": 11.2,
+   "end": 12.8,
+   "chord": "Bb:min"
+  },
+  {
+   "start": 12.8,
+   "end": 14.4,
+   "chord": "Gb:maj"
+  },
+  {
+   "start": 14.4,
+   "end": 16.0,
+   "chord": "Db:maj"
+  },
+  {
+   "start": 16.0,
+   "end": 17.6,
+   "chord": "F:min"
+  },
+  {
+   "start": 17.6,
+   "end": 19.2,
+   "chord": "Bb:min"
+  },
+  {
+   "start": 19.2,
+   "end": 20.8,
+   "chord": "Eb:min"
+  },
+  {
+   "start": 20.8,
+   "end": 25.6,
+   "chord": "F:min"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "strings",
+   "start": 0,
+   "end": 26.4
+  }
+ ],
+ "lyrics": [],
+ "_usage": {
+  "output_tokens": 2810,
+  "input_tokens": 480
+ }
+}

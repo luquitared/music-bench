@@ -1,0 +1,736 @@
+{
+ "bpm": 128,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0,
+   "end": 183,
+   "key": "A:major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 3.2,
+   "chord": "A:maj"
+  },
+  {
+   "start": 3.2,
+   "end": 5.5,
+   "chord": "D:maj"
+  },
+  {
+   "start": 5.5,
+   "end": 7.8,
+   "chord": "E:7"
+  },
+  {
+   "start": 7.8,
+   "end": 10.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 10.6,
+   "end": 12.6,
+   "chord": "D:maj"
+  },
+  {
+   "start": 12.6,
+   "end": 14.8,
+   "chord": "E:7"
+  },
+  {
+   "start": 14.8,
+   "end": 18.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 18.4,
+   "end": 20.6,
+   "chord": "D:maj"
+  },
+  {
+   "start": 20.6,
+   "end": 22.2,
+   "chord": "B:7"
+  },
+  {
+   "start": 22.2,
+   "end": 23.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 23.8,
+   "end": 24.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 24.8,
+   "end": 25.4,
+   "chord": "A:maj/3"
+  },
+  {
+   "start": 25.4,
+   "end": 26.0,
+   "chord": "B:min7"
+  },
+  {
+   "start": 26.0,
+   "end": 26.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 26.6,
+   "end": 27.6,
+   "chord": "E:maj"
+  },
+  {
+   "start": 27.6,
+   "end": 31.2,
+   "chord": "A:maj"
+  },
+  {
+   "start": 31.2,
+   "end": 33.2,
+   "chord": "D:maj"
+  },
+  {
+   "start": 33.2,
+   "end": 35.0,
+   "chord": "E:7"
+  },
+  {
+   "start": 35.0,
+   "end": 38.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 38.6,
+   "end": 40.6,
+   "chord": "D:maj"
+  },
+  {
+   "start": 40.6,
+   "end": 42.4,
+   "chord": "E:7"
+  },
+  {
+   "start": 42.4,
+   "end": 46.0,
+   "chord": "A:maj"
+  },
+  {
+   "start": 46.0,
+   "end": 48.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 48.0,
+   "end": 49.8,
+   "chord": "B:7"
+  },
+  {
+   "start": 49.8,
+   "end": 51.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 51.6,
+   "end": 52.6,
+   "chord": "D:maj"
+  },
+  {
+   "start": 52.6,
+   "end": 53.2,
+   "chord": "A:maj/3"
+  },
+  {
+   "start": 53.2,
+   "end": 53.8,
+   "chord": "B:min7"
+  },
+  {
+   "start": 53.8,
+   "end": 54.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 54.4,
+   "end": 55.4,
+   "chord": "E:maj"
+  },
+  {
+   "start": 55.4,
+   "end": 57.2,
+   "chord": "A:maj"
+  },
+  {
+   "start": 57.2,
+   "end": 59.0,
+   "chord": "E:7"
+  },
+  {
+   "start": 59.0,
+   "end": 62.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 62.6,
+   "end": 64.6,
+   "chord": "D:maj"
+  },
+  {
+   "start": 64.6,
+   "end": 66,
+   "chord": "E:7"
+  },
+  {
+   "start": 66.0,
+   "end": 69.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 69.6,
+   "end": 71.6,
+   "chord": "D:maj"
+  },
+  {
+   "start": 71.6,
+   "end": 73.6,
+   "chord": "E:7"
+  },
+  {
+   "start": 73.6,
+   "end": 77.2,
+   "chord": "A:maj"
+  },
+  {
+   "start": 77.2,
+   "end": 79.2,
+   "chord": "D:maj"
+  },
+  {
+   "start": 79.2,
+   "end": 81.2,
+   "chord": "B:7"
+  },
+  {
+   "start": 81.2,
+   "end": 83.0,
+   "chord": "A:maj"
+  },
+  {
+   "start": 83.0,
+   "end": 84.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 84.0,
+   "end": 84.6,
+   "chord": "A:maj/3"
+  },
+  {
+   "start": 84.6,
+   "end": 85.2,
+   "chord": "B:min7"
+  },
+  {
+   "start": 85.2,
+   "end": 85.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 85.8,
+   "end": 86.8,
+   "chord": "E:maj"
+  },
+  {
+   "start": 86.8,
+   "end": 88.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 88.6,
+   "end": 90.4,
+   "chord": "E:7"
+  },
+  {
+   "start": 90.4,
+   "end": 91.1,
+   "chord": "C:maj"
+  },
+  {
+   "start": 91.1,
+   "end": 91.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 91.8,
+   "end": 92.9,
+   "chord": "D:maj/3"
+  },
+  {
+   "start": 92.9,
+   "end": 94.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 94.8,
+   "end": 96.4,
+   "chord": "E:7"
+  },
+  {
+   "start": 96.4,
+   "end": 97.1,
+   "chord": "C:maj"
+  },
+  {
+   "start": 97.1,
+   "end": 97.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 97.8,
+   "end": 98.9,
+   "chord": "D:maj/3"
+  },
+  {
+   "start": 98.9,
+   "end": 100.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 100.8,
+   "end": 102.4,
+   "chord": "E:7"
+  },
+  {
+   "start": 102.4,
+   "end": 103.1,
+   "chord": "C:maj"
+  },
+  {
+   "start": 103.1,
+   "end": 103.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 103.8,
+   "end": 104.9,
+   "chord": "D:maj/3"
+  },
+  {
+   "start": 104.9,
+   "end": 106.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 106.6,
+   "end": 108.3,
+   "chord": "E:7"
+  },
+  {
+   "start": 108.3,
+   "end": 109.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 109.0,
+   "end": 109.7,
+   "chord": "G:maj"
+  },
+  {
+   "start": 109.7,
+   "end": 110.8,
+   "chord": "D:maj/3"
+  },
+  {
+   "start": 110.8,
+   "end": 112.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 112.6,
+   "end": 114.2,
+   "chord": "E:7"
+  },
+  {
+   "start": 114.2,
+   "end": 114.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 114.9,
+   "end": 115.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 115.6,
+   "end": 116.7,
+   "chord": "D:maj/3"
+  },
+  {
+   "start": 116.7,
+   "end": 118.5,
+   "chord": "A:maj"
+  },
+  {
+   "start": 118.5,
+   "end": 120.1,
+   "chord": "E:7"
+  },
+  {
+   "start": 120.1,
+   "end": 120.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 120.8,
+   "end": 121.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 121.5,
+   "end": 122.6,
+   "chord": "D:maj/3"
+  },
+  {
+   "start": 122.6,
+   "end": 124.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 124.4,
+   "end": 131.7,
+   "chord": "E:7"
+  },
+  {
+   "start": 131.7,
+   "end": 135.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 135.4,
+   "end": 137.3,
+   "chord": "D:maj"
+  },
+  {
+   "start": 137.3,
+   "end": 139.1,
+   "chord": "E:7"
+  },
+  {
+   "start": 139.1,
+   "end": 142.9,
+   "chord": "A:maj"
+  },
+  {
+   "start": 142.9,
+   "end": 144.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 144.8,
+   "end": 146.6,
+   "chord": "E:7"
+  },
+  {
+   "start": 146.6,
+   "end": 150.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 150.4,
+   "end": 152.3,
+   "chord": "D:maj"
+  },
+  {
+   "start": 152.3,
+   "end": 154.1,
+   "chord": "B:7"
+  },
+  {
+   "start": 154.1,
+   "end": 155.9,
+   "chord": "A:maj"
+  },
+  {
+   "start": 155.9,
+   "end": 156.9,
+   "chord": "D:maj"
+  },
+  {
+   "start": 156.9,
+   "end": 157.5,
+   "chord": "A:maj/3"
+  },
+  {
+   "start": 157.5,
+   "end": 158.1,
+   "chord": "B:min7"
+  },
+  {
+   "start": 158.1,
+   "end": 158.7,
+   "chord": "A:maj"
+  },
+  {
+   "start": 158.7,
+   "end": 159.7,
+   "chord": "E:maj"
+  },
+  {
+   "start": 159.7,
+   "end": 163.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 163.4,
+   "end": 165.3,
+   "chord": "D:maj"
+  },
+  {
+   "start": 165.3,
+   "end": 167.2,
+   "chord": "B:7"
+  },
+  {
+   "start": 167.2,
+   "end": 169.1,
+   "chord": "A:maj"
+  },
+  {
+   "start": 169.1,
+   "end": 170.1,
+   "chord": "D:maj"
+  },
+  {
+   "start": 170.1,
+   "end": 170.7,
+   "chord": "A:maj/3"
+  },
+  {
+   "start": 170.7,
+   "end": 171.3,
+   "chord": "B:min7"
+  },
+  {
+   "start": 171.3,
+   "end": 171.9,
+   "chord": "A:maj"
+  },
+  {
+   "start": 171.9,
+   "end": 172.9,
+   "chord": "E:maj"
+  },
+  {
+   "start": 172.9,
+   "end": 174.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 174.8,
+   "end": 175.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 175.8,
+   "end": 176.4,
+   "chord": "A:maj/3"
+  },
+  {
+   "start": 176.4,
+   "end": 177.0,
+   "chord": "B:min7"
+  },
+  {
+   "start": 177.0,
+   "end": 177.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 177.6,
+   "end": 178.6,
+   "chord": "E:maj"
+  },
+  {
+   "start": 178.6,
+   "end": 181.4,
+   "chord": "C:maj6"
+  },
+  {
+   "start": 181.4,
+   "end": 183.0,
+   "chord": "A:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "acoustic guitar",
+   "start": 0.0,
+   "end": 183.0
+  },
+  {
+   "name": "electric guitar",
+   "start": 0.0,
+   "end": 183.0
+  },
+  {
+   "name": "bass guitar",
+   "start": 22.2,
+   "end": 183.0
+  },
+  {
+   "name": "drums",
+   "start": 22.2,
+   "end": 183.0
+  },
+  {
+   "name": "Moog synthesizer",
+   "start": 23.8,
+   "end": 27.6
+  },
+  {
+   "name": "Moog synthesizer",
+   "start": 51.6,
+   "end": 55.4
+  },
+  {
+   "name": "Moog synthesizer",
+   "start": 83.0,
+   "end": 86.8
+  },
+  {
+   "name": "Moog synthesizer",
+   "start": 155.9,
+   "end": 159.7
+  },
+  {
+   "name": "Moog synthesizer",
+   "start": 169.1,
+   "end": 172.9
+  },
+  {
+   "name": "Moog synthesizer",
+   "start": 174.8,
+   "end": 178.6
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 15.2,
+   "end": 18.4,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 18.8,
+   "end": 23.6,
+   "text": "Here comes the sun, and I say, it's all right"
+  },
+  {
+   "start": 28.0,
+   "end": 33.6,
+   "text": "Little darling, it's been a long cold lonely winter"
+  },
+  {
+   "start": 35.4,
+   "end": 41.0,
+   "text": "Little darling, it feels like years since it's been here"
+  },
+  {
+   "start": 42.8,
+   "end": 46.0,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 46.4,
+   "end": 51.6,
+   "text": "Here comes the sun, and I say, it's all right"
+  },
+  {
+   "start": 59.6,
+   "end": 65.6,
+   "text": "Little darling, the smiles returning to the faces"
+  },
+  {
+   "start": 67.2,
+   "end": 72.8,
+   "text": "Little darling, it seems like years since it's been here"
+  },
+  {
+   "start": 74.6,
+   "end": 77.8,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 78.4,
+   "end": 83.4,
+   "text": "Here comes the sun, and I say, it's all right"
+  },
+  {
+   "start": 96.6,
+   "end": 100.0,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 102.6,
+   "end": 106.0,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 108.4,
+   "end": 111.8,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 114.4,
+   "end": 117.8,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 120.2,
+   "end": 123.6,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 132.2,
+   "end": 138.0,
+   "text": "Little darling, I feel that ice is slowly melting"
+  },
+  {
+   "start": 139.6,
+   "end": 145.2,
+   "text": "Little darling, it seems like years since it's been clear"
+  },
+  {
+   "start": 147.0,
+   "end": 150.2,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 150.6,
+   "end": 155.8,
+   "text": "Here comes the sun, and I say, it's all right"
+  },
+  {
+   "start": 160.2,
+   "end": 163.4,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 163.8,
+   "end": 169.0,
+   "text": "Here comes the sun, and I say, it's all right"
+  },
+  {
+   "start": 173.2,
+   "end": 174.8,
+   "text": "It's all right"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 8765,
+  "input_tokens": 1593
+ }
+}

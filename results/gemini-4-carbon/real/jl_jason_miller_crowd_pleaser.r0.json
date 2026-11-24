@@ -1,0 +1,869 @@
+{
+ "bpm": 99,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 192.0,
+   "key": "C# minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.15,
+   "chord": "N"
+  },
+  {
+   "start": 0.15,
+   "end": 2.57,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 2.57,
+   "end": 5.0,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 5.0,
+   "end": 7.42,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 7.42,
+   "end": 9.85,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 9.85,
+   "end": 12.27,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 12.27,
+   "end": 14.7,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 14.7,
+   "end": 17.12,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 17.12,
+   "end": 19.54,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 19.54,
+   "end": 21.97,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 21.97,
+   "end": 24.39,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 24.39,
+   "end": 26.82,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 26.82,
+   "end": 29.24,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 29.24,
+   "end": 31.67,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 31.67,
+   "end": 34.09,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 34.09,
+   "end": 36.51,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 36.51,
+   "end": 38.94,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 38.94,
+   "end": 41.36,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 41.36,
+   "end": 43.79,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 43.79,
+   "end": 46.21,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 46.21,
+   "end": 48.64,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 48.64,
+   "end": 51.06,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 51.06,
+   "end": 53.48,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 53.48,
+   "end": 55.91,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 55.91,
+   "end": 58.33,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 58.33,
+   "end": 60.76,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 60.76,
+   "end": 63.18,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 63.18,
+   "end": 65.61,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 65.61,
+   "end": 68.03,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 68.03,
+   "end": 70.45,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 70.45,
+   "end": 72.88,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 72.88,
+   "end": 75.3,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 75.3,
+   "end": 77.73,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 77.73,
+   "end": 80.15,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 80.15,
+   "end": 82.58,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 82.58,
+   "end": 85.0,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 85.0,
+   "end": 87.42,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 87.42,
+   "end": 89.85,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 89.85,
+   "end": 92.27,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 92.27,
+   "end": 94.7,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 94.7,
+   "end": 97.12,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 97.12,
+   "end": 99.55,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 99.55,
+   "end": 101.97,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 101.97,
+   "end": 104.39,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 104.39,
+   "end": 106.82,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 106.82,
+   "end": 109.24,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 109.24,
+   "end": 111.67,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 111.67,
+   "end": 114.09,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 114.09,
+   "end": 116.52,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 116.52,
+   "end": 118.94,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 118.94,
+   "end": 121.36,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 121.36,
+   "end": 123.79,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 123.79,
+   "end": 126.21,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 126.21,
+   "end": 128.64,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 128.64,
+   "end": 131.06,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 131.06,
+   "end": 133.48,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 133.48,
+   "end": 135.91,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 135.91,
+   "end": 138.33,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 138.33,
+   "end": 140.76,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 140.76,
+   "end": 143.18,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 143.18,
+   "end": 145.61,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 145.61,
+   "end": 148.03,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 148.03,
+   "end": 150.45,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 150.45,
+   "end": 152.88,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 152.88,
+   "end": 155.3,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 155.3,
+   "end": 157.73,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 157.73,
+   "end": 160.15,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 160.15,
+   "end": 162.58,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 162.58,
+   "end": 165.0,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 165.0,
+   "end": 167.42,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 167.42,
+   "end": 169.85,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 169.85,
+   "end": 172.27,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 172.27,
+   "end": 174.7,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 174.7,
+   "end": 177.12,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 177.12,
+   "end": 179.55,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 179.55,
+   "end": 181.97,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 181.97,
+   "end": 184.39,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 184.39,
+   "end": 186.82,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 186.82,
+   "end": 189.24,
+   "chord": "B:maj7"
+  },
+  {
+   "start": 189.24,
+   "end": 191.67,
+   "chord": "C#:min7"
+  },
+  {
+   "start": 191.67,
+   "end": 192.0,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "Electric piano",
+   "start": 0.15,
+   "end": 191.5
+  },
+  {
+   "name": "Synth pad",
+   "start": 0.15,
+   "end": 191.5
+  },
+  {
+   "name": "Bell synthesizer",
+   "start": 0.15,
+   "end": 19.54
+  },
+  {
+   "name": "Sound effects",
+   "start": 0.15,
+   "end": 19.54
+  },
+  {
+   "name": "Drum machine",
+   "start": 19.54,
+   "end": 48.0
+  },
+  {
+   "name": "Synth bass",
+   "start": 19.54,
+   "end": 48.0
+  },
+  {
+   "name": "Brass section",
+   "start": 19.54,
+   "end": 38.94
+  },
+  {
+   "name": "Male rap vocals",
+   "start": 19.8,
+   "end": 174.8
+  },
+  {
+   "name": "Backing vocals",
+   "start": 19.54,
+   "end": 38.94
+  },
+  {
+   "name": "Drum machine",
+   "start": 51.06,
+   "end": 135.91
+  },
+  {
+   "name": "Synth bass",
+   "start": 51.06,
+   "end": 135.91
+  },
+  {
+   "name": "Brass section",
+   "start": 77.73,
+   "end": 97.12
+  },
+  {
+   "name": "Backing vocals",
+   "start": 77.73,
+   "end": 97.12
+  },
+  {
+   "name": "Percussion",
+   "start": 145.61,
+   "end": 155.3
+  },
+  {
+   "name": "Backing vocals",
+   "start": 145.61,
+   "end": 155.3
+  },
+  {
+   "name": "Drum machine",
+   "start": 155.3,
+   "end": 191.5
+  },
+  {
+   "name": "Synth bass",
+   "start": 155.3,
+   "end": 191.5
+  },
+  {
+   "name": "Vocal effects",
+   "start": 174.7,
+   "end": 191.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 19.8,
+   "end": 22.0,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 22.1,
+   "end": 24.3,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 24.4,
+   "end": 25.5,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 25.6,
+   "end": 28.9,
+   "text": "Skate like they ain't nothin' doin', live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 29.5,
+   "end": 31.7,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 31.8,
+   "end": 34.0,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 34.1,
+   "end": 35.3,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 35.4,
+   "end": 38.6,
+   "text": "Skate like they ain't nothin' doin', live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 39.2,
+   "end": 41.3,
+   "text": "People tellin' lies on me"
+  },
+  {
+   "start": 41.5,
+   "end": 43.8,
+   "text": "Feelin' like Pac, all eyes on me"
+  },
+  {
+   "start": 44.0,
+   "end": 46.0,
+   "text": "What my next rhyme gon' be?"
+  },
+  {
+   "start": 46.1,
+   "end": 48.6,
+   "text": "Though motherfuckers never ever gon' shine off me"
+  },
+  {
+   "start": 48.7,
+   "end": 51.1,
+   "text": "Wait for it, wait for it, wait for it"
+  },
+  {
+   "start": 51.2,
+   "end": 53.5,
+   "text": "Don't worry, my haters is gon' pay for it"
+  },
+  {
+   "start": 53.6,
+   "end": 56.0,
+   "text": "Chase dreams while dumb niggas'll chase whores"
+  },
+  {
+   "start": 56.1,
+   "end": 58.3,
+   "text": "Overseas on a great tour"
+  },
+  {
+   "start": 58.4,
+   "end": 60.5,
+   "text": "Or maybe I'm just dreamin'"
+  },
+  {
+   "start": 60.6,
+   "end": 63.3,
+   "text": "It beats bein' with demons, all niggas is schemin'"
+  },
+  {
+   "start": 63.4,
+   "end": 65.4,
+   "text": "At least I'm thinkin' of an achievement"
+  },
+  {
+   "start": 65.5,
+   "end": 68.0,
+   "text": "People talk shit for four seasons for no reason"
+  },
+  {
+   "start": 68.1,
+   "end": 70.4,
+   "text": "People dog LeBron 'til LeBron show up"
+  },
+  {
+   "start": 70.5,
+   "end": 72.6,
+   "text": "When he steps on the paint, then they guards go up"
+  },
+  {
+   "start": 72.7,
+   "end": 74.8,
+   "text": "Scores go up, all the applause go up"
+  },
+  {
+   "start": 74.9,
+   "end": 77.6,
+   "text": "And everybody in the whole damn court goes nuts"
+  },
+  {
+   "start": 77.9,
+   "end": 80.1,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 80.2,
+   "end": 82.4,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 82.5,
+   "end": 83.7,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 83.8,
+   "end": 87.2,
+   "text": "Skate like they ain't nothin' doin', live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 87.6,
+   "end": 89.8,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 89.9,
+   "end": 92.1,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 92.2,
+   "end": 93.4,
+   "text": "Damn, you a major influence"
+  },
+  {
+   "start": 93.5,
+   "end": 96.9,
+   "text": "Skate like they ain't nothin' doin', live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 97.1,
+   "end": 99.4,
+   "text": "Spectators, sideliners"
+  },
+  {
+   "start": 99.5,
+   "end": 101.8,
+   "text": "Spend their days comin' up with sly comments"
+  },
+  {
+   "start": 101.9,
+   "end": 104.3,
+   "text": "That's psychotic, why tarnish a fly product?"
+  },
+  {
+   "start": 104.4,
+   "end": 106.5,
+   "text": "Why be mad just 'cause I got it?"
+  },
+  {
+   "start": 106.6,
+   "end": 107.9,
+   "text": "Hate, I may never know"
+  },
+  {
+   "start": 108.0,
+   "end": 110.2,
+   "text": "Wave to the haters that put me on a pedestal"
+  },
+  {
+   "start": 110.3,
+   "end": 112.6,
+   "text": "Talk smack, but they really know I'm incredible"
+  },
+  {
+   "start": 112.7,
+   "end": 115.6,
+   "text": "Unforgettable, young blue-eyes, the new guy is on schedule"
+  },
+  {
+   "start": 115.7,
+   "end": 118.0,
+   "text": "Man behind bars and that's minus the federal"
+  },
+  {
+   "start": 118.1,
+   "end": 120.5,
+   "text": "Stone giant, what the hell could some pebbles do?"
+  },
+  {
+   "start": 120.6,
+   "end": 123.0,
+   "text": "While you revel in drama, I'm buildin' revenue"
+  },
+  {
+   "start": 123.1,
+   "end": 125.5,
+   "text": "Tell 'em you'll get 'em tomorrow, there ain't no stressin' you"
+  },
+  {
+   "start": 125.6,
+   "end": 127.4,
+   "text": "Life goes on, life goes on"
+  },
+  {
+   "start": 127.5,
+   "end": 129.9,
+   "text": "You the shit even before those lights went on"
+  },
+  {
+   "start": 130.0,
+   "end": 132.4,
+   "text": "They gon' trash you even if they like your song"
+  },
+  {
+   "start": 132.5,
+   "end": 135.0,
+   "text": "People always gon' judge, homie, right or wrong"
+  },
+  {
+   "start": 136.1,
+   "end": 138.3,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 138.4,
+   "end": 140.5,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 140.6,
+   "end": 141.9,
+   "text": "Damn, you're a major influence"
+  },
+  {
+   "start": 142.0,
+   "end": 145.4,
+   "text": "Skate like they ain't nothin' doin', live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 145.7,
+   "end": 147.9,
+   "text": "People gon' hate, let 'em do it"
+  },
+  {
+   "start": 148.0,
+   "end": 150.2,
+   "text": "Shine like it ain't nothin' to it"
+  },
+  {
+   "start": 150.3,
+   "end": 151.6,
+   "text": "Damn, you're a major influence"
+  },
+  {
+   "start": 151.7,
+   "end": 155.1,
+   "text": "Skate like they ain't nothin' doin', live life, don't say nothin' to 'em"
+  },
+  {
+   "start": 155.3,
+   "end": 157.5,
+   "text": "We don't give a damn what you did"
+  },
+  {
+   "start": 157.6,
+   "end": 159.7,
+   "text": "We don't give a damn who you are"
+  },
+  {
+   "start": 159.8,
+   "end": 161.6,
+   "text": "Homie, you ain't down with the team"
+  },
+  {
+   "start": 161.7,
+   "end": 163.5,
+   "text": "We don't give a damn what you think"
+  },
+  {
+   "start": 163.6,
+   "end": 165.0,
+   "text": "We don't give a damn what you thought"
+  },
+  {
+   "start": 165.1,
+   "end": 167.2,
+   "text": "We don't give a damn what you did"
+  },
+  {
+   "start": 167.3,
+   "end": 169.4,
+   "text": "We don't give a damn who you are"
+  },
+  {
+   "start": 169.5,
+   "end": 171.3,
+   "text": "Homie, you ain't down with the team"
+  },
+  {
+   "start": 171.4,
+   "end": 173.2,
+   "text": "We don't give a damn what you think"
+  },
+  {
+   "start": 173.3,
+   "end": 174.8,
+   "text": "We don't give a damn what you thought"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 5631,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 5631
+   }
+  ],
+  "prompt_token_count": 6510,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 725
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 5785
+   }
+  ],
+  "thoughts_token_count": 5446,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 17587,
+  "traffic_type": null
+ }
+}

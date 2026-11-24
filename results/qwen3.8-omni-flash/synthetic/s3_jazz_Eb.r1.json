@@ -1,0 +1,125 @@
+{
+ "bpm": 93,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 42.84,
+   "key": "Eb major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.59,
+   "chord": "F:min7"
+  },
+  {
+   "start": 2.59,
+   "end": 5.19,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 5.19,
+   "end": 7.79,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 7.79,
+   "end": 10.4,
+   "chord": "C:min7"
+  },
+  {
+   "start": 10.4,
+   "end": 13.02,
+   "chord": "F:min7"
+  },
+  {
+   "start": 13.02,
+   "end": 15.63,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 15.63,
+   "end": 18.23,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 18.23,
+   "end": 20.84,
+   "chord": "C:min7"
+  },
+  {
+   "start": 20.84,
+   "end": 23.46,
+   "chord": "F:min7"
+  },
+  {
+   "start": 23.46,
+   "end": 26.06,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 26.06,
+   "end": 28.67,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 28.67,
+   "end": 31.28,
+   "chord": "C:min7"
+  },
+  {
+   "start": 31.28,
+   "end": 33.89,
+   "chord": "F:min7"
+  },
+  {
+   "start": 33.89,
+   "end": 36.5,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 36.5,
+   "end": 39.11,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 39.11,
+   "end": 41.72,
+   "chord": "C:min7"
+  },
+  {
+   "start": 41.72,
+   "end": 42.84,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "drum machine",
+   "start": 0.0,
+   "end": 20.84
+  },
+  {
+   "name": "electric piano",
+   "start": 0.0,
+   "end": 42.36
+  },
+  {
+   "name": "saxophone",
+   "start": 20.84,
+   "end": 42.36
+  },
+  {
+   "name": "drum machine",
+   "start": 21.0,
+   "end": 42.36
+  }
+ ],
+ "lyrics": [],
+ "_usage": {
+  "output_tokens": 1491,
+  "input_tokens": 592
+ }
+}

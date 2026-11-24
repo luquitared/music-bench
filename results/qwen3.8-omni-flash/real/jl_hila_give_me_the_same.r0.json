@@ -1,0 +1,1111 @@
+{
+ "bpm": 108,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 352.0,
+   "key": "Eb:major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.22,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 2.22,
+   "end": 4.43,
+   "chord": "C:min"
+  },
+  {
+   "start": 4.43,
+   "end": 6.65,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 6.65,
+   "end": 11.1,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 11.1,
+   "end": 13.31,
+   "chord": "C:min"
+  },
+  {
+   "start": 13.31,
+   "end": 15.54,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 15.54,
+   "end": 19.99,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 19.99,
+   "end": 22.21,
+   "chord": "C:min"
+  },
+  {
+   "start": 22.21,
+   "end": 24.43,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 24.43,
+   "end": 28.87,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 28.87,
+   "end": 31.1,
+   "chord": "C:min"
+  },
+  {
+   "start": 31.1,
+   "end": 33.31,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 33.31,
+   "end": 37.76,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 37.76,
+   "end": 39.99,
+   "chord": "C:min"
+  },
+  {
+   "start": 39.99,
+   "end": 42.2,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 42.2,
+   "end": 45.54,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 45.54,
+   "end": 46.65,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 46.65,
+   "end": 48.87,
+   "chord": "C:min"
+  },
+  {
+   "start": 48.87,
+   "end": 51.1,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 51.1,
+   "end": 53.31,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 53.31,
+   "end": 55.54,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 55.54,
+   "end": 57.76,
+   "chord": "C:min"
+  },
+  {
+   "start": 57.76,
+   "end": 59.99,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 59.99,
+   "end": 64.43,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 64.43,
+   "end": 66.65,
+   "chord": "C:min"
+  },
+  {
+   "start": 66.65,
+   "end": 68.87,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 68.87,
+   "end": 73.31,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 73.31,
+   "end": 75.54,
+   "chord": "C:min"
+  },
+  {
+   "start": 75.54,
+   "end": 77.76,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 77.76,
+   "end": 81.1,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 81.1,
+   "end": 82.2,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 82.2,
+   "end": 83.31,
+   "chord": "C:min"
+  },
+  {
+   "start": 83.31,
+   "end": 84.43,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 84.43,
+   "end": 86.65,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 86.65,
+   "end": 88.87,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 88.87,
+   "end": 91.1,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 91.1,
+   "end": 93.31,
+   "chord": "C:min"
+  },
+  {
+   "start": 93.31,
+   "end": 95.54,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 95.54,
+   "end": 99.99,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 99.99,
+   "end": 102.2,
+   "chord": "C:min"
+  },
+  {
+   "start": 102.2,
+   "end": 104.43,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 104.43,
+   "end": 108.87,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 108.87,
+   "end": 111.1,
+   "chord": "C:min"
+  },
+  {
+   "start": 111.1,
+   "end": 113.31,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 113.31,
+   "end": 116.65,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 116.65,
+   "end": 117.76,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 117.76,
+   "end": 119.99,
+   "chord": "C:min"
+  },
+  {
+   "start": 119.99,
+   "end": 122.2,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 122.2,
+   "end": 124.43,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 124.43,
+   "end": 126.65,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 126.65,
+   "end": 128.87,
+   "chord": "C:min"
+  },
+  {
+   "start": 128.87,
+   "end": 131.1,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 131.1,
+   "end": 135.54,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 135.54,
+   "end": 137.76,
+   "chord": "C:min"
+  },
+  {
+   "start": 137.76,
+   "end": 139.99,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 139.99,
+   "end": 144.43,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 144.43,
+   "end": 146.65,
+   "chord": "C:min"
+  },
+  {
+   "start": 146.65,
+   "end": 148.87,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 148.87,
+   "end": 152.21,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 152.21,
+   "end": 153.31,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 153.31,
+   "end": 154.43,
+   "chord": "C:min"
+  },
+  {
+   "start": 154.43,
+   "end": 155.54,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 155.54,
+   "end": 157.76,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 157.76,
+   "end": 19.99,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 19.99,
+   "end": 22.21,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 22.21,
+   "end": 24.43,
+   "chord": "C:min"
+  },
+  {
+   "start": 24.43,
+   "end": 26.65,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 26.65,
+   "end": 31.1,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 31.1,
+   "end": 33.31,
+   "chord": "C:min"
+  },
+  {
+   "start": 33.31,
+   "end": 35.54,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 35.54,
+   "end": 39.99,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 39.99,
+   "end": 42.2,
+   "chord": "C:min"
+  },
+  {
+   "start": 42.2,
+   "end": 44.43,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 44.43,
+   "end": 47.76,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 47.76,
+   "end": 48.87,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 48.87,
+   "end": 51.1,
+   "chord": "C:min"
+  },
+  {
+   "start": 51.1,
+   "end": 53.31,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 53.31,
+   "end": 55.54,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 55.54,
+   "end": 57.76,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 57.76,
+   "end": 59.99,
+   "chord": "C:min"
+  },
+  {
+   "start": 59.99,
+   "end": 62.2,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 62.2,
+   "end": 66.65,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 66.65,
+   "end": 68.87,
+   "chord": "C:min"
+  },
+  {
+   "start": 68.87,
+   "end": 71.1,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 71.1,
+   "end": 75.54,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 75.54,
+   "end": 77.76,
+   "chord": "C:min"
+  },
+  {
+   "start": 77.76,
+   "end": 79.99,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 79.99,
+   "end": 83.31,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 83.31,
+   "end": 84.43,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 84.43,
+   "end": 85.54,
+   "chord": "C:min"
+  },
+  {
+   "start": 85.54,
+   "end": 86.65,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 86.65,
+   "end": 88.87,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 88.87,
+   "end": 91.1,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 91.1,
+   "end": 93.31,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 93.31,
+   "end": 95.54,
+   "chord": "C:min"
+  },
+  {
+   "start": 95.54,
+   "end": 97.76,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 97.76,
+   "end": 102.2,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 102.2,
+   "end": 104.43,
+   "chord": "C:min"
+  },
+  {
+   "start": 104.43,
+   "end": 106.65,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 106.65,
+   "end": 111.1,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 111.1,
+   "end": 113.31,
+   "chord": "C:min"
+  },
+  {
+   "start": 113.31,
+   "end": 115.54,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 115.54,
+   "end": 118.87,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 118.87,
+   "end": 119.99,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 119.99,
+   "end": 122.2,
+   "chord": "C:min"
+  },
+  {
+   "start": 122.2,
+   "end": 124.43,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 124.43,
+   "end": 126.65,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 126.65,
+   "end": 128.87,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 128.87,
+   "end": 131.1,
+   "chord": "C:min"
+  },
+  {
+   "start": 131.1,
+   "end": 133.31,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 133.31,
+   "end": 137.76,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 137.76,
+   "end": 139.99,
+   "chord": "C:min"
+  },
+  {
+   "start": 139.99,
+   "end": 142.2,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 142.2,
+   "end": 146.65,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 146.65,
+   "end": 148.87,
+   "chord": "C:min"
+  },
+  {
+   "start": 148.87,
+   "end": 151.1,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 151.1,
+   "end": 154.43,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 154.43,
+   "end": 155.54,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 155.54,
+   "end": 156.65,
+   "chord": "C:min"
+  },
+  {
+   "start": 156.65,
+   "end": 157.76,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 157.76,
+   "end": 159.99,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 159.99,
+   "end": 162.2,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 162.2,
+   "end": 164.43,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 164.43,
+   "end": 166.65,
+   "chord": "C:min"
+  },
+  {
+   "start": 166.65,
+   "end": 168.87,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 168.87,
+   "end": 173.31,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 173.31,
+   "end": 175.54,
+   "chord": "C:min"
+  },
+  {
+   "start": 175.54,
+   "end": 177.76,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 177.76,
+   "end": 182.2,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 182.2,
+   "end": 184.43,
+   "chord": "C:min"
+  },
+  {
+   "start": 184.43,
+   "end": 186.65,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 186.65,
+   "end": 189.99,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 189.99,
+   "end": 191.1,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 191.1,
+   "end": 193.31,
+   "chord": "C:min"
+  },
+  {
+   "start": 193.31,
+   "end": 195.54,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 195.54,
+   "end": 197.76,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 197.76,
+   "end": 199.99,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 199.99,
+   "end": 202.2,
+   "chord": "C:min"
+  },
+  {
+   "start": 202.2,
+   "end": 204.43,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 204.43,
+   "end": 208.87,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 208.87,
+   "end": 211.1,
+   "chord": "C:min"
+  },
+  {
+   "start": 211.1,
+   "end": 213.31,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 213.31,
+   "end": 217.76,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 217.76,
+   "end": 219.99,
+   "chord": "C:min"
+  },
+  {
+   "start": 219.99,
+   "end": 222.2,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 222.2,
+   "end": 225.54,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 225.54,
+   "end": 226.65,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 226.65,
+   "end": 227.76,
+   "chord": "C:min"
+  },
+  {
+   "start": 227.76,
+   "end": 228.87,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 228.87,
+   "end": 231.1,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 231.1,
+   "end": 233.31,
+   "chord": "Bb:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0.0,
+   "end": 352.0
+  },
+  {
+   "name": "drums",
+   "start": 9.0,
+   "end": 352.0
+  },
+  {
+   "name": "bass",
+   "start": 9.0,
+   "end": 352.0
+  },
+  {
+   "name": "vocals",
+   "start": 18.0,
+   "end": 352.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "text": "Lay awake at night"
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "text": "Wondering how could I"
+  },
+  {
+   "start": 22.0,
+   "end": 25.0,
+   "text": "Let it get this way"
+  },
+  {
+   "start": 27.0,
+   "end": 29.0,
+   "text": "Through all the pain"
+  },
+  {
+   "start": 29.0,
+   "end": 31.0,
+   "text": "I took all the blame"
+  },
+  {
+   "start": 31.0,
+   "end": 34.0,
+   "text": "While you cursed my last name"
+  },
+  {
+   "start": 36.0,
+   "end": 38.0,
+   "text": "I thought we could get better"
+  },
+  {
+   "start": 38.0,
+   "end": 40.0,
+   "text": "Stay committed like a soldier"
+  },
+  {
+   "start": 40.0,
+   "end": 43.0,
+   "text": "Believed we're okay"
+  },
+  {
+   "start": 44.0,
+   "end": 52.0,
+   "text": "Now I know that you don't care at all"
+  },
+  {
+   "start": 53.0,
+   "end": 55.0,
+   "text": "Time wasted"
+  },
+  {
+   "start": 55.0,
+   "end": 57.0,
+   "text": "Gave all of my soul and my heart"
+  },
+  {
+   "start": 57.0,
+   "end": 62.0,
+   "text": "To someone that would never give me the same"
+  },
+  {
+   "start": 62.0,
+   "end": 64.0,
+   "text": "I was a fool to believe that you"
+  },
+  {
+   "start": 64.0,
+   "end": 66.0,
+   "text": "Would finally be the one to"
+  },
+  {
+   "start": 66.0,
+   "end": 71.0,
+   "text": "Give me the same"
+  },
+  {
+   "start": 71.0,
+   "end": 75.0,
+   "text": "Heartbroken now"
+  },
+  {
+   "start": 75.0,
+   "end": 79.0,
+   "text": "How you let me down"
+  },
+  {
+   "start": 79.0,
+   "end": 82.0,
+   "text": "But somehow"
+  },
+  {
+   "start": 82.0,
+   "end": 85.0,
+   "text": "Deep down I still do"
+  },
+  {
+   "start": 85.0,
+   "end": 89.0,
+   "text": "Love you"
+  },
+  {
+   "start": 91.0,
+   "end": 93.0,
+   "text": "Now you're up all night"
+  },
+  {
+   "start": 93.0,
+   "end": 95.0,
+   "text": "Telling your lies"
+  },
+  {
+   "start": 95.0,
+   "end": 98.0,
+   "text": "About the way I hurt you"
+  },
+  {
+   "start": 98.0,
+   "end": 100.0,
+   "text": "They couldn't see the way"
+  },
+  {
+   "start": 100.0,
+   "end": 102.0,
+   "text": "You made me feel ashamed"
+  },
+  {
+   "start": 102.0,
+   "end": 105.0,
+   "text": "For choosing to love you"
+  },
+  {
+   "start": 107.0,
+   "end": 109.0,
+   "text": "I began to see clearer"
+  },
+  {
+   "start": 109.0,
+   "end": 111.0,
+   "text": "That you were just a liar"
+  },
+  {
+   "start": 111.0,
+   "end": 114.0,
+   "text": "Stuck in your ways"
+  },
+  {
+   "start": 115.0,
+   "end": 117.0,
+   "text": "So now I"
+  },
+  {
+   "start": 117.0,
+   "end": 120.0,
+   "text": "Choose to walk away"
+  },
+  {
+   "start": 120.0,
+   "end": 124.0,
+   "text": "Forever"
+  },
+  {
+   "start": 124.0,
+   "end": 126.0,
+   "text": "Time wasted"
+  },
+  {
+   "start": 126.0,
+   "end": 128.0,
+   "text": "Gave all of my soul and my heart"
+  },
+  {
+   "start": 128.0,
+   "end": 133.0,
+   "text": "To someone that would never give me the same"
+  },
+  {
+   "start": 133.0,
+   "end": 135.0,
+   "text": "I was a fool to believe that you"
+  },
+  {
+   "start": 135.0,
+   "end": 137.0,
+   "text": "Would finally be the one to"
+  },
+  {
+   "start": 137.0,
+   "end": 142.0,
+   "text": "Give me the same"
+  },
+  {
+   "start": 142.0,
+   "end": 146.0,
+   "text": "Heartbroken now"
+  },
+  {
+   "start": 146.0,
+   "end": 150.0,
+   "text": "How you let me down"
+  },
+  {
+   "start": 150.0,
+   "end": 153.0,
+   "text": "But somehow"
+  },
+  {
+   "start": 153.0,
+   "end": 156.0,
+   "text": "Deep down I still do"
+  },
+  {
+   "start": 156.0,
+   "end": 160.0,
+   "text": "Love you"
+  },
+  {
+   "start": 160.0,
+   "end": 164.0,
+   "text": "How could you just throw it all away"
+  },
+  {
+   "start": 164.0,
+   "end": 168.0,
+   "text": "How could you just throw it all away"
+  },
+  {
+   "start": 168.0,
+   "end": 173.0,
+   "text": "I stayed with you through all the lies and pain"
+  },
+  {
+   "start": 173.0,
+   "end": 177.0,
+   "text": "Through all the lies and pain"
+  },
+  {
+   "start": 177.0,
+   "end": 181.0,
+   "text": "Tears roll down my eyes"
+  },
+  {
+   "start": 181.0,
+   "end": 185.0,
+   "text": "As I now realize"
+  },
+  {
+   "start": 185.0,
+   "end": 189.0,
+   "text": "Your love was never truly mine"
+  },
+  {
+   "start": 189.0,
+   "end": 195.0,
+   "text": "At all"
+  },
+  {
+   "start": 195.0,
+   "end": 197.0,
+   "text": "Time wasted"
+  },
+  {
+   "start": 197.0,
+   "end": 199.0,
+   "text": "Gave all of my soul and my heart"
+  },
+  {
+   "start": 199.0,
+   "end": 204.0,
+   "text": "To someone that would never give me the same"
+  },
+  {
+   "start": 204.0,
+   "end": 206.0,
+   "text": "I was a fool to believe that you"
+  },
+  {
+   "start": 206.0,
+   "end": 208.0,
+   "text": "Would finally be the one to"
+  },
+  {
+   "start": 208.0,
+   "end": 213.0,
+   "text": "Give me the same"
+  },
+  {
+   "start": 213.0,
+   "end": 217.0,
+   "text": "Heartbroken now"
+  },
+  {
+   "start": 217.0,
+   "end": 221.0,
+   "text": "How you let me down"
+  },
+  {
+   "start": 221.0,
+   "end": 224.0,
+   "text": "But somehow"
+  },
+  {
+   "start": 224.0,
+   "end": 227.0,
+   "text": "Deep down I still do"
+  },
+  {
+   "start": 227.0,
+   "end": 231.0,
+   "text": "Love you"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 12265,
+  "input_tokens": 1929
+ }
+}

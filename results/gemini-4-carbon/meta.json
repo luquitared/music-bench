@@ -1,0 +1,9 @@
+{
+ "model": "gemini-4-carbon",
+ "provider": "gemini",
+ "base_url": null,
+ "runs": 2,
+ "prompt": "bench/common.py PROMPT",
+ "date": "2026-11-24",
+ "notes": "default thinking settings"
+}

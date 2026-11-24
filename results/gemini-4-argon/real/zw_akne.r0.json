@@ -1,0 +1,684 @@
+{
+ "bpm": 144.0,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 146.51,
+   "key": "A minor"
+  },
+  {
+   "start": 146.51,
+   "end": 203.85,
+   "key": "A# minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.48,
+   "chord": "A:min"
+  },
+  {
+   "start": 2.48,
+   "end": 4.13,
+   "chord": "F:maj"
+  },
+  {
+   "start": 4.13,
+   "end": 5.79,
+   "chord": "G:maj"
+  },
+  {
+   "start": 5.79,
+   "end": 7.46,
+   "chord": "E:min"
+  },
+  {
+   "start": 7.46,
+   "end": 9.1,
+   "chord": "F:maj"
+  },
+  {
+   "start": 9.1,
+   "end": 10.74,
+   "chord": "D:7"
+  },
+  {
+   "start": 10.74,
+   "end": 13.7,
+   "chord": "G:maj"
+  },
+  {
+   "start": 13.7,
+   "end": 17.34,
+   "chord": "A:min"
+  },
+  {
+   "start": 17.34,
+   "end": 20.69,
+   "chord": "F:maj"
+  },
+  {
+   "start": 20.69,
+   "end": 23.94,
+   "chord": "G:maj"
+  },
+  {
+   "start": 23.94,
+   "end": 27.27,
+   "chord": "E:7"
+  },
+  {
+   "start": 27.27,
+   "end": 30.58,
+   "chord": "A:min"
+  },
+  {
+   "start": 30.58,
+   "end": 33.85,
+   "chord": "F:maj"
+  },
+  {
+   "start": 33.85,
+   "end": 37.13,
+   "chord": "G:maj"
+  },
+  {
+   "start": 37.13,
+   "end": 40.38,
+   "chord": "A:min"
+  },
+  {
+   "start": 40.38,
+   "end": 43.62,
+   "chord": "E:7"
+  },
+  {
+   "start": 43.62,
+   "end": 47.02,
+   "chord": "N"
+  },
+  {
+   "start": 47.02,
+   "end": 50.25,
+   "chord": "A:min"
+  },
+  {
+   "start": 50.25,
+   "end": 53.54,
+   "chord": "G:maj"
+  },
+  {
+   "start": 53.54,
+   "end": 56.83,
+   "chord": "E:min"
+  },
+  {
+   "start": 56.83,
+   "end": 60.15,
+   "chord": "F:maj"
+  },
+  {
+   "start": 60.15,
+   "end": 61.78,
+   "chord": "D:7"
+  },
+  {
+   "start": 61.78,
+   "end": 63.44,
+   "chord": "G:maj"
+  },
+  {
+   "start": 63.44,
+   "end": 66.7,
+   "chord": "A:min"
+  },
+  {
+   "start": 66.7,
+   "end": 68.38,
+   "chord": "F:maj"
+  },
+  {
+   "start": 68.38,
+   "end": 70.05,
+   "chord": "E:7"
+  },
+  {
+   "start": 70.05,
+   "end": 71.68,
+   "chord": "A:min"
+  },
+  {
+   "start": 71.68,
+   "end": 73.32,
+   "chord": "F:maj"
+  },
+  {
+   "start": 73.32,
+   "end": 75.01,
+   "chord": "G:maj"
+  },
+  {
+   "start": 75.01,
+   "end": 76.62,
+   "chord": "E:min"
+  },
+  {
+   "start": 76.62,
+   "end": 78.26,
+   "chord": "F:maj"
+  },
+  {
+   "start": 78.26,
+   "end": 79.92,
+   "chord": "D:7"
+  },
+  {
+   "start": 79.92,
+   "end": 82.91,
+   "chord": "G:maj"
+  },
+  {
+   "start": 82.91,
+   "end": 86.56,
+   "chord": "A:min"
+  },
+  {
+   "start": 86.56,
+   "end": 89.84,
+   "chord": "F:maj"
+  },
+  {
+   "start": 89.84,
+   "end": 93.13,
+   "chord": "G:maj"
+  },
+  {
+   "start": 93.13,
+   "end": 96.36,
+   "chord": "E:7"
+  },
+  {
+   "start": 96.36,
+   "end": 99.69,
+   "chord": "A:min"
+  },
+  {
+   "start": 99.69,
+   "end": 103.05,
+   "chord": "F:maj"
+  },
+  {
+   "start": 103.05,
+   "end": 106.33,
+   "chord": "G:maj"
+  },
+  {
+   "start": 106.33,
+   "end": 109.61,
+   "chord": "A:min"
+  },
+  {
+   "start": 109.61,
+   "end": 112.92,
+   "chord": "E:7"
+  },
+  {
+   "start": 112.92,
+   "end": 116.2,
+   "chord": "N"
+  },
+  {
+   "start": 116.2,
+   "end": 119.51,
+   "chord": "A:min"
+  },
+  {
+   "start": 119.51,
+   "end": 122.86,
+   "chord": "G:maj"
+  },
+  {
+   "start": 122.86,
+   "end": 126.15,
+   "chord": "E:min"
+  },
+  {
+   "start": 126.15,
+   "end": 129.36,
+   "chord": "F:maj"
+  },
+  {
+   "start": 129.36,
+   "end": 131.02,
+   "chord": "D:7"
+  },
+  {
+   "start": 131.02,
+   "end": 132.63,
+   "chord": "G:maj"
+  },
+  {
+   "start": 132.63,
+   "end": 135.98,
+   "chord": "A:min"
+  },
+  {
+   "start": 135.98,
+   "end": 137.65,
+   "chord": "F:maj"
+  },
+  {
+   "start": 137.65,
+   "end": 139.29,
+   "chord": "E:7"
+  },
+  {
+   "start": 139.29,
+   "end": 140.91,
+   "chord": "A:min"
+  },
+  {
+   "start": 140.91,
+   "end": 142.59,
+   "chord": "F:maj"
+  },
+  {
+   "start": 142.59,
+   "end": 144.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 144.2,
+   "end": 145.88,
+   "chord": "E:min"
+  },
+  {
+   "start": 145.88,
+   "end": 146.51,
+   "chord": "F:maj"
+  },
+  {
+   "start": 146.51,
+   "end": 150.79,
+   "chord": "A#:min"
+  },
+  {
+   "start": 150.79,
+   "end": 154.03,
+   "chord": "G#:maj"
+  },
+  {
+   "start": 154.03,
+   "end": 157.33,
+   "chord": "F:min"
+  },
+  {
+   "start": 157.33,
+   "end": 160.6,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 160.6,
+   "end": 162.35,
+   "chord": "D#:7"
+  },
+  {
+   "start": 162.35,
+   "end": 163.95,
+   "chord": "G#:maj"
+  },
+  {
+   "start": 163.95,
+   "end": 167.26,
+   "chord": "A#:min"
+  },
+  {
+   "start": 167.26,
+   "end": 173.44,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 173.44,
+   "end": 177.22,
+   "chord": "N"
+  },
+  {
+   "start": 177.22,
+   "end": 182.06,
+   "chord": "F:7"
+  },
+  {
+   "start": 182.06,
+   "end": 203.85,
+   "chord": "A#:min"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0.0,
+   "end": 43.62
+  },
+  {
+   "name": "synthesizer",
+   "start": 0.0,
+   "end": 43.62
+  },
+  {
+   "name": "bass guitar",
+   "start": 0.0,
+   "end": 43.62
+  },
+  {
+   "name": "drum kit",
+   "start": 0.0,
+   "end": 43.62
+  },
+  {
+   "name": "electric guitar",
+   "start": 0.0,
+   "end": 43.62
+  },
+  {
+   "name": "male singer",
+   "start": 13.7,
+   "end": 112.92
+  },
+  {
+   "name": "synthesizer",
+   "start": 47.02,
+   "end": 112.92
+  },
+  {
+   "name": "bass guitar",
+   "start": 47.02,
+   "end": 112.92
+  },
+  {
+   "name": "drum kit",
+   "start": 47.02,
+   "end": 112.92
+  },
+  {
+   "name": "piano",
+   "start": 47.02,
+   "end": 112.92
+  },
+  {
+   "name": "electric guitar",
+   "start": 47.02,
+   "end": 112.92
+  },
+  {
+   "name": "synthesizer",
+   "start": 116.2,
+   "end": 173.44
+  },
+  {
+   "name": "bass guitar",
+   "start": 116.2,
+   "end": 173.44
+  },
+  {
+   "name": "drum kit",
+   "start": 116.2,
+   "end": 173.44
+  },
+  {
+   "name": "male singer",
+   "start": 116.2,
+   "end": 173.44
+  },
+  {
+   "name": "piano",
+   "start": 116.2,
+   "end": 173.44
+  },
+  {
+   "name": "electric guitar",
+   "start": 116.2,
+   "end": 173.44
+  },
+  {
+   "name": "male singer",
+   "start": 177.22,
+   "end": 182.06
+  },
+  {
+   "name": "piano",
+   "start": 177.22,
+   "end": 203.85
+  },
+  {
+   "name": "synthesizer",
+   "start": 177.22,
+   "end": 203.85
+  },
+  {
+   "name": "bass guitar",
+   "start": 177.22,
+   "end": 203.85
+  },
+  {
+   "name": "drum kit",
+   "start": 177.22,
+   "end": 203.85
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 13.7,
+   "end": 17.34,
+   "text": "Einsamkeit hast du gemacht"
+  },
+  {
+   "start": 17.34,
+   "end": 20.69,
+   "text": "Ich hab geweint du hast gelacht"
+  },
+  {
+   "start": 20.69,
+   "end": 23.94,
+   "text": "Ich frag warum willst du mich nicht"
+  },
+  {
+   "start": 23.94,
+   "end": 27.27,
+   "text": "schau mir doch wieder ins Gesicht"
+  },
+  {
+   "start": 27.27,
+   "end": 30.58,
+   "text": "Ich hab gewacht die ganze Nacht"
+  },
+  {
+   "start": 30.58,
+   "end": 33.85,
+   "text": "Ich hab kein Auge zugemacht"
+  },
+  {
+   "start": 33.85,
+   "end": 37.13,
+   "text": "Ich wasch mich nicht von Gram erf\u00fcllt"
+  },
+  {
+   "start": 37.13,
+   "end": 43.62,
+   "text": "seh ich im Glas mein Ebenbild"
+  },
+  {
+   "start": 43.62,
+   "end": 47.02,
+   "text": "und sehe ich hab"
+  },
+  {
+   "start": 47.02,
+   "end": 50.25,
+   "text": "Akne Ich hab Akne ich hab Akne"
+  },
+  {
+   "start": 50.25,
+   "end": 56.83,
+   "text": "meine Poren sind verschmutzt und ganz verstopft"
+  },
+  {
+   "start": 56.83,
+   "end": 60.15,
+   "text": "Meine Haut neigt zur Unreinheit"
+  },
+  {
+   "start": 60.15,
+   "end": 63.44,
+   "text": "Oh mein Gott wie seh ich aus"
+  },
+  {
+   "start": 63.44,
+   "end": 66.7,
+   "text": "Heimlich steh ich vorm Spiegel"
+  },
+  {
+   "start": 66.7,
+   "end": 70.05,
+   "text": "dr\u00fcck mir einen Pickel aus"
+  },
+  {
+   "start": 81.98,
+   "end": 86.56,
+   "text": "Doch dann eines Tages da kam sie"
+  },
+  {
+   "start": 86.56,
+   "end": 89.84,
+   "text": "sie sagte Akne c'est la vie"
+  },
+  {
+   "start": 89.84,
+   "end": 93.13,
+   "text": "Sie hat mit Pickeln kein Problem"
+  },
+  {
+   "start": 93.13,
+   "end": 96.36,
+   "text": "nicht mit Furunkeln und nicht mit Ekzem"
+  },
+  {
+   "start": 96.36,
+   "end": 99.69,
+   "text": "F\u00fcr sie z\u00e4hlt nicht die eigene H\u00e4rte"
+  },
+  {
+   "start": 99.69,
+   "end": 103.05,
+   "text": "f\u00fcr sie z\u00e4hln nur die inneren Werte"
+  },
+  {
+   "start": 103.05,
+   "end": 106.33,
+   "text": "Sie sagt sei mutig steh dazu"
+  },
+  {
+   "start": 106.33,
+   "end": 112.92,
+   "text": "dr\u00fcck sie aus dann hast du Ruh"
+  },
+  {
+   "start": 112.92,
+   "end": 116.2,
+   "text": "und darum ich hab"
+  },
+  {
+   "start": 116.2,
+   "end": 119.51,
+   "text": "Akne ich hab Akne ich hab Akne"
+  },
+  {
+   "start": 119.51,
+   "end": 126.15,
+   "text": "meine Poren sind verschmutzt und ganz verstopft"
+  },
+  {
+   "start": 126.15,
+   "end": 129.36,
+   "text": "Meine Haut neigt zur Unreinheit"
+  },
+  {
+   "start": 129.36,
+   "end": 132.63,
+   "text": "Oh mon Dieu wie seh ich aus"
+  },
+  {
+   "start": 132.63,
+   "end": 135.98,
+   "text": "Heimlich steh ich vorm Spiegel"
+  },
+  {
+   "start": 135.98,
+   "end": 140.91,
+   "text": "dr\u00fcck mir einen Pickel aus"
+  },
+  {
+   "start": 146.51,
+   "end": 150.79,
+   "text": "Ihr habt Akne ihr hat Akne ihr hat Akne"
+  },
+  {
+   "start": 150.79,
+   "end": 157.33,
+   "text": "und dazu ein kleines bi\u00dfchen Mundgeruch"
+  },
+  {
+   "start": 157.33,
+   "end": 160.6,
+   "text": "Ja Ger\u00fcche und Ged\u00fcfte"
+  },
+  {
+   "start": 160.6,
+   "end": 163.95,
+   "text": "die geh\u00f6rn zu einem Mann"
+  },
+  {
+   "start": 163.95,
+   "end": 167.26,
+   "text": "darum lass ich wenn ich bei dir"
+  },
+  {
+   "start": 167.26,
+   "end": 173.44,
+   "text": "liege meine"
+  },
+  {
+   "start": 173.44,
+   "end": 182.06,
+   "text": "Stiefel an"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 3865,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 3865
+   }
+  ],
+  "prompt_token_count": 6853,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 747
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 6106
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 10718,
+  "traffic_type": null
+ }
+}

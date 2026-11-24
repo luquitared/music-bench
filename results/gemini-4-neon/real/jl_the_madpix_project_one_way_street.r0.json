@@ -1,0 +1,589 @@
+{
+ "bpm": 140,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 170.0,
+   "key": "C minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 3.4,
+   "chord": "C:min"
+  },
+  {
+   "start": 3.4,
+   "end": 6.9,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 6.9,
+   "end": 10.3,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 10.3,
+   "end": 13.7,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 13.7,
+   "end": 17.1,
+   "chord": "C:min"
+  },
+  {
+   "start": 17.1,
+   "end": 20.6,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 20.6,
+   "end": 24.0,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 24.0,
+   "end": 27.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 27.4,
+   "end": 30.9,
+   "chord": "C:min"
+  },
+  {
+   "start": 30.9,
+   "end": 34.3,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 34.3,
+   "end": 37.7,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 37.7,
+   "end": 41.1,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 41.1,
+   "end": 44.6,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 44.6,
+   "end": 48.0,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 48.0,
+   "end": 49.7,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 49.7,
+   "end": 51.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 51.4,
+   "end": 53.1,
+   "chord": "C:min"
+  },
+  {
+   "start": 53.1,
+   "end": 54.9,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 54.9,
+   "end": 58.3,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 58.3,
+   "end": 61.7,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 61.7,
+   "end": 65.1,
+   "chord": "C:min"
+  },
+  {
+   "start": 65.1,
+   "end": 68.6,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 68.6,
+   "end": 72.0,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 72.0,
+   "end": 75.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 75.4,
+   "end": 78.9,
+   "chord": "C:min"
+  },
+  {
+   "start": 78.9,
+   "end": 82.3,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 82.3,
+   "end": 85.7,
+   "chord": "C:min"
+  },
+  {
+   "start": 85.7,
+   "end": 89.1,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 89.1,
+   "end": 92.6,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 92.6,
+   "end": 96.0,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 96.0,
+   "end": 99.4,
+   "chord": "C:min"
+  },
+  {
+   "start": 99.4,
+   "end": 102.9,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 102.9,
+   "end": 106.3,
+   "chord": "Eb:maj"
+  },
+  {
+   "start": 106.3,
+   "end": 109.7,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 109.7,
+   "end": 111.4,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 111.4,
+   "end": 113.1,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 113.1,
+   "end": 114.9,
+   "chord": "C:min"
+  },
+  {
+   "start": 114.9,
+   "end": 116.6,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 116.6,
+   "end": 118.3,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 118.3,
+   "end": 120.0,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 120.0,
+   "end": 121.7,
+   "chord": "C:min"
+  },
+  {
+   "start": 121.7,
+   "end": 123.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 123.4,
+   "end": 125.1,
+   "chord": "N"
+  },
+  {
+   "start": 125.1,
+   "end": 128.6,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 128.6,
+   "end": 132.0,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 132.0,
+   "end": 135.4,
+   "chord": "C:min"
+  },
+  {
+   "start": 135.4,
+   "end": 138.9,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 138.9,
+   "end": 142.3,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 142.3,
+   "end": 145.7,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 145.7,
+   "end": 149.1,
+   "chord": "C:min"
+  },
+  {
+   "start": 149.1,
+   "end": 152.6,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 152.6,
+   "end": 156.0,
+   "chord": "Ab:maj"
+  },
+  {
+   "start": 156.0,
+   "end": 159.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 159.4,
+   "end": 162.9,
+   "chord": "C:min"
+  },
+  {
+   "start": 162.9,
+   "end": 166.3,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 166.3,
+   "end": 170.0,
+   "chord": "C:min"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0.0,
+   "end": 48.0
+  },
+  {
+   "name": "piano",
+   "start": 82.3,
+   "end": 109.7
+  },
+  {
+   "name": "piano",
+   "start": 152.6,
+   "end": 169.5
+  },
+  {
+   "name": "percussion",
+   "start": 0.8,
+   "end": 13.7
+  },
+  {
+   "name": "synth pad",
+   "start": 0.0,
+   "end": 54.9
+  },
+  {
+   "name": "synth pad",
+   "start": 82.3,
+   "end": 123.4
+  },
+  {
+   "name": "synth pad",
+   "start": 152.6,
+   "end": 169.5
+  },
+  {
+   "name": "vocals",
+   "start": 0.5,
+   "end": 54.3
+  },
+  {
+   "name": "vocals",
+   "start": 82.5,
+   "end": 124.8
+  },
+  {
+   "name": "vocals",
+   "start": 152.6,
+   "end": 169.5
+  },
+  {
+   "name": "backing vocals",
+   "start": 41.1,
+   "end": 54.3
+  },
+  {
+   "name": "backing vocals",
+   "start": 101.8,
+   "end": 103.2
+  },
+  {
+   "name": "backing vocals",
+   "start": 109.7,
+   "end": 123.4
+  },
+  {
+   "name": "backing vocals",
+   "start": 156.8,
+   "end": 169.5
+  },
+  {
+   "name": "drums",
+   "start": 13.7,
+   "end": 82.3
+  },
+  {
+   "name": "drums",
+   "start": 96.0,
+   "end": 123.4
+  },
+  {
+   "name": "drums",
+   "start": 125.1,
+   "end": 152.6
+  },
+  {
+   "name": "synth bass",
+   "start": 13.7,
+   "end": 82.3
+  },
+  {
+   "name": "synth bass",
+   "start": 96.0,
+   "end": 123.4
+  },
+  {
+   "name": "synth bass",
+   "start": 125.1,
+   "end": 152.6
+  },
+  {
+   "name": "synthesizer",
+   "start": 41.1,
+   "end": 82.3
+  },
+  {
+   "name": "synthesizer",
+   "start": 109.7,
+   "end": 123.4
+  },
+  {
+   "name": "synthesizer",
+   "start": 125.1,
+   "end": 152.6
+  },
+  {
+   "name": "vocal chops",
+   "start": 54.9,
+   "end": 82.3
+  },
+  {
+   "name": "vocal chops",
+   "start": 125.1,
+   "end": 152.6
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 13.7,
+   "end": 17.2,
+   "text": "Tears are like diamonds in my eye"
+  },
+  {
+   "start": 17.2,
+   "end": 20.6,
+   "text": "Blind me so, now you're out of sight"
+  },
+  {
+   "start": 20.6,
+   "end": 26.8,
+   "text": "It's enough, it's too late to break this silence"
+  },
+  {
+   "start": 27.4,
+   "end": 31.0,
+   "text": "In a rose-colored view of us"
+  },
+  {
+   "start": 31.0,
+   "end": 34.3,
+   "text": "I got lost, could I realize"
+  },
+  {
+   "start": 34.3,
+   "end": 37.8,
+   "text": "All your lies would be blades and knives"
+  },
+  {
+   "start": 37.8,
+   "end": 40.4,
+   "text": "to stab me inside"
+  },
+  {
+   "start": 41.1,
+   "end": 44.4,
+   "text": "Who will save you from this dark"
+  },
+  {
+   "start": 44.4,
+   "end": 47.5,
+   "text": "Who will fix your selfish heart"
+  },
+  {
+   "start": 47.6,
+   "end": 50.8,
+   "text": "A one way street, that's how you live"
+  },
+  {
+   "start": 51.0,
+   "end": 54.3,
+   "text": "Why do you always take and never give"
+  },
+  {
+   "start": 82.5,
+   "end": 86.0,
+   "text": "Wide awake, yeah I've crossed the line"
+  },
+  {
+   "start": 86.0,
+   "end": 89.5,
+   "text": "I'm coming home, I'm running back to real life"
+  },
+  {
+   "start": 89.5,
+   "end": 95.5,
+   "text": "To the start where I could breathe in freely, baby"
+  },
+  {
+   "start": 96.0,
+   "end": 99.4,
+   "text": "Can't you see we ran out of time"
+  },
+  {
+   "start": 99.4,
+   "end": 102.5,
+   "text": "Chasing happiness while you get what you need"
+  },
+  {
+   "start": 102.9,
+   "end": 106.4,
+   "text": "There's nothing left of us but bleeding blades and knives"
+  },
+  {
+   "start": 106.4,
+   "end": 109.0,
+   "text": "Tonight you'll know how it feels"
+  },
+  {
+   "start": 109.2,
+   "end": 112.5,
+   "text": "A one way street, that's how you live"
+  },
+  {
+   "start": 112.7,
+   "end": 116.0,
+   "text": "Why do you always take and never give"
+  },
+  {
+   "start": 116.1,
+   "end": 119.5,
+   "text": "I walk away to help you see"
+  },
+  {
+   "start": 119.6,
+   "end": 123.0,
+   "text": "Our love is rolling down so easily"
+  },
+  {
+   "start": 123.1,
+   "end": 124.8,
+   "text": "A one way street"
+  },
+  {
+   "start": 154.3,
+   "end": 157.2,
+   "text": "A one way street"
+  },
+  {
+   "start": 158.0,
+   "end": 160.8,
+   "text": "You never give"
+  },
+  {
+   "start": 161.6,
+   "end": 164.4,
+   "text": "I walk away"
+  },
+  {
+   "start": 164.8,
+   "end": 167.5,
+   "text": "So easily"
+  },
+  {
+   "start": 167.5,
+   "end": 169.5,
+   "text": "A one way street"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 3329,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 3329
+   }
+  ],
+  "prompt_token_count": 5812,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 681
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 5131
+   }
+  ],
+  "thoughts_token_count": 25893,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 35034,
+  "traffic_type": null
+ }
+}

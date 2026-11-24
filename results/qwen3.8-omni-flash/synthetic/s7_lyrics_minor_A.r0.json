@@ -1,0 +1,141 @@
+{
+ "bpm": 120,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 32.0,
+   "key": "A minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "chord": "D:min"
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "chord": "E:7"
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "chord": "D:min"
+  },
+  {
+   "start": 28.0,
+   "end": 30.0,
+   "chord": "E:7"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0.0,
+   "end": 32.0
+  },
+  {
+   "name": "drum",
+   "start": 0.0,
+   "end": 32.0
+  },
+  {
+   "name": "female voice",
+   "start": 4.0,
+   "end": 6.56
+  },
+  {
+   "name": "string",
+   "start": 14.0,
+   "end": 32.0
+  },
+  {
+   "name": "female voice",
+   "start": 16.0,
+   "end": 18.64
+  },
+  {
+   "name": "female voice",
+   "start": 24.0,
+   "end": 26.64
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 4.0,
+   "end": 6.56,
+   "text": "Seven lanterns floating on the quiet bay"
+  },
+  {
+   "start": 16.0,
+   "end": 18.64,
+   "text": "Paper boats that never learned to find their way"
+  },
+  {
+   "start": 24.0,
+   "end": 26.64,
+   "text": "Pulled the rope and pulled the anchor from the sand"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 1983,
+  "input_tokens": 529
+ }
+}

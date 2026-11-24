@@ -1,0 +1,473 @@
+{
+ "bpm": 82,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 75.8,
+   "key": "D minor"
+  },
+  {
+   "start": 75.8,
+   "end": 94.3,
+   "key": "D major"
+  },
+  {
+   "start": 94.3,
+   "end": 133.8,
+   "key": "D minor"
+  },
+  {
+   "start": 133.8,
+   "end": 151.7,
+   "key": "D major"
+  },
+  {
+   "start": 151.7,
+   "end": 170.6,
+   "key": "D minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.4,
+   "chord": "N"
+  },
+  {
+   "start": 0.4,
+   "end": 6.1,
+   "chord": "G:min9"
+  },
+  {
+   "start": 6.1,
+   "end": 9.8,
+   "chord": "A:min7"
+  },
+  {
+   "start": 9.8,
+   "end": 13.6,
+   "chord": "D:min"
+  },
+  {
+   "start": 13.6,
+   "end": 15.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 15.5,
+   "end": 17.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 17.4,
+   "end": 21.2,
+   "chord": "C:min"
+  },
+  {
+   "start": 21.2,
+   "end": 25.8,
+   "chord": "G:min9"
+  },
+  {
+   "start": 25.8,
+   "end": 29.7,
+   "chord": "A:min7"
+  },
+  {
+   "start": 29.7,
+   "end": 33.6,
+   "chord": "Bb:maj7"
+  },
+  {
+   "start": 33.6,
+   "end": 37.5,
+   "chord": "G:min"
+  },
+  {
+   "start": 37.5,
+   "end": 42.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 42.8,
+   "end": 45.6,
+   "chord": "G:min9"
+  },
+  {
+   "start": 45.6,
+   "end": 47.6,
+   "chord": "A:min7"
+  },
+  {
+   "start": 47.6,
+   "end": 51.3,
+   "chord": "D:min"
+  },
+  {
+   "start": 51.3,
+   "end": 53.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 53.3,
+   "end": 55.3,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 55.3,
+   "end": 59.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 59.5,
+   "end": 63.1,
+   "chord": "G:min9"
+  },
+  {
+   "start": 63.1,
+   "end": 64.8,
+   "chord": "A:min7"
+  },
+  {
+   "start": 64.8,
+   "end": 68.0,
+   "chord": "Bb:maj7"
+  },
+  {
+   "start": 68.0,
+   "end": 71.1,
+   "chord": "G:min7"
+  },
+  {
+   "start": 71.1,
+   "end": 75.8,
+   "chord": "A:7"
+  },
+  {
+   "start": 75.8,
+   "end": 78.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 78.8,
+   "end": 81.8,
+   "chord": "A:maj/C#"
+  },
+  {
+   "start": 81.8,
+   "end": 84.8,
+   "chord": "B:min7"
+  },
+  {
+   "start": 84.8,
+   "end": 90.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 90.0,
+   "end": 92.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 92.1,
+   "end": 94.3,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 94.3,
+   "end": 98.5,
+   "chord": "D:min"
+  },
+  {
+   "start": 98.5,
+   "end": 101.2,
+   "chord": "G:min9"
+  },
+  {
+   "start": 101.2,
+   "end": 103.2,
+   "chord": "A:min7"
+  },
+  {
+   "start": 103.2,
+   "end": 108.0,
+   "chord": "D:min"
+  },
+  {
+   "start": 108.0,
+   "end": 110.8,
+   "chord": "G:min9"
+  },
+  {
+   "start": 110.8,
+   "end": 112.3,
+   "chord": "A:min7"
+  },
+  {
+   "start": 112.3,
+   "end": 115.2,
+   "chord": "D:min"
+  },
+  {
+   "start": 115.2,
+   "end": 116.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 116.6,
+   "end": 118.0,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 118.0,
+   "end": 120.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 120.9,
+   "end": 123.7,
+   "chord": "G:min9"
+  },
+  {
+   "start": 123.7,
+   "end": 125.2,
+   "chord": "A:min7"
+  },
+  {
+   "start": 125.2,
+   "end": 128.0,
+   "chord": "Bb:maj7"
+  },
+  {
+   "start": 128.0,
+   "end": 130.9,
+   "chord": "G:min7"
+  },
+  {
+   "start": 130.9,
+   "end": 133.8,
+   "chord": "A:7"
+  },
+  {
+   "start": 133.8,
+   "end": 136.6,
+   "chord": "D:maj"
+  },
+  {
+   "start": 136.6,
+   "end": 139.5,
+   "chord": "A:maj/C#"
+  },
+  {
+   "start": 139.5,
+   "end": 142.4,
+   "chord": "B:min7"
+  },
+  {
+   "start": 142.4,
+   "end": 146.7,
+   "chord": "D:maj"
+  },
+  {
+   "start": 146.7,
+   "end": 149.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 149.5,
+   "end": 151.7,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 151.7,
+   "end": 157.5,
+   "chord": "D:min"
+  },
+  {
+   "start": 157.5,
+   "end": 160.4,
+   "chord": "G:min9"
+  },
+  {
+   "start": 160.4,
+   "end": 162.5,
+   "chord": "A:min7"
+  },
+  {
+   "start": 162.5,
+   "end": 168.5,
+   "chord": "D:min"
+  },
+  {
+   "start": 168.5,
+   "end": 170.6,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "chimes",
+   "start": 0.0,
+   "end": 2.5
+  },
+  {
+   "name": "acoustic guitar",
+   "start": 0.4,
+   "end": 168.5
+  },
+  {
+   "name": "piano",
+   "start": 2.6,
+   "end": 168.5
+  },
+  {
+   "name": "male vocals",
+   "start": 41.0,
+   "end": 107.5
+  },
+  {
+   "name": "chimes",
+   "start": 71.8,
+   "end": 74.0
+  },
+  {
+   "name": "drums",
+   "start": 108.0,
+   "end": 155.5
+  },
+  {
+   "name": "bass guitar",
+   "start": 108.0,
+   "end": 155.5
+  },
+  {
+   "name": "male vocals",
+   "start": 132.3,
+   "end": 165.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 41.0,
+   "end": 44.5,
+   "text": "Ich bin etwas blass,"
+  },
+  {
+   "start": 45.4,
+   "end": 49.5,
+   "text": "findest du nicht?"
+  },
+  {
+   "start": 50.5,
+   "end": 57.0,
+   "text": "Der Fr\u00fchling ist noch immer nicht in Sicht."
+  },
+  {
+   "start": 58.9,
+   "end": 62.2,
+   "text": "Ein bisschen blass"
+  },
+  {
+   "start": 62.8,
+   "end": 66.0,
+   "text": "und die Haut auch rau,"
+  },
+  {
+   "start": 67.1,
+   "end": 72.0,
+   "text": "und kein Lied auf den Lippen, schau."
+  },
+  {
+   "start": 74.2,
+   "end": 80.8,
+   "text": "Ich hab Gefallen am Herbst gefunden,"
+  },
+  {
+   "start": 81.3,
+   "end": 87.3,
+   "text": "und auch an den Winter gew\u00f6hnt man sich."
+  },
+  {
+   "start": 87.8,
+   "end": 95.8,
+   "text": "Ich bin ja nicht arm und krank und geschunden,"
+  },
+  {
+   "start": 96.8,
+   "end": 100.2,
+   "text": "aber etwas blass,"
+  },
+  {
+   "start": 101.0,
+   "end": 105.2,
+   "text": "findest du nicht?"
+  },
+  {
+   "start": 106.2,
+   "end": 107.5,
+   "text": "Drei, vier"
+  },
+  {
+   "start": 132.3,
+   "end": 138.8,
+   "text": "Ich hab Gefallen am Herbst gefunden,"
+  },
+  {
+   "start": 139.2,
+   "end": 144.8,
+   "text": "und auch an den Winter gew\u00f6hnt man sich."
+  },
+  {
+   "start": 145.3,
+   "end": 153.5,
+   "text": "Ich bin ja nicht arm und krank und geschunden,"
+  },
+  {
+   "start": 155.6,
+   "end": 159.5,
+   "text": "aber etwas blass,"
+  },
+  {
+   "start": 160.2,
+   "end": 165.0,
+   "text": "findest du nicht?"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 443
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 3335
+   }
+  ],
+  "cached_content_token_count": 3778,
+  "candidates_token_count": 2592,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 2592
+   }
+  ],
+  "prompt_token_count": 5839,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 683
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 5156
+   }
+  ],
+  "thoughts_token_count": 11803,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 20234,
+  "traffic_type": null
+ }
+}

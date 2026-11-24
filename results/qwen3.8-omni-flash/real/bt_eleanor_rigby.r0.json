@@ -1,0 +1,391 @@
+{
+ "bpm": 138,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 123.0,
+   "key": "E minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 4.36,
+   "chord": "C:maj"
+  },
+  {
+   "start": 4.36,
+   "end": 6.92,
+   "chord": "E:min"
+  },
+  {
+   "start": 6.92,
+   "end": 10.82,
+   "chord": "C:maj"
+  },
+  {
+   "start": 10.82,
+   "end": 18.34,
+   "chord": "E:min"
+  },
+  {
+   "start": 18.34,
+   "end": 20.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 20.9,
+   "end": 27.91,
+   "chord": "E:min"
+  },
+  {
+   "start": 27.91,
+   "end": 30.51,
+   "chord": "C:maj"
+  },
+  {
+   "start": 30.51,
+   "end": 32.27,
+   "chord": "E:min"
+  },
+  {
+   "start": 32.27,
+   "end": 33.15,
+   "chord": "E:min7"
+  },
+  {
+   "start": 33.15,
+   "end": 34.03,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 34.03,
+   "end": 34.89,
+   "chord": "A:maj/5"
+  },
+  {
+   "start": 34.89,
+   "end": 36.61,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 36.61,
+   "end": 38.37,
+   "chord": "E:min"
+  },
+  {
+   "start": 38.37,
+   "end": 39.25,
+   "chord": "E:min7"
+  },
+  {
+   "start": 39.25,
+   "end": 40.13,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 40.13,
+   "end": 40.99,
+   "chord": "A:maj/5"
+  },
+  {
+   "start": 40.99,
+   "end": 42.71,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 42.71,
+   "end": 50.23,
+   "chord": "E:min"
+  },
+  {
+   "start": 50.23,
+   "end": 52.81,
+   "chord": "C:maj"
+  },
+  {
+   "start": 52.81,
+   "end": 59.33,
+   "chord": "E:min"
+  },
+  {
+   "start": 59.33,
+   "end": 61.94,
+   "chord": "C:maj"
+  },
+  {
+   "start": 61.94,
+   "end": 62.82,
+   "chord": "E:min"
+  },
+  {
+   "start": 62.82,
+   "end": 63.7,
+   "chord": "E:min7"
+  },
+  {
+   "start": 63.7,
+   "end": 64.56,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 64.56,
+   "end": 65.42,
+   "chord": "A:maj/5"
+  },
+  {
+   "start": 65.42,
+   "end": 67.14,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 67.14,
+   "end": 68.89,
+   "chord": "E:min"
+  },
+  {
+   "start": 68.89,
+   "end": 69.77,
+   "chord": "E:min7"
+  },
+  {
+   "start": 69.77,
+   "end": 70.65,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 70.65,
+   "end": 71.51,
+   "chord": "A:maj/5"
+  },
+  {
+   "start": 71.51,
+   "end": 73.23,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 73.23,
+   "end": 76.71,
+   "chord": "E:min"
+  },
+  {
+   "start": 76.71,
+   "end": 80.15,
+   "chord": "C:maj"
+  },
+  {
+   "start": 80.15,
+   "end": 83.59,
+   "chord": "E:min"
+  },
+  {
+   "start": 83.59,
+   "end": 87.03,
+   "chord": "C:maj"
+  },
+  {
+   "start": 87.03,
+   "end": 94.47,
+   "chord": "E:min"
+  },
+  {
+   "start": 94.47,
+   "end": 97.95,
+   "chord": "A:min"
+  },
+  {
+   "start": 97.95,
+   "end": 104.07,
+   "chord": "E:min"
+  },
+  {
+   "start": 104.07,
+   "end": 106.69,
+   "chord": "A:min"
+  },
+  {
+   "start": 106.69,
+   "end": 107.57,
+   "chord": "E:min"
+  },
+  {
+   "start": 107.57,
+   "end": 108.45,
+   "chord": "E:min7"
+  },
+  {
+   "start": 108.45,
+   "end": 109.31,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 109.31,
+   "end": 110.17,
+   "chord": "A:maj/5"
+  },
+  {
+   "start": 110.17,
+   "end": 111.89,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 111.89,
+   "end": 113.65,
+   "chord": "E:min"
+  },
+  {
+   "start": 113.65,
+   "end": 114.53,
+   "chord": "E:min7"
+  },
+  {
+   "start": 114.53,
+   "end": 115.39,
+   "chord": "A:7/5"
+  },
+  {
+   "start": 115.39,
+   "end": 116.25,
+   "chord": "A:maj/5"
+  },
+  {
+   "start": 116.25,
+   "end": 117.97,
+   "chord": "C:maj/3"
+  },
+  {
+   "start": 117.97,
+   "end": 123.16,
+   "chord": "E:min"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "vocals",
+   "start": 0.0,
+   "end": 121.64
+  },
+  {
+   "name": "strings",
+   "start": 0.0,
+   "end": 123.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 0.0,
+   "end": 5.65,
+   "text": "Ah, look at all the lonely people"
+  },
+  {
+   "start": 6.92,
+   "end": 12.5,
+   "text": "Ah, look at all the lonely people"
+  },
+  {
+   "start": 13.82,
+   "end": 20.27,
+   "text": "Eleanor Rigby picks up the rice in the church where a wedding has been"
+  },
+  {
+   "start": 20.87,
+   "end": 22.47,
+   "text": "Lives in a dream"
+  },
+  {
+   "start": 22.67,
+   "end": 28.75,
+   "text": "Waits at the window, wearing the face that she keeps in a jar by the door"
+  },
+  {
+   "start": 29.59,
+   "end": 31.15,
+   "text": "Who is it for?"
+  },
+  {
+   "start": 31.35,
+   "end": 37.71,
+   "text": "All the lonely people, where do they all come from?"
+  },
+  {
+   "start": 38.31,
+   "end": 44.55,
+   "text": "All the lonely people, where do they all belong?"
+  },
+  {
+   "start": 45.27,
+   "end": 51.11,
+   "text": "Father McKenzie writing the words of a sermon that no one will hear"
+  },
+  {
+   "start": 52.07,
+   "end": 53.75,
+   "text": "No one comes near"
+  },
+  {
+   "start": 54.03,
+   "end": 60.03,
+   "text": "Look at him working, darning his socks in the night when there's nobody there"
+  },
+  {
+   "start": 60.95,
+   "end": 62.47,
+   "text": "What does he care?"
+  },
+  {
+   "start": 62.75,
+   "end": 69.07,
+   "text": "All the lonely people, where do they all come from?"
+  },
+  {
+   "start": 69.67,
+   "end": 75.91,
+   "text": "All the lonely people, where do they all belong?"
+  },
+  {
+   "start": 76.63,
+   "end": 82.31,
+   "text": "Ah, look at all the lonely people"
+  },
+  {
+   "start": 83.55,
+   "end": 89.15,
+   "text": "Ah, look at all the lonely people"
+  },
+  {
+   "start": 90.39,
+   "end": 96.31,
+   "text": "Eleanor Rigby died in the church and was buried along with her name"
+  },
+  {
+   "start": 97.27,
+   "end": 98.79,
+   "text": "Nobody came"
+  },
+  {
+   "start": 98.95,
+   "end": 105.03,
+   "text": "Father McKenzie wiping the dirt from his hands as he walks from the grave"
+  },
+  {
+   "start": 105.91,
+   "end": 107.43,
+   "text": "No one was saved"
+  },
+  {
+   "start": 107.75,
+   "end": 114.07,
+   "text": "All the lonely people (Ah, look at all the lonely people), where do they all come from?"
+  },
+  {
+   "start": 114.71,
+   "end": 121.03,
+   "text": "All the lonely people (Ah, look at all the lonely people), where do they all belong?"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 5013,
+  "input_tokens": 1173
+ }
+}

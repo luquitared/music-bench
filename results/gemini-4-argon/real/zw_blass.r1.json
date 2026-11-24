@@ -1,0 +1,474 @@
+{
+ "bpm": 87.0,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 269.685261,
+   "key": "G minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.507,
+   "chord": "N"
+  },
+  {
+   "start": 2.507,
+   "end": 6.385,
+   "chord": "G:min"
+  },
+  {
+   "start": 6.385,
+   "end": 10.17,
+   "chord": "A:min7"
+  },
+  {
+   "start": 10.17,
+   "end": 13.862,
+   "chord": "D:min"
+  },
+  {
+   "start": 13.862,
+   "end": 15.789,
+   "chord": "G:min"
+  },
+  {
+   "start": 15.789,
+   "end": 17.577,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 17.577,
+   "end": 21.315,
+   "chord": "C:min"
+  },
+  {
+   "start": 21.315,
+   "end": 23.08,
+   "chord": "N"
+  },
+  {
+   "start": 23.08,
+   "end": 25.634,
+   "chord": "G:min"
+  },
+  {
+   "start": 25.634,
+   "end": 29.604,
+   "chord": "A:min"
+  },
+  {
+   "start": 29.604,
+   "end": 34.364,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 34.364,
+   "end": 37.638,
+   "chord": "G:min"
+  },
+  {
+   "start": 37.638,
+   "end": 43.188,
+   "chord": "A:maj"
+  },
+  {
+   "start": 43.188,
+   "end": 45.649,
+   "chord": "G:min"
+  },
+  {
+   "start": 45.649,
+   "end": 47.692,
+   "chord": "A:min"
+  },
+  {
+   "start": 47.692,
+   "end": 51.5,
+   "chord": "D:min"
+  },
+  {
+   "start": 51.5,
+   "end": 53.358,
+   "chord": "G:maj"
+  },
+  {
+   "start": 53.358,
+   "end": 55.262,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 55.262,
+   "end": 60.371,
+   "chord": "C:maj"
+  },
+  {
+   "start": 60.371,
+   "end": 63.157,
+   "chord": "G:min"
+  },
+  {
+   "start": 63.157,
+   "end": 65.061,
+   "chord": "A:min"
+  },
+  {
+   "start": 65.061,
+   "end": 68.033,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 68.033,
+   "end": 71.353,
+   "chord": "G:min"
+  },
+  {
+   "start": 71.353,
+   "end": 75.208,
+   "chord": "A:maj"
+  },
+  {
+   "start": 75.208,
+   "end": 79.132,
+   "chord": "D:maj"
+  },
+  {
+   "start": 79.132,
+   "end": 82.963,
+   "chord": "G:maj"
+  },
+  {
+   "start": 82.963,
+   "end": 85.007,
+   "chord": "E:min"
+  },
+  {
+   "start": 85.007,
+   "end": 86.911,
+   "chord": "A:maj"
+  },
+  {
+   "start": 86.911,
+   "end": 88.792,
+   "chord": "B:min"
+  },
+  {
+   "start": 88.792,
+   "end": 90.719,
+   "chord": "D:maj"
+  },
+  {
+   "start": 90.719,
+   "end": 92.623,
+   "chord": "A:maj"
+  },
+  {
+   "start": 92.623,
+   "end": 94.434,
+   "chord": "G:maj"
+  },
+  {
+   "start": 94.434,
+   "end": 99.728,
+   "chord": "Db:maj"
+  },
+  {
+   "start": 99.728,
+   "end": 101.47,
+   "chord": "G:min"
+  },
+  {
+   "start": 101.47,
+   "end": 102.933,
+   "chord": "A:min"
+  },
+  {
+   "start": 102.933,
+   "end": 105.0,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 105.0,
+   "end": 108.135,
+   "chord": "N"
+  },
+  {
+   "start": 108.135,
+   "end": 111.339,
+   "chord": "G:min"
+  },
+  {
+   "start": 111.339,
+   "end": 114.66,
+   "chord": "A:min"
+  },
+  {
+   "start": 114.66,
+   "end": 118.143,
+   "chord": "D:min"
+  },
+  {
+   "start": 118.143,
+   "end": 119.861,
+   "chord": "G:maj"
+  },
+  {
+   "start": 119.861,
+   "end": 121.486,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 121.486,
+   "end": 124.946,
+   "chord": "C:maj"
+  },
+  {
+   "start": 124.946,
+   "end": 128.476,
+   "chord": "G:min"
+  },
+  {
+   "start": 128.476,
+   "end": 131.773,
+   "chord": "A:min"
+  },
+  {
+   "start": 131.773,
+   "end": 135.256,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 135.256,
+   "end": 138.646,
+   "chord": "G:min"
+  },
+  {
+   "start": 138.646,
+   "end": 142.315,
+   "chord": "A:maj"
+  },
+  {
+   "start": 142.315,
+   "end": 145.774,
+   "chord": "D:maj"
+  },
+  {
+   "start": 145.774,
+   "end": 149.141,
+   "chord": "G:maj"
+  },
+  {
+   "start": 149.141,
+   "end": 150.906,
+   "chord": "E:min"
+  },
+  {
+   "start": 150.906,
+   "end": 152.694,
+   "chord": "A:maj"
+  },
+  {
+   "start": 152.694,
+   "end": 154.342,
+   "chord": "B:min"
+  },
+  {
+   "start": 154.342,
+   "end": 156.084,
+   "chord": "D:maj"
+  },
+  {
+   "start": 156.084,
+   "end": 157.825,
+   "chord": "A:maj"
+  },
+  {
+   "start": 157.825,
+   "end": 159.474,
+   "chord": "G:maj"
+  },
+  {
+   "start": 159.474,
+   "end": 167.972,
+   "chord": "Db:maj"
+  },
+  {
+   "start": 167.972,
+   "end": 170.062,
+   "chord": "G:min"
+  },
+  {
+   "start": 170.062,
+   "end": 171.617,
+   "chord": "A:min"
+  },
+  {
+   "start": 171.617,
+   "end": 174.915,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 174.915,
+   "end": 179.685,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "acoustic guitar",
+   "start": 0.0,
+   "end": 36.12
+  },
+  {
+   "name": "piano",
+   "start": 2.836,
+   "end": 160.296
+  },
+  {
+   "name": "acoustic guitar",
+   "start": 51.519,
+   "end": 79.713
+  },
+  {
+   "name": "electric bass",
+   "start": 68.095,
+   "end": 160.056
+  },
+  {
+   "name": "drums",
+   "start": 107.756,
+   "end": 160.296
+  },
+  {
+   "name": "acoustic guitar",
+   "start": 108.116,
+   "end": 160.296
+  },
+  {
+   "name": "electric guitar",
+   "start": 138.497,
+   "end": 160.296
+  },
+  {
+   "name": "acoustic guitar",
+   "start": 167.617,
+   "end": 176.298
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 40.479,
+   "end": 44.519,
+   "text": "Ich bin etwas blass,"
+  },
+  {
+   "start": 45.559,
+   "end": 48.799,
+   "text": "findest du nicht?"
+  },
+  {
+   "start": 50.439,
+   "end": 56.839,
+   "text": "Der Fr\u00fchling ist noch immer nicht in Sicht."
+  },
+  {
+   "start": 58.44,
+   "end": 61.599,
+   "text": "Ein bisschen blass,"
+  },
+  {
+   "start": 62.88,
+   "end": 66.0,
+   "text": "und die Haut auch rau"
+  },
+  {
+   "start": 66.599,
+   "end": 72.36,
+   "text": "und kein Lied auf den Lippen, schau."
+  },
+  {
+   "start": 73.92,
+   "end": 80.599,
+   "text": "Ich hab Gefallen am Herbst gefunden"
+  },
+  {
+   "start": 81.199,
+   "end": 86.68,
+   "text": "und auch an den Winter gew\u00f6hnt man sich."
+  },
+  {
+   "start": 87.48,
+   "end": 95.36,
+   "text": "Ich bin ja nicht alt und krank und geschunden,"
+  },
+  {
+   "start": 97.12,
+   "end": 100.36,
+   "text": "aber etwas blass,"
+  },
+  {
+   "start": 101.08,
+   "end": 104.76,
+   "text": "findest du nicht?"
+  },
+  {
+   "start": 105.72,
+   "end": 107.599,
+   "text": "Drei, vier."
+  },
+  {
+   "start": 140.919,
+   "end": 147.24,
+   "text": "Ich hab Gefallen am Herbst gefunden"
+  },
+  {
+   "start": 147.84,
+   "end": 152.52,
+   "text": "und auch an den Winter gew\u00f6hnt man sich."
+  },
+  {
+   "start": 153.24,
+   "end": 160.56,
+   "text": "Ich bin ja nicht alt und krank und geschunden,"
+  },
+  {
+   "start": 165.44,
+   "end": 168.479,
+   "text": "aber etwas blass,"
+  },
+  {
+   "start": 169.84,
+   "end": 174.12,
+   "text": "findest du nicht?"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 2204,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 2204
+   }
+  ],
+  "prompt_token_count": 5839,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 683
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 5156
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 8043,
+  "traffic_type": null
+ }
+}

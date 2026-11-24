@@ -1,0 +1,151 @@
+{
+ "bpm": 120,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 32.0,
+   "key": "A minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "chord": "D:min"
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "chord": "E:maj"
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 28.0,
+   "end": 30.0,
+   "chord": "D:min"
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "chord": "E:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "acoustic guitar",
+   "start": 0.0,
+   "end": 32.0
+  },
+  {
+   "name": "bass",
+   "start": 0.0,
+   "end": 32.0
+  },
+  {
+   "name": "drums",
+   "start": 0.0,
+   "end": 32.0
+  },
+  {
+   "name": "vocals",
+   "start": 4.0,
+   "end": 7.5
+  },
+  {
+   "name": "strings",
+   "start": 16.0,
+   "end": 32.0
+  },
+  {
+   "name": "vocals",
+   "start": 16.0,
+   "end": 19.5
+  },
+  {
+   "name": "vocals",
+   "start": 24.0,
+   "end": 27.5
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 4.0,
+   "end": 7.5,
+   "text": "Seven lanterns floating on the quiet bay"
+  },
+  {
+   "start": 16.0,
+   "end": 19.5,
+   "text": "Paper boats that never learn to find their way"
+  },
+  {
+   "start": 24.0,
+   "end": 27.5,
+   "text": "Hold the rope and pull the anchor from the sand"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 4434,
+  "input_tokens": 1399
+ }
+}

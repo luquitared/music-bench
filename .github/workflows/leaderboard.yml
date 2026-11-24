@@ -1,0 +1,27 @@
+name: Leaderboard
+
+# Every submission is rescored from its raw answers. The check fails if a model's answers are incomplete
+# or if results/leaderboard.json / LEADERBOARD.md don't match what the scorer produces.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+      - name: Cache third-party annotations
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: annotations-${{ hashFiles('bench/real.py') }}
+      - run: uv sync --locked
+      - name: Build ground truth (annotations only, no audio)
+        run: uv run python -m bench.real truth
+      - name: Rescore and compare
+        run: uv run python -m bench.leaderboard --check

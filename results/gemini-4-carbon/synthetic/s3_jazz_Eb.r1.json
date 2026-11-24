@@ -1,0 +1,120 @@
+{
+ "bpm": 90,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 42.67,
+   "key": "Eb major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.67,
+   "chord": "F:min7"
+  },
+  {
+   "start": 2.67,
+   "end": 5.33,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 5.33,
+   "end": 8.0,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 8.0,
+   "end": 10.67,
+   "chord": "C:min7"
+  },
+  {
+   "start": 10.67,
+   "end": 13.33,
+   "chord": "F:min7"
+  },
+  {
+   "start": 13.33,
+   "end": 16.0,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 16.0,
+   "end": 18.67,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 18.67,
+   "end": 21.33,
+   "chord": "C:min7"
+  },
+  {
+   "start": 21.33,
+   "end": 24.0,
+   "chord": "F:min7"
+  },
+  {
+   "start": 24.0,
+   "end": 26.67,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 26.67,
+   "end": 29.33,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 29.33,
+   "end": 32.0,
+   "chord": "C:min7"
+  },
+  {
+   "start": 32.0,
+   "end": 34.67,
+   "chord": "F:min7"
+  },
+  {
+   "start": 34.67,
+   "end": 37.33,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 37.33,
+   "end": 40.0,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 40.0,
+   "end": 42.67,
+   "chord": "C:min7"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "electric piano",
+   "start": 0.0,
+   "end": 42.67
+  },
+  {
+   "name": "electric bass",
+   "start": 0.0,
+   "end": 42.67
+  },
+  {
+   "name": "drums",
+   "start": 0.0,
+   "end": 42.67
+  },
+  {
+   "name": "synthesizer",
+   "start": 21.33,
+   "end": 42.67
+  }
+ ],
+ "lyrics": [],
+ "_usage": {
+  "output_tokens": 2550,
+  "input_tokens": 1710
+ }
+}

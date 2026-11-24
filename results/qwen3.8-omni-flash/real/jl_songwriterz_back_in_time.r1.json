@@ -1,0 +1,1801 @@
+{
+ "bpm": 172,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 208.0,
+   "key": "C:major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.7,
+   "chord": "N"
+  },
+  {
+   "start": 0.7,
+   "end": 1.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 1.4,
+   "end": 2.1,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 2.1,
+   "end": 2.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 2.8,
+   "end": 3.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 3.5,
+   "end": 4.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 4.2,
+   "end": 4.9,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 4.9,
+   "end": 5.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 5.6,
+   "end": 6.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 6.3,
+   "end": 7.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 7.0,
+   "end": 7.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 7.7,
+   "end": 8.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 8.4,
+   "end": 9.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 9.1,
+   "end": 9.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 9.8,
+   "end": 10.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 10.5,
+   "end": 11.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 11.2,
+   "end": 11.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 11.9,
+   "end": 12.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 12.6,
+   "end": 13.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 13.3,
+   "end": 14.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 14.0,
+   "end": 14.7,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 14.7,
+   "end": 15.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 15.4,
+   "end": 16.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 16.1,
+   "end": 16.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 16.8,
+   "end": 17.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 17.5,
+   "end": 18.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 18.2,
+   "end": 18.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 18.9,
+   "end": 19.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 19.6,
+   "end": 20.3,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 20.3,
+   "end": 21.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 21.0,
+   "end": 21.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 21.7,
+   "end": 22.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 22.4,
+   "end": 23.1,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 23.1,
+   "end": 23.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 23.8,
+   "end": 24.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 24.5,
+   "end": 25.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 25.2,
+   "end": 25.9,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 25.9,
+   "end": 26.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 26.6,
+   "end": 27.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 27.3,
+   "end": 28.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 28.0,
+   "end": 28.7,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 28.7,
+   "end": 29.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 29.4,
+   "end": 30.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 30.1,
+   "end": 30.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 30.8,
+   "end": 31.5,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 31.5,
+   "end": 32.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 32.2,
+   "end": 32.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 32.9,
+   "end": 33.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 33.6,
+   "end": 34.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 34.3,
+   "end": 35.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 35.0,
+   "end": 35.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 35.7,
+   "end": 36.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 36.4,
+   "end": 37.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 37.1,
+   "end": 37.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 37.8,
+   "end": 38.5,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 38.5,
+   "end": 39.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 39.2,
+   "end": 39.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 39.9,
+   "end": 40.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 40.6,
+   "end": 41.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 41.3,
+   "end": 42.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 42.0,
+   "end": 42.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 42.7,
+   "end": 43.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 43.4,
+   "end": 44.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 44.1,
+   "end": 44.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 44.8,
+   "end": 45.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 45.5,
+   "end": 46.2,
+   "chord": "F:maj"
+  },
+  {
+   "start": 46.2,
+   "end": 46.9,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 46.9,
+   "end": 47.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 47.6,
+   "end": 48.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 48.3,
+   "end": 49.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 49.0,
+   "end": 49.7,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 49.7,
+   "end": 50.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 50.4,
+   "end": 51.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 51.1,
+   "end": 51.8,
+   "chord": "F:maj"
+  },
+  {
+   "start": 51.8,
+   "end": 52.5,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 52.5,
+   "end": 53.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 53.2,
+   "end": 53.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 53.9,
+   "end": 54.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 54.6,
+   "end": 55.3,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 55.3,
+   "end": 56.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 56.0,
+   "end": 56.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 56.7,
+   "end": 57.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 57.4,
+   "end": 58.1,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 58.1,
+   "end": 58.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 58.8,
+   "end": 59.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 59.5,
+   "end": 60.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 60.2,
+   "end": 60.9,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 60.9,
+   "end": 61.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 61.6,
+   "end": 62.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 62.3,
+   "end": 63.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 63.0,
+   "end": 63.7,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 63.7,
+   "end": 64.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 64.4,
+   "end": 65.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 65.1,
+   "end": 65.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 65.8,
+   "end": 66.5,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 66.5,
+   "end": 67.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 67.2,
+   "end": 67.9,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 67.9,
+   "end": 68.6,
+   "chord": "F:maj"
+  },
+  {
+   "start": 68.6,
+   "end": 69.3,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 69.3,
+   "end": 70.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 70.0,
+   "end": 70.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 70.7,
+   "end": 71.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 71.4,
+   "end": 72.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 72.1,
+   "end": 72.8,
+   "chord": "A:min"
+  },
+  {
+   "start": 72.8,
+   "end": 73.5,
+   "chord": "A:min/5"
+  },
+  {
+   "start": 73.5,
+   "end": 74.2,
+   "chord": "F:maj"
+  },
+  {
+   "start": 74.2,
+   "end": 74.9,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 74.9,
+   "end": 75.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 75.6,
+   "end": 76.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 76.3,
+   "end": 77.0,
+   "chord": "E:maj"
+  },
+  {
+   "start": 77.0,
+   "end": 77.7,
+   "chord": "E:maj/5"
+  },
+  {
+   "start": 77.7,
+   "end": 78.4,
+   "chord": "A:min"
+  },
+  {
+   "start": 78.4,
+   "end": 79.1,
+   "chord": "A:min/5"
+  },
+  {
+   "start": 79.1,
+   "end": 79.8,
+   "chord": "F:maj"
+  },
+  {
+   "start": 79.8,
+   "end": 80.5,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 80.5,
+   "end": 81.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 81.2,
+   "end": 81.9,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 81.9,
+   "end": 82.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 82.6,
+   "end": 83.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 83.3,
+   "end": 84.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 84.0,
+   "end": 84.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 84.7,
+   "end": 85.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 85.4,
+   "end": 86.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 86.1,
+   "end": 86.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 86.8,
+   "end": 87.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 87.5,
+   "end": 88.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 88.2,
+   "end": 88.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 88.9,
+   "end": 89.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 89.6,
+   "end": 90.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 90.3,
+   "end": 91.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 91.0,
+   "end": 91.7,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 91.7,
+   "end": 92.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 92.4,
+   "end": 93.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 93.1,
+   "end": 93.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 93.8,
+   "end": 94.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 94.5,
+   "end": 95.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 95.2,
+   "end": 95.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 95.9,
+   "end": 96.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 96.6,
+   "end": 97.3,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 97.3,
+   "end": 98.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 98.0,
+   "end": 98.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 98.7,
+   "end": 99.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 99.4,
+   "end": 100.1,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 100.1,
+   "end": 100.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 100.8,
+   "end": 101.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 101.5,
+   "end": 102.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 102.2,
+   "end": 102.9,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 102.9,
+   "end": 103.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 103.6,
+   "end": 104.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 104.3,
+   "end": 105.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 105.0,
+   "end": 105.7,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 105.7,
+   "end": 106.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 106.4,
+   "end": 107.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 107.1,
+   "end": 107.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 107.8,
+   "end": 108.5,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 108.5,
+   "end": 109.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 109.2,
+   "end": 109.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 109.9,
+   "end": 110.6,
+   "chord": "F:maj"
+  },
+  {
+   "start": 110.6,
+   "end": 111.3,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 111.3,
+   "end": 112.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 112.0,
+   "end": 112.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 112.7,
+   "end": 113.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 113.4,
+   "end": 114.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 114.1,
+   "end": 114.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 114.8,
+   "end": 115.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 115.5,
+   "end": 116.2,
+   "chord": "F:maj"
+  },
+  {
+   "start": 116.2,
+   "end": 116.9,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 116.9,
+   "end": 117.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 117.6,
+   "end": 118.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 118.3,
+   "end": 119.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 119.0,
+   "end": 119.7,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 119.7,
+   "end": 120.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 120.4,
+   "end": 121.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 121.1,
+   "end": 121.8,
+   "chord": "F:maj"
+  },
+  {
+   "start": 121.8,
+   "end": 122.5,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 122.5,
+   "end": 123.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 123.2,
+   "end": 123.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 123.9,
+   "end": 124.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 124.6,
+   "end": 125.3,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 125.3,
+   "end": 126.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 126.0,
+   "end": 126.7,
+   "chord": "A:min/5"
+  },
+  {
+   "start": 126.7,
+   "end": 127.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 127.4,
+   "end": 128.1,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 128.1,
+   "end": 128.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 128.8,
+   "end": 129.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 129.5,
+   "end": 130.2,
+   "chord": "E:maj"
+  },
+  {
+   "start": 130.2,
+   "end": 130.9,
+   "chord": "E:maj/5"
+  },
+  {
+   "start": 130.9,
+   "end": 131.6,
+   "chord": "A:min"
+  },
+  {
+   "start": 131.6,
+   "end": 132.3,
+   "chord": "A:min/5"
+  },
+  {
+   "start": 132.3,
+   "end": 133.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 133.0,
+   "end": 133.7,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 133.7,
+   "end": 134.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 134.4,
+   "end": 135.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 135.1,
+   "end": 135.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 135.8,
+   "end": 136.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 136.5,
+   "end": 137.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 137.2,
+   "end": 137.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 137.9,
+   "end": 138.6,
+   "chord": "F:maj"
+  },
+  {
+   "start": 138.6,
+   "end": 139.3,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 139.3,
+   "end": 140.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 140.0,
+   "end": 140.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 140.7,
+   "end": 141.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 141.4,
+   "end": 142.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 142.1,
+   "end": 142.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 142.8,
+   "end": 143.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 143.5,
+   "end": 144.2,
+   "chord": "F:maj"
+  },
+  {
+   "start": 144.2,
+   "end": 144.9,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 144.9,
+   "end": 145.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 145.6,
+   "end": 146.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 146.3,
+   "end": 147.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 147.0,
+   "end": 147.7,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 147.7,
+   "end": 148.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 148.4,
+   "end": 149.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 149.1,
+   "end": 149.8,
+   "chord": "F:maj"
+  },
+  {
+   "start": 149.8,
+   "end": 150.5,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 150.5,
+   "end": 151.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 151.2,
+   "end": 151.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 151.9,
+   "end": 152.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 152.6,
+   "end": 153.3,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 153.3,
+   "end": 154.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 154.0,
+   "end": 154.7,
+   "chord": "A:min/5"
+  },
+  {
+   "start": 154.7,
+   "end": 155.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 155.4,
+   "end": 156.1,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 156.1,
+   "end": 156.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 156.8,
+   "end": 157.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 157.5,
+   "end": 158.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 158.2,
+   "end": 158.9,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 158.9,
+   "end": 159.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 159.6,
+   "end": 160.3,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 160.3,
+   "end": 161.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 161.0,
+   "end": 161.7,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 161.7,
+   "end": 162.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 162.4,
+   "end": 163.1,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 163.1,
+   "end": 163.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 163.8,
+   "end": 164.5,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 164.5,
+   "end": 165.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 165.2,
+   "end": 165.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 165.9,
+   "end": 166.6,
+   "chord": "F:maj"
+  },
+  {
+   "start": 166.6,
+   "end": 167.3,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 167.3,
+   "end": 168.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 168.0,
+   "end": 168.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 168.7,
+   "end": 169.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 169.4,
+   "end": 170.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 170.1,
+   "end": 170.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 170.8,
+   "end": 171.5,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 171.5,
+   "end": 172.2,
+   "chord": "F:maj"
+  },
+  {
+   "start": 172.2,
+   "end": 172.9,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 172.9,
+   "end": 173.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 173.6,
+   "end": 174.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 174.3,
+   "end": 175.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 175.0,
+   "end": 175.7,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 175.7,
+   "end": 176.4,
+   "chord": "A:min"
+  },
+  {
+   "start": 176.4,
+   "end": 177.1,
+   "chord": "A:min/5"
+  },
+  {
+   "start": 177.1,
+   "end": 177.8,
+   "chord": "F:maj"
+  },
+  {
+   "start": 177.8,
+   "end": 178.5,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 178.5,
+   "end": 179.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 179.2,
+   "end": 179.9,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 179.9,
+   "end": 180.6,
+   "chord": "F:maj"
+  },
+  {
+   "start": 180.6,
+   "end": 181.3,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 181.3,
+   "end": 182.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 182.0,
+   "end": 182.7,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 182.7,
+   "end": 183.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 183.4,
+   "end": 184.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 184.1,
+   "end": 184.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 184.8,
+   "end": 185.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 185.5,
+   "end": 186.2,
+   "chord": "F:maj"
+  },
+  {
+   "start": 186.2,
+   "end": 186.9,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 186.9,
+   "end": 187.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 187.6,
+   "end": 188.3,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 188.3,
+   "end": 189.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 189.0,
+   "end": 189.7,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 189.7,
+   "end": 190.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 190.4,
+   "end": 191.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 191.1,
+   "end": 191.8,
+   "chord": "F:maj"
+  },
+  {
+   "start": 191.8,
+   "end": 192.5,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 192.5,
+   "end": 193.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 193.2,
+   "end": 193.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 193.9,
+   "end": 194.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 194.6,
+   "end": 195.3,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 195.3,
+   "end": 196.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 196.0,
+   "end": 196.7,
+   "chord": "A:min/5"
+  },
+  {
+   "start": 196.7,
+   "end": 197.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 197.4,
+   "end": 198.1,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 198.1,
+   "end": 198.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 198.8,
+   "end": 199.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 199.5,
+   "end": 200.2,
+   "chord": "E:maj"
+  },
+  {
+   "start": 200.2,
+   "end": 200.9,
+   "chord": "E:maj/5"
+  },
+  {
+   "start": 200.9,
+   "end": 201.6,
+   "chord": "A:min"
+  },
+  {
+   "start": 201.6,
+   "end": 202.3,
+   "chord": "A:min/5"
+  },
+  {
+   "start": 202.3,
+   "end": 203.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 203.0,
+   "end": 203.7,
+   "chord": "F:maj/5"
+  },
+  {
+   "start": 203.7,
+   "end": 204.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 204.4,
+   "end": 205.1,
+   "chord": "G:maj/5"
+  },
+  {
+   "start": 205.1,
+   "end": 205.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 205.8,
+   "end": 206.5,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 206.5,
+   "end": 207.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 207.2,
+   "end": 207.9,
+   "chord": "C:maj/5"
+  },
+  {
+   "start": 207.9,
+   "end": 208.0,
+   "chord": "C:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "acoustic guitar",
+   "start": 0.0,
+   "end": 208.0
+  },
+  {
+   "name": "electric guitar",
+   "start": 0.0,
+   "end": 208.0
+  },
+  {
+   "name": "bass guitar",
+   "start": 0.0,
+   "end": 208.0
+  },
+  {
+   "name": "drums",
+   "start": 0.0,
+   "end": 208.0
+  },
+  {
+   "name": "piano",
+   "start": 0.0,
+   "end": 208.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 10.4,
+   "end": 12.8,
+   "text": "Honey, I told you something"
+  },
+  {
+   "start": 13.0,
+   "end": 15.5,
+   "text": "Sorry, I didn't hear"
+  },
+  {
+   "start": 15.9,
+   "end": 17.8,
+   "text": "Maybe there was something"
+  },
+  {
+   "start": 17.8,
+   "end": 21.0,
+   "text": "Yeah, yeah, yeah, stuck in your ear"
+  },
+  {
+   "start": 21.4,
+   "end": 26.4,
+   "text": "Why is it every time you say you do, you don't?"
+  },
+  {
+   "start": 26.9,
+   "end": 33.0,
+   "text": "Maybe I just thought that you were talking on the phone"
+  },
+  {
+   "start": 33.9,
+   "end": 36.6,
+   "text": "Honey, you look lovely tonight"
+  },
+  {
+   "start": 36.6,
+   "end": 39.2,
+   "text": "Sorry, you're wasting time"
+  },
+  {
+   "start": 39.4,
+   "end": 41.9,
+   "text": "Baby, this ain't your lucky night"
+  },
+  {
+   "start": 41.9,
+   "end": 44.6,
+   "text": "Well, trying ain't a crime"
+  },
+  {
+   "start": 45.0,
+   "end": 50.0,
+   "text": "Why is it every time I like to do, you don't?"
+  },
+  {
+   "start": 50.5,
+   "end": 55.1,
+   "text": "Maybe you could try a little romance at home"
+  },
+  {
+   "start": 55.2,
+   "end": 58.4,
+   "text": "Let's go back in time"
+  },
+  {
+   "start": 58.8,
+   "end": 61.6,
+   "text": "Way back when we were"
+  },
+  {
+   "start": 61.6,
+   "end": 65.8,
+   "text": "La la la la la, la la la"
+  },
+  {
+   "start": 66.3,
+   "end": 69.1,
+   "text": "Now it's married life"
+  },
+  {
+   "start": 69.1,
+   "end": 72.6,
+   "text": "And the daily strife to be"
+  },
+  {
+   "start": 72.6,
+   "end": 75.0,
+   "text": "La la la la la"
+  },
+  {
+   "start": 75.4,
+   "end": 78.2,
+   "text": "La la la la la, la la"
+  },
+  {
+   "start": 78.2,
+   "end": 80.0,
+   "text": "La la la la la"
+  },
+  {
+   "start": 80.1,
+   "end": 84.2,
+   "text": "La la la"
+  },
+  {
+   "start": 86.5,
+   "end": 88.8,
+   "text": "Honey, you're getting older"
+  },
+  {
+   "start": 88.8,
+   "end": 91.4,
+   "text": "Yeah, used to a twenty-nine"
+  },
+  {
+   "start": 91.9,
+   "end": 94.4,
+   "text": "And maybe things are colder"
+  },
+  {
+   "start": 94.7,
+   "end": 97.2,
+   "text": "But honey, you're still mine"
+  },
+  {
+   "start": 97.6,
+   "end": 100.0,
+   "text": "Guess it's easy to forget"
+  },
+  {
+   "start": 100.2,
+   "end": 102.6,
+   "text": "The mother and the wife"
+  },
+  {
+   "start": 103.1,
+   "end": 105.8,
+   "text": "Could it be the la la magic"
+  },
+  {
+   "start": 105.8,
+   "end": 107.7,
+   "text": "Keeping love alive?"
+  },
+  {
+   "start": 107.9,
+   "end": 111.0,
+   "text": "Let's go back in time"
+  },
+  {
+   "start": 111.4,
+   "end": 114.2,
+   "text": "Way back when we were"
+  },
+  {
+   "start": 114.2,
+   "end": 118.2,
+   "text": "La la la la la, la la la"
+  },
+  {
+   "start": 118.9,
+   "end": 122.0,
+   "text": "Back when you and I"
+  },
+  {
+   "start": 122.4,
+   "end": 125.2,
+   "text": "Still had time to be"
+  },
+  {
+   "start": 125.2,
+   "end": 127.6,
+   "text": "La la la la la"
+  },
+  {
+   "start": 128.0,
+   "end": 130.8,
+   "text": "La la la la la, la la"
+  },
+  {
+   "start": 130.8,
+   "end": 132.6,
+   "text": "La la la la la"
+  },
+  {
+   "start": 132.7,
+   "end": 136.4,
+   "text": "La la la"
+  },
+  {
+   "start": 157.7,
+   "end": 161.0,
+   "text": "Let's go back in time"
+  },
+  {
+   "start": 161.3,
+   "end": 164.0,
+   "text": "Way back when we were"
+  },
+  {
+   "start": 164.0,
+   "end": 168.2,
+   "text": "La la la la la, la la la"
+  },
+  {
+   "start": 168.7,
+   "end": 172.0,
+   "text": "Back when you and I"
+  },
+  {
+   "start": 172.2,
+   "end": 175.0,
+   "text": "Still had time to be"
+  },
+  {
+   "start": 175.0,
+   "end": 177.0,
+   "text": "La la la la la"
+  },
+  {
+   "start": 177.0,
+   "end": 180.4,
+   "text": "Let's go back in time"
+  },
+  {
+   "start": 180.6,
+   "end": 183.4,
+   "text": "Way back when we were"
+  },
+  {
+   "start": 183.4,
+   "end": 187.6,
+   "text": "La la la la la, la la la"
+  },
+  {
+   "start": 188.1,
+   "end": 190.8,
+   "text": "Now it's married life"
+  },
+  {
+   "start": 190.8,
+   "end": 194.4,
+   "text": "Still we have to try to be"
+  },
+  {
+   "start": 194.4,
+   "end": 196.9,
+   "text": "La la la la la"
+  },
+  {
+   "start": 197.2,
+   "end": 199.9,
+   "text": "La la la la la, la la"
+  },
+  {
+   "start": 199.9,
+   "end": 201.7,
+   "text": "La la la la la"
+  },
+  {
+   "start": 201.8,
+   "end": 204.0,
+   "text": "La la la"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 15132,
+  "input_tokens": 1761
+ }
+}

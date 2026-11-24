@@ -1,0 +1,120 @@
+{
+ "bpm": 110,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 17.5,
+   "key": "D major"
+  },
+  {
+   "start": 17.5,
+   "end": 34.9,
+   "key": "E major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.2,
+   "chord": "D:maj"
+  },
+  {
+   "start": 2.2,
+   "end": 4.4,
+   "chord": "B:min"
+  },
+  {
+   "start": 4.4,
+   "end": 6.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 6.5,
+   "end": 8.7,
+   "chord": "A:maj"
+  },
+  {
+   "start": 8.7,
+   "end": 10.9,
+   "chord": "D:maj"
+  },
+  {
+   "start": 10.9,
+   "end": 13.1,
+   "chord": "B:min"
+  },
+  {
+   "start": 13.1,
+   "end": 15.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 15.3,
+   "end": 17.5,
+   "chord": "A:maj"
+  },
+  {
+   "start": 17.5,
+   "end": 19.6,
+   "chord": "E:maj"
+  },
+  {
+   "start": 19.6,
+   "end": 21.8,
+   "chord": "C#:min"
+  },
+  {
+   "start": 21.8,
+   "end": 24.0,
+   "chord": "A:maj"
+  },
+  {
+   "start": 24.0,
+   "end": 26.2,
+   "chord": "B:maj"
+  },
+  {
+   "start": 26.2,
+   "end": 28.4,
+   "chord": "E:maj"
+  },
+  {
+   "start": 28.4,
+   "end": 30.5,
+   "chord": "C#:min"
+  },
+  {
+   "start": 30.5,
+   "end": 32.7,
+   "chord": "A:maj"
+  },
+  {
+   "start": 32.7,
+   "end": 34.9,
+   "chord": "B:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "Acoustic Grand Piano",
+   "start": 0.0,
+   "end": 34.9
+  },
+  {
+   "name": "String Ensemble 1",
+   "start": 0.0,
+   "end": 34.9
+  },
+  {
+   "name": "Lead 8 (bass + lead)",
+   "start": 8.7,
+   "end": 34.9
+  }
+ ],
+ "lyrics": [],
+ "_usage": {
+  "output_tokens": 572,
+  "input_tokens": 1475
+ }
+}

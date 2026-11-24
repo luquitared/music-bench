@@ -1,0 +1,125 @@
+{
+ "bpm": 112,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 17.04,
+   "key": "D major"
+  },
+  {
+   "start": 17.04,
+   "end": 35.2,
+   "key": "E major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.12,
+   "chord": "D:maj"
+  },
+  {
+   "start": 2.12,
+   "end": 4.26,
+   "chord": "B:min"
+  },
+  {
+   "start": 4.26,
+   "end": 6.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 6.4,
+   "end": 8.54,
+   "chord": "A:maj"
+  },
+  {
+   "start": 8.54,
+   "end": 10.68,
+   "chord": "D:maj"
+  },
+  {
+   "start": 10.68,
+   "end": 12.82,
+   "chord": "B:min"
+  },
+  {
+   "start": 12.82,
+   "end": 14.96,
+   "chord": "G:maj"
+  },
+  {
+   "start": 14.96,
+   "end": 17.1,
+   "chord": "A:maj"
+  },
+  {
+   "start": 17.1,
+   "end": 19.24,
+   "chord": "E:maj"
+  },
+  {
+   "start": 19.24,
+   "end": 21.38,
+   "chord": "C#:min"
+  },
+  {
+   "start": 21.38,
+   "end": 23.52,
+   "chord": "A:maj"
+  },
+  {
+   "start": 23.52,
+   "end": 25.66,
+   "chord": "B:maj"
+  },
+  {
+   "start": 25.66,
+   "end": 27.8,
+   "chord": "E:maj"
+  },
+  {
+   "start": 27.8,
+   "end": 29.94,
+   "chord": "C#:min"
+  },
+  {
+   "start": 29.94,
+   "end": 32.08,
+   "chord": "A:maj"
+  },
+  {
+   "start": 32.08,
+   "end": 34.22,
+   "chord": "B:maj"
+  },
+  {
+   "start": 34.22,
+   "end": 35.2,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0.0,
+   "end": 34.22
+  },
+  {
+   "name": "strings",
+   "start": 0.0,
+   "end": 34.22
+  },
+  {
+   "name": "flute",
+   "start": 8.54,
+   "end": 34.22
+  }
+ ],
+ "lyrics": [],
+ "_usage": {
+  "output_tokens": 1464,
+  "input_tokens": 543
+ }
+}

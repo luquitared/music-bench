@@ -1,0 +1,699 @@
+{
+ "bpm": 133,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 402.0,
+   "key": "D minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "chord": "N"
+  },
+  {
+   "start": 3.6,
+   "end": 5.4,
+   "chord": "D:min"
+  },
+  {
+   "start": 5.4,
+   "end": 7.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 7.2,
+   "end": 10.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 10.8,
+   "end": 12.6,
+   "chord": "D:min"
+  },
+  {
+   "start": 12.6,
+   "end": 14.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 14.4,
+   "end": 16.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 16.2,
+   "end": 17.1,
+   "chord": "F:maj"
+  },
+  {
+   "start": 17.1,
+   "end": 18.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 18.0,
+   "end": 19.8,
+   "chord": "D:min"
+  },
+  {
+   "start": 19.8,
+   "end": 21.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 21.6,
+   "end": 25.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 25.2,
+   "end": 27.0,
+   "chord": "D:min"
+  },
+  {
+   "start": 27.0,
+   "end": 28.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 28.8,
+   "end": 29.7,
+   "chord": "F:maj"
+  },
+  {
+   "start": 29.7,
+   "end": 30.6,
+   "chord": "G:maj"
+  },
+  {
+   "start": 30.6,
+   "end": 36.0,
+   "chord": "D:min"
+  },
+  {
+   "start": 36.0,
+   "end": 37.8,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 37.8,
+   "end": 39.6,
+   "chord": "G:min"
+  },
+  {
+   "start": 39.6,
+   "end": 41.4,
+   "chord": "D:min"
+  },
+  {
+   "start": 41.4,
+   "end": 43.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 43.2,
+   "end": 45.0,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 45.0,
+   "end": 46.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 46.8,
+   "end": 50.4,
+   "chord": "D:min"
+  },
+  {
+   "start": 50.4,
+   "end": 52.2,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 52.2,
+   "end": 54.0,
+   "chord": "G:min"
+  },
+  {
+   "start": 54.0,
+   "end": 55.8,
+   "chord": "D:min"
+  },
+  {
+   "start": 55.8,
+   "end": 57.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 57.6,
+   "end": 59.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 59.4,
+   "end": 61.2,
+   "chord": "G:min"
+  },
+  {
+   "start": 61.2,
+   "end": 63.0,
+   "chord": "A:sus4"
+  },
+  {
+   "start": 63.0,
+   "end": 64.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 64.8,
+   "end": 66.6,
+   "chord": "D:min"
+  },
+  {
+   "start": 66.6,
+   "end": 68.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 68.4,
+   "end": 70.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 70.2,
+   "end": 72.0,
+   "chord": "A:min"
+  },
+  {
+   "start": 72.0,
+   "end": 73.8,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 73.8,
+   "end": 75.6,
+   "chord": "G:min"
+  },
+  {
+   "start": 75.6,
+   "end": 79.2,
+   "chord": "A:maj"
+  },
+  {
+   "start": 79.2,
+   "end": 81.0,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 81.0,
+   "end": 82.8,
+   "chord": "C:maj"
+  },
+  {
+   "start": 82.8,
+   "end": 84.6,
+   "chord": "D:min"
+  },
+  {
+   "start": 84.6,
+   "end": 86.4,
+   "chord": "F:maj"
+  },
+  {
+   "start": 86.4,
+   "end": 88.2,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 88.2,
+   "end": 90.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 90.0,
+   "end": 93.6,
+   "chord": "D:min"
+  },
+  {
+   "start": 93.6,
+   "end": 95.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 95.4,
+   "end": 99.0,
+   "chord": "D:min"
+  },
+  {
+   "start": 99.0,
+   "end": 100.8,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 100.8,
+   "end": 102.6,
+   "chord": "G:min"
+  },
+  {
+   "start": 102.6,
+   "end": 104.4,
+   "chord": "D:min"
+  },
+  {
+   "start": 104.4,
+   "end": 106.2,
+   "chord": "C:maj"
+  },
+  {
+   "start": 106.2,
+   "end": 108.0,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 108.0,
+   "end": 109.8,
+   "chord": "G:min"
+  },
+  {
+   "start": 109.8,
+   "end": 111.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 111.6,
+   "end": 113.4,
+   "chord": "D:min"
+  },
+  {
+   "start": 113.4,
+   "end": 115.2,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 115.2,
+   "end": 117.0,
+   "chord": "C:maj"
+  },
+  {
+   "start": 117.0,
+   "end": 118.8,
+   "chord": "A:min"
+  },
+  {
+   "start": 118.8,
+   "end": 120.6,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 120.6,
+   "end": 122.4,
+   "chord": "G:min"
+  },
+  {
+   "start": 122.4,
+   "end": 127.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 127.8,
+   "end": 129.6,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 129.6,
+   "end": 131.4,
+   "chord": "C:maj"
+  },
+  {
+   "start": 131.4,
+   "end": 133.2,
+   "chord": "D:min"
+  },
+  {
+   "start": 133.2,
+   "end": 135.0,
+   "chord": "F:maj"
+  },
+  {
+   "start": 135.0,
+   "end": 136.8,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 136.8,
+   "end": 138.6,
+   "chord": "C:maj"
+  },
+  {
+   "start": 138.6,
+   "end": 151.9,
+   "chord": "D:min"
+  },
+  {
+   "start": 151.9,
+   "end": 154.4,
+   "chord": "G:min"
+  },
+  {
+   "start": 154.4,
+   "end": 156.9,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 156.9,
+   "end": 159.4,
+   "chord": "A:min"
+  },
+  {
+   "start": 159.4,
+   "end": 161.9,
+   "chord": "D:min"
+  },
+  {
+   "start": 161.9,
+   "end": 164.4,
+   "chord": "G:min"
+  },
+  {
+   "start": 164.4,
+   "end": 166.9,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 166.9,
+   "end": 169.4,
+   "chord": "A:min"
+  },
+  {
+   "start": 169.4,
+   "end": 171.9,
+   "chord": "D:min"
+  },
+  {
+   "start": 171.9,
+   "end": 174.4,
+   "chord": "G:min"
+  },
+  {
+   "start": 174.4,
+   "end": 176.9,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 176.9,
+   "end": 179.4,
+   "chord": "A:min"
+  },
+  {
+   "start": 179.4,
+   "end": 181.9,
+   "chord": "D:min"
+  },
+  {
+   "start": 181.9,
+   "end": 184.4,
+   "chord": "G:min"
+  },
+  {
+   "start": 184.4,
+   "end": 186.9,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 186.9,
+   "end": 189.4,
+   "chord": "A:min"
+  },
+  {
+   "start": 189.4,
+   "end": 191.9,
+   "chord": "D:min"
+  },
+  {
+   "start": 191.9,
+   "end": 194.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 194.4,
+   "end": 196.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 196.9,
+   "end": 199.4,
+   "chord": "D:min"
+  },
+  {
+   "start": 199.4,
+   "end": 201.9,
+   "chord": "F:maj"
+  },
+  {
+   "start": 201.9,
+   "end": 204.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 204.4,
+   "end": 206.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 206.9,
+   "end": 209.4,
+   "chord": "D:min"
+  },
+  {
+   "start": 209.4,
+   "end": 211.9,
+   "chord": "F:maj"
+  },
+  {
+   "start": 211.9,
+   "end": 214.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 214.4,
+   "end": 216.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 216.9,
+   "end": 219.4,
+   "chord": "D:min"
+  },
+  {
+   "start": 219.4,
+   "end": 221.9,
+   "chord": "F:maj"
+  },
+  {
+   "start": 221.9,
+   "end": 224.4,
+   "chord": "Bb:maj"
+  },
+  {
+   "start": 224.4,
+   "end": 226.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 226.9,
+   "end": 231.9,
+   "chord": "D:min"
+  },
+  {
+   "start": 231.9,
+   "end": 242.0,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "synthesizer",
+   "start": 0.0,
+   "end": 231.9
+  },
+  {
+   "name": "distorted electric guitar",
+   "start": 3.6,
+   "end": 144.0
+  },
+  {
+   "name": "bass guitar",
+   "start": 3.6,
+   "end": 144.0
+  },
+  {
+   "name": "drums",
+   "start": 3.6,
+   "end": 142.0
+  },
+  {
+   "name": "female vocals",
+   "start": 32.4,
+   "end": 144.5
+  },
+  {
+   "name": "clean electric guitar",
+   "start": 148.5,
+   "end": 191.9
+  },
+  {
+   "name": "bass guitar",
+   "start": 149.4,
+   "end": 231.9
+  },
+  {
+   "name": "drums",
+   "start": 149.4,
+   "end": 240.0
+  },
+  {
+   "name": "female vocals",
+   "start": 169.4,
+   "end": 231.5
+  },
+  {
+   "name": "piano",
+   "start": 189.4,
+   "end": 231.9
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 32.4,
+   "end": 39.6,
+   "text": "Forget the contrast, continue in style, let smiles to wear"
+  },
+  {
+   "start": 40.0,
+   "end": 46.8,
+   "text": "We're going on, we nearly carried it to the end"
+  },
+  {
+   "start": 46.8,
+   "end": 54.4,
+   "text": "In every whisper, in every beat all around your heart"
+  },
+  {
+   "start": 54.8,
+   "end": 64.8,
+   "text": "We're holding on for the moment to free your mind"
+  },
+  {
+   "start": 64.8,
+   "end": 70.2,
+   "text": "Memories fade in the dust of a rainy day"
+  },
+  {
+   "start": 70.2,
+   "end": 77.4,
+   "text": "No name, broken in one way, stay, stay"
+  },
+  {
+   "start": 77.5,
+   "end": 84.6,
+   "text": "One day it all will gone forever, will gone forever"
+  },
+  {
+   "start": 84.8,
+   "end": 95.2,
+   "text": "Don't close your eyes, will gone forever, will gone forever"
+  },
+  {
+   "start": 95.4,
+   "end": 102.6,
+   "text": "Just hit the bottom, destroy your past and go ahead"
+  },
+  {
+   "start": 102.8,
+   "end": 111.2,
+   "text": "Hey, what you want, feel this power in the flames"
+  },
+  {
+   "start": 111.6,
+   "end": 117.8,
+   "text": "Memories fade in the dust of a rainy day"
+  },
+  {
+   "start": 118.0,
+   "end": 125.4,
+   "text": "No name, broken in one way, stay, stay"
+  },
+  {
+   "start": 125.5,
+   "end": 133.0,
+   "text": "One day it all will gone forever, will gone forever"
+  },
+  {
+   "start": 133.2,
+   "end": 144.5,
+   "text": "Don't close your eyes, will gone forever, will gone forever"
+  },
+  {
+   "start": 169.4,
+   "end": 179.4,
+   "text": "In your heart, follow a promise"
+  },
+  {
+   "start": 189.4,
+   "end": 199.2,
+   "text": "One day it all will gone forever, will gone forever"
+  },
+  {
+   "start": 199.4,
+   "end": 209.2,
+   "text": "Don't close your eyes, will gone forever, will gone forever"
+  },
+  {
+   "start": 209.4,
+   "end": 219.4,
+   "text": "There is no more voice, whispers forever, never sever"
+  },
+  {
+   "start": 219.8,
+   "end": 229.0,
+   "text": "What's once in the end will forever surrender, but live in embers"
+  },
+  {
+   "start": 229.2,
+   "end": 231.5,
+   "text": "Will gone forever"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 2948,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 2948
+   }
+  ],
+  "prompt_token_count": 8104,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 825
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 7279
+   }
+  ],
+  "thoughts_token_count": 7834,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 18886,
+  "traffic_type": null
+ }
+}

@@ -1,0 +1,709 @@
+{
+ "bpm": 115.0,
+ "chords": [
+  {
+   "chord": "N",
+   "end": 0.62,
+   "start": 0.0
+  },
+  {
+   "chord": "D:maj",
+   "end": 5.29,
+   "start": 0.62
+  },
+  {
+   "chord": "G:maj",
+   "end": 7.11,
+   "start": 5.29
+  },
+  {
+   "chord": "D:maj",
+   "end": 13.7,
+   "start": 7.11
+  },
+  {
+   "chord": "G:maj",
+   "end": 14.78,
+   "start": 13.7
+  },
+  {
+   "chord": "D:maj",
+   "end": 16.05,
+   "start": 14.78
+  },
+  {
+   "chord": "A:maj",
+   "end": 17.51,
+   "start": 16.05
+  },
+  {
+   "chord": "D:maj",
+   "end": 19.65,
+   "start": 17.51
+  },
+  {
+   "chord": "N",
+   "end": 22.02,
+   "start": 19.65
+  },
+  {
+   "chord": "D:maj",
+   "end": 24.16,
+   "start": 22.02
+  },
+  {
+   "chord": "G:maj",
+   "end": 25.43,
+   "start": 24.16
+  },
+  {
+   "chord": "D:maj",
+   "end": 28.43,
+   "start": 25.43
+  },
+  {
+   "chord": "A:maj",
+   "end": 29.74,
+   "start": 28.43
+  },
+  {
+   "chord": "D:maj",
+   "end": 32.89,
+   "start": 29.74
+  },
+  {
+   "chord": "G:maj",
+   "end": 33.97,
+   "start": 32.89
+  },
+  {
+   "chord": "D:maj",
+   "end": 35.12,
+   "start": 33.97
+  },
+  {
+   "chord": "G:maj",
+   "end": 35.63,
+   "start": 35.12
+  },
+  {
+   "chord": "D:maj",
+   "end": 36.8,
+   "start": 35.63
+  },
+  {
+   "chord": "A:maj",
+   "end": 38.28,
+   "start": 36.8
+  },
+  {
+   "chord": "D:maj",
+   "end": 43.39,
+   "start": 38.28
+  },
+  {
+   "chord": "G:maj",
+   "end": 44.66,
+   "start": 43.39
+  },
+  {
+   "chord": "D:maj",
+   "end": 45.77,
+   "start": 44.66
+  },
+  {
+   "chord": "A:maj",
+   "end": 46.84,
+   "start": 45.77
+  },
+  {
+   "chord": "D:maj",
+   "end": 51.83,
+   "start": 46.84
+  },
+  {
+   "chord": "G:maj",
+   "end": 52.93,
+   "start": 51.83
+  },
+  {
+   "chord": "D:maj",
+   "end": 54.0,
+   "start": 52.93
+  },
+  {
+   "chord": "A:maj",
+   "end": 55.14,
+   "start": 54.0
+  },
+  {
+   "chord": "D:maj",
+   "end": 58.2,
+   "start": 55.14
+  },
+  {
+   "chord": "G:maj",
+   "end": 59.35,
+   "start": 58.2
+  },
+  {
+   "chord": "D:maj",
+   "end": 62.67,
+   "start": 59.35
+  },
+  {
+   "chord": "A:maj",
+   "end": 63.71,
+   "start": 62.67
+  },
+  {
+   "chord": "D:maj",
+   "end": 66.81,
+   "start": 63.71
+  },
+  {
+   "chord": "G:maj",
+   "end": 67.9,
+   "start": 66.81
+  },
+  {
+   "chord": "D:maj",
+   "end": 68.96,
+   "start": 67.9
+  },
+  {
+   "chord": "G:maj",
+   "end": 69.51,
+   "start": 68.96
+  },
+  {
+   "chord": "D:maj",
+   "end": 70.95,
+   "start": 69.51
+  },
+  {
+   "chord": "A:maj",
+   "end": 72.18,
+   "start": 70.95
+  },
+  {
+   "chord": "D:maj",
+   "end": 77.38,
+   "start": 72.18
+  },
+  {
+   "chord": "G:maj",
+   "end": 78.31,
+   "start": 77.38
+  },
+  {
+   "chord": "D:maj",
+   "end": 79.31,
+   "start": 78.31
+  },
+  {
+   "chord": "A:maj",
+   "end": 80.52,
+   "start": 79.31
+  },
+  {
+   "chord": "D:maj",
+   "end": 83.67,
+   "start": 80.52
+  },
+  {
+   "chord": "G:maj",
+   "end": 84.84,
+   "start": 83.67
+  },
+  {
+   "chord": "D:maj",
+   "end": 87.92,
+   "start": 84.84
+  },
+  {
+   "chord": "A:maj",
+   "end": 89.03,
+   "start": 87.92
+  },
+  {
+   "chord": "D:maj",
+   "end": 92.26,
+   "start": 89.03
+  },
+  {
+   "chord": "G:maj",
+   "end": 93.31,
+   "start": 92.26
+  },
+  {
+   "chord": "D:maj",
+   "end": 94.36,
+   "start": 93.31
+  },
+  {
+   "chord": "G:maj",
+   "end": 94.84,
+   "start": 94.36
+  },
+  {
+   "chord": "D:maj",
+   "end": 96.36,
+   "start": 94.84
+  },
+  {
+   "chord": "A:maj",
+   "end": 97.46,
+   "start": 96.36
+  },
+  {
+   "chord": "D:maj",
+   "end": 98.48,
+   "start": 97.46
+  },
+  {
+   "chord": "G:maj",
+   "end": 100.68,
+   "start": 98.48
+  },
+  {
+   "chord": "E:min",
+   "end": 102.75,
+   "start": 100.68
+  },
+  {
+   "chord": "D:maj",
+   "end": 104.88,
+   "start": 102.75
+  },
+  {
+   "chord": "G:maj",
+   "end": 106.95,
+   "start": 104.88
+  },
+  {
+   "chord": "E:min",
+   "end": 109.17,
+   "start": 106.95
+  },
+  {
+   "chord": "D:maj",
+   "end": 111.18,
+   "start": 109.17
+  },
+  {
+   "chord": "G:maj",
+   "end": 112.18,
+   "start": 111.18
+  },
+  {
+   "chord": "A:maj",
+   "end": 113.28,
+   "start": 112.18
+  },
+  {
+   "chord": "D:maj",
+   "end": 116.51,
+   "start": 113.28
+  },
+  {
+   "chord": "G:maj",
+   "end": 117.56,
+   "start": 116.51
+  },
+  {
+   "chord": "D:maj",
+   "end": 118.42,
+   "start": 117.56
+  },
+  {
+   "chord": "G:maj",
+   "end": 119.56,
+   "start": 118.42
+  },
+  {
+   "chord": "D:maj",
+   "end": 120.75,
+   "start": 119.56
+  },
+  {
+   "chord": "A:maj",
+   "end": 121.66,
+   "start": 120.75
+  },
+  {
+   "chord": "D:maj",
+   "end": 124.75,
+   "start": 121.66
+  },
+  {
+   "chord": "G:maj",
+   "end": 125.79,
+   "start": 124.75
+  },
+  {
+   "chord": "D:maj",
+   "end": 126.86,
+   "start": 125.79
+  },
+  {
+   "chord": "G:maj",
+   "end": 127.84,
+   "start": 126.86
+  },
+  {
+   "chord": "D:maj",
+   "end": 129.01,
+   "start": 127.84
+  },
+  {
+   "chord": "A:maj",
+   "end": 130.08,
+   "start": 129.01
+  },
+  {
+   "chord": "D:maj",
+   "end": 135.29,
+   "start": 130.08
+  },
+  {
+   "chord": "G:maj",
+   "end": 136.22,
+   "start": 135.29
+  },
+  {
+   "chord": "D:maj",
+   "end": 137.45,
+   "start": 136.22
+  },
+  {
+   "chord": "A:maj",
+   "end": 138.49,
+   "start": 137.45
+  },
+  {
+   "chord": "D:maj",
+   "end": 141.7,
+   "start": 138.49
+  },
+  {
+   "chord": "G:maj",
+   "end": 142.81,
+   "start": 141.7
+  },
+  {
+   "chord": "D:maj",
+   "end": 143.77,
+   "start": 142.81
+  },
+  {
+   "chord": "A:maj",
+   "end": 144.89,
+   "start": 143.77
+  },
+  {
+   "chord": "D:maj",
+   "end": 145.95,
+   "start": 144.89
+  },
+  {
+   "chord": "G:maj",
+   "end": 148.03,
+   "start": 145.95
+  },
+  {
+   "chord": "E:min",
+   "end": 150.11,
+   "start": 148.03
+  },
+  {
+   "chord": "D:maj",
+   "end": 152.18,
+   "start": 150.11
+  },
+  {
+   "chord": "G:maj",
+   "end": 154.23,
+   "start": 152.18
+  },
+  {
+   "chord": "E:min",
+   "end": 156.45,
+   "start": 154.23
+  },
+  {
+   "chord": "D:maj",
+   "end": 158.42,
+   "start": 156.45
+  },
+  {
+   "chord": "G:maj",
+   "end": 159.43,
+   "start": 158.42
+  },
+  {
+   "chord": "A:maj",
+   "end": 160.41,
+   "start": 159.43
+  },
+  {
+   "chord": "D:maj",
+   "end": 163.53,
+   "start": 160.41
+  },
+  {
+   "chord": "G:maj",
+   "end": 164.61,
+   "start": 163.53
+  },
+  {
+   "chord": "D:maj",
+   "end": 165.43,
+   "start": 164.61
+  },
+  {
+   "chord": "G:maj",
+   "end": 166.62,
+   "start": 165.43
+  },
+  {
+   "chord": "D:maj",
+   "end": 167.85,
+   "start": 166.62
+  },
+  {
+   "chord": "A:maj",
+   "end": 168.79,
+   "start": 167.85
+  },
+  {
+   "chord": "D:maj",
+   "end": 171.75,
+   "start": 168.79
+  },
+  {
+   "chord": "G:maj",
+   "end": 172.81,
+   "start": 171.75
+  },
+  {
+   "chord": "D:maj",
+   "end": 173.83,
+   "start": 172.81
+  },
+  {
+   "chord": "G:maj",
+   "end": 174.4,
+   "start": 173.83
+  },
+  {
+   "chord": "D:maj",
+   "end": 175.87,
+   "start": 174.4
+  },
+  {
+   "chord": "A:maj",
+   "end": 177.01,
+   "start": 175.87
+  },
+  {
+   "chord": "D:maj",
+   "end": 178.79,
+   "start": 177.01
+  },
+  {
+   "chord": "N",
+   "end": 182.06,
+   "start": 178.79
+  }
+ ],
+ "instruments": [
+  {
+   "end": 180.0,
+   "name": "male singer",
+   "start": 0.68
+  },
+  {
+   "end": 178.88,
+   "name": "bass guitar",
+   "start": 0.68
+  },
+  {
+   "end": 177.12,
+   "name": "electric guitar",
+   "start": 0.68
+  },
+  {
+   "end": 22.0,
+   "name": "tambourine",
+   "start": 17.56
+  },
+  {
+   "end": 177.12,
+   "name": "saxophone",
+   "start": 21.48
+  },
+  {
+   "end": 177.12,
+   "name": "congas",
+   "start": 21.88
+  },
+  {
+   "end": 177.12,
+   "name": "drum kit",
+   "start": 21.88
+  },
+  {
+   "end": 178.88,
+   "name": "piano",
+   "start": 21.88
+  }
+ ],
+ "keys": [
+  {
+   "end": 182.06,
+   "key": "D major",
+   "start": 0.0
+  }
+ ],
+ "lyrics": [
+  {
+   "end": 4.24,
+   "start": 0.64,
+   "text": "we gonna sing you sad story now"
+  },
+  {
+   "end": 8.2,
+   "start": 4.52,
+   "text": "but we don't sing the blues cause we don't know how"
+  },
+  {
+   "end": 13.0,
+   "start": 9.32,
+   "text": "instead we use the calypso sound"
+  },
+  {
+   "end": 20.6,
+   "start": 13.28,
+   "text": "because calypso sound makes your hips go round"
+  },
+  {
+   "end": 42.16,
+   "start": 38.8,
+   "text": "Mr. Morgan is impressive man"
+  },
+  {
+   "end": 46.84,
+   "start": 42.16,
+   "text": "he wear no shoe shine, but he do best he can"
+  },
+  {
+   "end": 50.8,
+   "start": 47.2,
+   "text": "Mr. Morgan works every day"
+  },
+  {
+   "end": 55.28,
+   "start": 50.92,
+   "text": "in little post office in Tatteron Bay"
+  },
+  {
+   "end": 75.84,
+   "start": 72.16,
+   "text": "Mr. Morgan likes Mrs. Smith"
+  },
+  {
+   "end": 80.52,
+   "start": 76.28,
+   "text": "of course she's married, that's why she called Mrs."
+  },
+  {
+   "end": 101.68,
+   "start": 98.16,
+   "text": "we know Mr. Morgan is a nice guy"
+  },
+  {
+   "end": 103.52,
+   "start": 101.68,
+   "text": "enjoy life"
+  },
+  {
+   "end": 107.76,
+   "start": 104.32,
+   "text": "don't touch married woman and that's why"
+  },
+  {
+   "end": 110.2,
+   "start": 107.76,
+   "text": "he's got no wife"
+  },
+  {
+   "end": 113.0,
+   "start": 110.2,
+   "text": "no wife"
+  },
+  {
+   "end": 133.96,
+   "start": 130.56,
+   "text": "Mr. Morgan is distinct man"
+  },
+  {
+   "end": 138.48,
+   "start": 133.96,
+   "text": "he can paint pictures, he speak French and German"
+  },
+  {
+   "end": 149.16,
+   "start": 145.68,
+   "text": "we know Mr. Morgan is a nice guy"
+  },
+  {
+   "end": 151.12,
+   "start": 149.16,
+   "text": "enjoy life"
+  },
+  {
+   "end": 155.32,
+   "start": 151.64,
+   "text": "don't touch married woman and that's why"
+  },
+  {
+   "end": 157.56,
+   "start": 155.32,
+   "text": "he's got no wife"
+  },
+  {
+   "end": 160.2,
+   "start": 157.56,
+   "text": "no wife"
+  }
+ ],
+ "time_signature": "4/4",
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 3965,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 3965
+   }
+  ],
+  "prompt_token_count": 6207,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 707
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 5500
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 10172,
+  "traffic_type": null
+ }
+}

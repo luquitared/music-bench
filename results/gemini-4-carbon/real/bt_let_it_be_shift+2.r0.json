@@ -1,0 +1,959 @@
+{
+ "bpm": 76,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 243.0,
+   "key": "D major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 0.2,
+   "chord": "N"
+  },
+  {
+   "start": 0.2,
+   "end": 1.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 1.8,
+   "end": 3.5,
+   "chord": "A:maj"
+  },
+  {
+   "start": 3.5,
+   "end": 5.1,
+   "chord": "B:min"
+  },
+  {
+   "start": 5.1,
+   "end": 6.7,
+   "chord": "G:maj"
+  },
+  {
+   "start": 6.7,
+   "end": 8.3,
+   "chord": "D:maj"
+  },
+  {
+   "start": 8.3,
+   "end": 9.9,
+   "chord": "A:maj"
+  },
+  {
+   "start": 9.9,
+   "end": 11.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 11.5,
+   "end": 13.1,
+   "chord": "D:maj"
+  },
+  {
+   "start": 13.1,
+   "end": 14.7,
+   "chord": "D:maj"
+  },
+  {
+   "start": 14.7,
+   "end": 16.3,
+   "chord": "A:maj"
+  },
+  {
+   "start": 16.3,
+   "end": 17.9,
+   "chord": "B:min"
+  },
+  {
+   "start": 17.9,
+   "end": 19.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 19.5,
+   "end": 21.1,
+   "chord": "D:maj"
+  },
+  {
+   "start": 21.1,
+   "end": 22.7,
+   "chord": "A:maj"
+  },
+  {
+   "start": 22.7,
+   "end": 24.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 24.3,
+   "end": 27.5,
+   "chord": "D:maj"
+  },
+  {
+   "start": 27.5,
+   "end": 29.1,
+   "chord": "A:maj"
+  },
+  {
+   "start": 29.1,
+   "end": 30.7,
+   "chord": "B:min"
+  },
+  {
+   "start": 30.7,
+   "end": 32.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 32.2,
+   "end": 33.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 33.8,
+   "end": 35.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 35.4,
+   "end": 37.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 37.0,
+   "end": 38.5,
+   "chord": "D:maj"
+  },
+  {
+   "start": 38.5,
+   "end": 40.1,
+   "chord": "B:min"
+  },
+  {
+   "start": 40.1,
+   "end": 41.7,
+   "chord": "A:maj"
+  },
+  {
+   "start": 41.7,
+   "end": 43.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 43.3,
+   "end": 46.5,
+   "chord": "D:maj"
+  },
+  {
+   "start": 46.5,
+   "end": 48.1,
+   "chord": "A:maj"
+  },
+  {
+   "start": 48.1,
+   "end": 49.7,
+   "chord": "G:maj"
+  },
+  {
+   "start": 49.7,
+   "end": 53.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 53.0,
+   "end": 54.7,
+   "chord": "A:maj"
+  },
+  {
+   "start": 54.7,
+   "end": 56.4,
+   "chord": "B:min"
+  },
+  {
+   "start": 56.4,
+   "end": 58.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 58.0,
+   "end": 59.7,
+   "chord": "D:maj"
+  },
+  {
+   "start": 59.7,
+   "end": 61.3,
+   "chord": "A:maj"
+  },
+  {
+   "start": 61.3,
+   "end": 63.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 63.0,
+   "end": 66.3,
+   "chord": "D:maj"
+  },
+  {
+   "start": 66.3,
+   "end": 68.0,
+   "chord": "A:maj"
+  },
+  {
+   "start": 68.0,
+   "end": 69.6,
+   "chord": "B:min"
+  },
+  {
+   "start": 69.6,
+   "end": 71.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 71.3,
+   "end": 72.9,
+   "chord": "D:maj"
+  },
+  {
+   "start": 72.9,
+   "end": 74.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 74.6,
+   "end": 76.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 76.2,
+   "end": 77.9,
+   "chord": "D:maj"
+  },
+  {
+   "start": 77.9,
+   "end": 79.5,
+   "chord": "B:min"
+  },
+  {
+   "start": 79.5,
+   "end": 81.2,
+   "chord": "A:maj"
+  },
+  {
+   "start": 81.2,
+   "end": 82.9,
+   "chord": "G:maj"
+  },
+  {
+   "start": 82.9,
+   "end": 86.2,
+   "chord": "D:maj"
+  },
+  {
+   "start": 86.2,
+   "end": 87.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 87.8,
+   "end": 89.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 89.5,
+   "end": 91.2,
+   "chord": "D:maj"
+  },
+  {
+   "start": 91.2,
+   "end": 92.8,
+   "chord": "B:min"
+  },
+  {
+   "start": 92.8,
+   "end": 94.5,
+   "chord": "A:maj"
+  },
+  {
+   "start": 94.5,
+   "end": 96.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 96.2,
+   "end": 99.5,
+   "chord": "D:maj"
+  },
+  {
+   "start": 99.5,
+   "end": 101.1,
+   "chord": "A:maj"
+  },
+  {
+   "start": 101.1,
+   "end": 102.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 102.8,
+   "end": 104.5,
+   "chord": "D:maj"
+  },
+  {
+   "start": 104.5,
+   "end": 106.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 106.2,
+   "end": 107.0,
+   "chord": "F#:min"
+  },
+  {
+   "start": 107.0,
+   "end": 107.4,
+   "chord": "E:min"
+  },
+  {
+   "start": 107.4,
+   "end": 108.5,
+   "chord": "D:maj"
+  },
+  {
+   "start": 108.5,
+   "end": 109.3,
+   "chord": "C:maj"
+  },
+  {
+   "start": 109.3,
+   "end": 110.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 110.1,
+   "end": 110.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 110.8,
+   "end": 112.1,
+   "chord": "D:maj"
+  },
+  {
+   "start": 112.1,
+   "end": 113.8,
+   "chord": "G:maj"
+  },
+  {
+   "start": 113.8,
+   "end": 114.6,
+   "chord": "F#:min"
+  },
+  {
+   "start": 114.6,
+   "end": 115.0,
+   "chord": "E:min"
+  },
+  {
+   "start": 115.0,
+   "end": 116.1,
+   "chord": "D:maj"
+  },
+  {
+   "start": 116.1,
+   "end": 116.9,
+   "chord": "C:maj"
+  },
+  {
+   "start": 116.9,
+   "end": 117.7,
+   "chord": "G:maj"
+  },
+  {
+   "start": 117.7,
+   "end": 118.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 118.4,
+   "end": 121.2,
+   "chord": "D:maj"
+  },
+  {
+   "start": 121.2,
+   "end": 122.9,
+   "chord": "A:maj"
+  },
+  {
+   "start": 122.9,
+   "end": 124.5,
+   "chord": "B:min"
+  },
+  {
+   "start": 124.5,
+   "end": 126.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 126.1,
+   "end": 127.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 127.8,
+   "end": 129.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 129.4,
+   "end": 131.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 131.1,
+   "end": 134.3,
+   "chord": "D:maj"
+  },
+  {
+   "start": 134.3,
+   "end": 136.0,
+   "chord": "A:maj"
+  },
+  {
+   "start": 136.0,
+   "end": 137.6,
+   "chord": "B:min"
+  },
+  {
+   "start": 137.6,
+   "end": 139.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 139.2,
+   "end": 140.9,
+   "chord": "D:maj"
+  },
+  {
+   "start": 140.9,
+   "end": 142.5,
+   "chord": "A:maj"
+  },
+  {
+   "start": 142.5,
+   "end": 144.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 144.1,
+   "end": 145.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 145.8,
+   "end": 147.5,
+   "chord": "B:min"
+  },
+  {
+   "start": 147.5,
+   "end": 149.2,
+   "chord": "A:maj"
+  },
+  {
+   "start": 149.2,
+   "end": 150.9,
+   "chord": "G:maj"
+  },
+  {
+   "start": 150.9,
+   "end": 154.3,
+   "chord": "D:maj"
+  },
+  {
+   "start": 154.3,
+   "end": 156.0,
+   "chord": "A:maj"
+  },
+  {
+   "start": 156.0,
+   "end": 157.7,
+   "chord": "G:maj"
+  },
+  {
+   "start": 157.7,
+   "end": 162.3,
+   "chord": "D:maj"
+  },
+  {
+   "start": 162.3,
+   "end": 164.0,
+   "chord": "A:maj"
+  },
+  {
+   "start": 164.0,
+   "end": 165.7,
+   "chord": "B:min"
+  },
+  {
+   "start": 165.7,
+   "end": 167.4,
+   "chord": "G:maj"
+  },
+  {
+   "start": 167.4,
+   "end": 169.1,
+   "chord": "D:maj"
+  },
+  {
+   "start": 169.1,
+   "end": 170.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 170.8,
+   "end": 172.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 172.5,
+   "end": 176.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 176.0,
+   "end": 177.7,
+   "chord": "A:maj"
+  },
+  {
+   "start": 177.7,
+   "end": 179.5,
+   "chord": "B:min"
+  },
+  {
+   "start": 179.5,
+   "end": 181.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 181.2,
+   "end": 182.9,
+   "chord": "D:maj"
+  },
+  {
+   "start": 182.9,
+   "end": 184.6,
+   "chord": "A:maj"
+  },
+  {
+   "start": 184.6,
+   "end": 186.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 186.3,
+   "end": 188.1,
+   "chord": "D:maj"
+  },
+  {
+   "start": 188.1,
+   "end": 189.8,
+   "chord": "B:min"
+  },
+  {
+   "start": 189.8,
+   "end": 191.5,
+   "chord": "A:maj"
+  },
+  {
+   "start": 191.5,
+   "end": 193.2,
+   "chord": "G:maj"
+  },
+  {
+   "start": 193.2,
+   "end": 196.7,
+   "chord": "D:maj"
+  },
+  {
+   "start": 196.7,
+   "end": 198.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 198.4,
+   "end": 200.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 200.1,
+   "end": 201.9,
+   "chord": "D:maj"
+  },
+  {
+   "start": 201.9,
+   "end": 203.6,
+   "chord": "B:min"
+  },
+  {
+   "start": 203.6,
+   "end": 205.4,
+   "chord": "A:maj"
+  },
+  {
+   "start": 205.4,
+   "end": 207.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 207.1,
+   "end": 210.6,
+   "chord": "D:maj"
+  },
+  {
+   "start": 210.6,
+   "end": 212.3,
+   "chord": "A:maj"
+  },
+  {
+   "start": 212.3,
+   "end": 214.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 214.1,
+   "end": 215.8,
+   "chord": "D:maj"
+  },
+  {
+   "start": 215.8,
+   "end": 217.6,
+   "chord": "B:min"
+  },
+  {
+   "start": 217.6,
+   "end": 219.3,
+   "chord": "A:maj"
+  },
+  {
+   "start": 219.3,
+   "end": 221.1,
+   "chord": "G:maj"
+  },
+  {
+   "start": 221.1,
+   "end": 224.7,
+   "chord": "D:maj"
+  },
+  {
+   "start": 224.7,
+   "end": 226.5,
+   "chord": "A:maj"
+  },
+  {
+   "start": 226.5,
+   "end": 228.3,
+   "chord": "G:maj"
+  },
+  {
+   "start": 228.3,
+   "end": 230.2,
+   "chord": "D:maj"
+  },
+  {
+   "start": 230.2,
+   "end": 231.9,
+   "chord": "G:maj"
+  },
+  {
+   "start": 231.9,
+   "end": 232.8,
+   "chord": "F#:min"
+  },
+  {
+   "start": 232.8,
+   "end": 233.2,
+   "chord": "E:min"
+  },
+  {
+   "start": 233.2,
+   "end": 234.3,
+   "chord": "D:maj"
+  },
+  {
+   "start": 234.3,
+   "end": 235.1,
+   "chord": "C:maj"
+  },
+  {
+   "start": 235.1,
+   "end": 236.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 236.0,
+   "end": 236.8,
+   "chord": "A:maj"
+  },
+  {
+   "start": 236.8,
+   "end": 241.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 241.0,
+   "end": 243.0,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0.2,
+   "end": 241.0
+  },
+  {
+   "name": "lead vocals",
+   "start": 13.0,
+   "end": 104.5
+  },
+  {
+   "name": "drums",
+   "start": 51.2,
+   "end": 238.0
+  },
+  {
+   "name": "bass guitar",
+   "start": 51.2,
+   "end": 241.0
+  },
+  {
+   "name": "backing vocals",
+   "start": 77.9,
+   "end": 104.5
+  },
+  {
+   "name": "organ",
+   "start": 77.9,
+   "end": 241.0
+  },
+  {
+   "name": "brass",
+   "start": 104.5,
+   "end": 241.0
+  },
+  {
+   "name": "electric guitar",
+   "start": 104.5,
+   "end": 241.0
+  },
+  {
+   "name": "lead vocals",
+   "start": 145.8,
+   "end": 230.2
+  },
+  {
+   "name": "backing vocals",
+   "start": 145.8,
+   "end": 160.0
+  },
+  {
+   "name": "maracas",
+   "start": 160.5,
+   "end": 230.2
+  },
+  {
+   "name": "backing vocals",
+   "start": 188.1,
+   "end": 230.2
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 13.0,
+   "end": 16.3,
+   "text": "When I find myself in times of trouble"
+  },
+  {
+   "start": 16.3,
+   "end": 19.5,
+   "text": "Mother Mary comes to me"
+  },
+  {
+   "start": 19.5,
+   "end": 24.8,
+   "text": "Speaking words of wisdom, let it be"
+  },
+  {
+   "start": 25.8,
+   "end": 29.1,
+   "text": "And in my hour of darkness"
+  },
+  {
+   "start": 29.1,
+   "end": 32.2,
+   "text": "She is standing right in front of me"
+  },
+  {
+   "start": 32.2,
+   "end": 37.5,
+   "text": "Speaking words of wisdom, let it be"
+  },
+  {
+   "start": 38.3,
+   "end": 44.5,
+   "text": "Let it be, let it be, let it be, let it be"
+  },
+  {
+   "start": 45.2,
+   "end": 50.2,
+   "text": "Whisper words of wisdom, let it be"
+  },
+  {
+   "start": 51.5,
+   "end": 58.0,
+   "text": "And when the broken hearted people living in the world agree"
+  },
+  {
+   "start": 58.5,
+   "end": 63.5,
+   "text": "There will be an answer, let it be"
+  },
+  {
+   "start": 65.0,
+   "end": 67.8,
+   "text": "For though they may be parted"
+  },
+  {
+   "start": 67.8,
+   "end": 71.3,
+   "text": "There is still a chance that they will see"
+  },
+  {
+   "start": 71.8,
+   "end": 76.8,
+   "text": "There will be an answer, let it be"
+  },
+  {
+   "start": 77.8,
+   "end": 84.2,
+   "text": "Let it be, let it be, let it be, let it be"
+  },
+  {
+   "start": 84.8,
+   "end": 90.0,
+   "text": "Yeah, there will be an answer, let it be"
+  },
+  {
+   "start": 91.0,
+   "end": 97.5,
+   "text": "Let it be, let it be, let it be, let it be"
+  },
+  {
+   "start": 98.2,
+   "end": 103.5,
+   "text": "Whisper words of wisdom, let it be"
+  },
+  {
+   "start": 145.8,
+   "end": 152.5,
+   "text": "Let it be, let it be, let it be, yeah, let it be"
+  },
+  {
+   "start": 153.2,
+   "end": 159.5,
+   "text": "Whisper words of wisdom, let it be"
+  },
+  {
+   "start": 160.8,
+   "end": 163.8,
+   "text": "And when the night is cloudy"
+  },
+  {
+   "start": 163.8,
+   "end": 167.4,
+   "text": "There is still a light that shines on me"
+  },
+  {
+   "start": 167.8,
+   "end": 173.0,
+   "text": "Shine until tomorrow, let it be"
+  },
+  {
+   "start": 174.5,
+   "end": 177.8,
+   "text": "I wake up to the sound of music"
+  },
+  {
+   "start": 177.8,
+   "end": 181.2,
+   "text": "Mother Mary comes to me"
+  },
+  {
+   "start": 181.6,
+   "end": 187.5,
+   "text": "Speaking words of wisdom, let it be"
+  },
+  {
+   "start": 187.8,
+   "end": 194.8,
+   "text": "Yeah, let it be, let it be, let it be, yeah, let it be"
+  },
+  {
+   "start": 195.4,
+   "end": 201.5,
+   "text": "Oh, there will be an answer, let it be"
+  },
+  {
+   "start": 201.8,
+   "end": 208.8,
+   "text": "Let it be, let it be, let it be, yeah, let it be"
+  },
+  {
+   "start": 209.5,
+   "end": 215.5,
+   "text": "There will be an answer, let it be"
+  },
+  {
+   "start": 215.8,
+   "end": 222.8,
+   "text": "Let it be, let it be, let it be, yeah, let it be"
+  },
+  {
+   "start": 223.4,
+   "end": 229.8,
+   "text": "Whisper words of wisdom, let it be"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 5619,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 5619
+   }
+  ],
+  "prompt_token_count": 8123,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 827
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 7296
+   }
+  ],
+  "thoughts_token_count": 5755,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 19497,
+  "traffic_type": null
+ }
+}

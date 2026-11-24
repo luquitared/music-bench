@@ -1,0 +1,136 @@
+{
+ "bpm": 72,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 40.0,
+   "key": "G major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 5.0,
+   "end": 7.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 7.5,
+   "end": 10.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 10.0,
+   "end": 15.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 15.0,
+   "end": 17.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 17.5,
+   "end": 20.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 20.0,
+   "end": 25.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 25.0,
+   "end": 27.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 27.5,
+   "end": 30.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 30.0,
+   "end": 35.0,
+   "chord": "G:maj"
+  },
+  {
+   "start": 35.0,
+   "end": 37.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 37.5,
+   "end": 40.0,
+   "chord": "D:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "acoustic guitar",
+   "start": 0.0,
+   "end": 40.0
+  },
+  {
+   "name": "drums",
+   "start": 10.0,
+   "end": 40.0
+  },
+  {
+   "name": "bass guitar",
+   "start": 10.0,
+   "end": 40.0
+  },
+  {
+   "name": "female vocals",
+   "start": 2.0,
+   "end": 4.8
+  },
+  {
+   "name": "female vocals",
+   "start": 12.0,
+   "end": 14.8
+  },
+  {
+   "name": "female vocals",
+   "start": 22.0,
+   "end": 24.8
+  },
+  {
+   "name": "female vocals",
+   "start": 32.0,
+   "end": 34.8
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 2.0,
+   "end": 4.8,
+   "text": "Walking down the Copper River in the rain"
+  },
+  {
+   "start": 12.0,
+   "end": 14.8,
+   "text": "Every window holds a candle and a name"
+  },
+  {
+   "start": 22.0,
+   "end": 24.8,
+   "text": "I will carry what you gave me through the night"
+  },
+  {
+   "start": 32.0,
+   "end": 34.8,
+   "text": "Till the morning paints the harbor gold and white"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 1909,
+  "input_tokens": 585
+ }
+}

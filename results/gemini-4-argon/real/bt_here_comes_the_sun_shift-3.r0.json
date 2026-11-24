@@ -1,0 +1,769 @@
+{
+ "bpm": 120,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 305.5238,
+   "key": "F# major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 3.255733333,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 3.255733333,
+   "end": 5.106666667,
+   "chord": "B:maj"
+  },
+  {
+   "start": 5.106666667,
+   "end": 6.994933333,
+   "chord": "C#:maj"
+  },
+  {
+   "start": 6.994933333,
+   "end": 10.7528,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 10.7528,
+   "end": 12.6344,
+   "chord": "B:maj"
+  },
+  {
+   "start": 12.6344,
+   "end": 13.568533333,
+   "chord": "C#:maj"
+  },
+  {
+   "start": 13.568533333,
+   "end": 14.510666667,
+   "chord": "C#:7"
+  },
+  {
+   "start": 14.510666667,
+   "end": 18.198133333,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 18.198133333,
+   "end": 20.062933333,
+   "chord": "B:maj"
+  },
+  {
+   "start": 20.062933333,
+   "end": 21.927733333,
+   "chord": "G#:7"
+  },
+  {
+   "start": 21.927733333,
+   "end": 25.6352,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 25.6352,
+   "end": 27.5,
+   "chord": "C#:7"
+  },
+  {
+   "start": 27.5,
+   "end": 29.3648,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 29.3648,
+   "end": 31.193066667,
+   "chord": "B:maj"
+  },
+  {
+   "start": 31.193066667,
+   "end": 34.863466667,
+   "chord": "C#:7"
+  },
+  {
+   "start": 34.863466667,
+   "end": 36.698666667,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 36.698666667,
+   "end": 38.526933333,
+   "chord": "B:maj"
+  },
+  {
+   "start": 38.526933333,
+   "end": 42.1904,
+   "chord": "C#:7"
+  },
+  {
+   "start": 42.1904,
+   "end": 45.887733333,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 45.887733333,
+   "end": 47.7448,
+   "chord": "B:maj"
+  },
+  {
+   "start": 47.7448,
+   "end": 49.601866667,
+   "chord": "G#:7"
+  },
+  {
+   "start": 49.601866667,
+   "end": 53.309066667,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 53.309066667,
+   "end": 55.166133333,
+   "chord": "C#:7"
+  },
+  {
+   "start": 55.166133333,
+   "end": 62.5488,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 62.5488,
+   "end": 64.384,
+   "chord": "B:maj"
+  },
+  {
+   "start": 64.384,
+   "end": 68.068266667,
+   "chord": "C#:7"
+  },
+  {
+   "start": 68.068266667,
+   "end": 69.903466667,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 69.903466667,
+   "end": 71.752533333,
+   "chord": "B:maj"
+  },
+  {
+   "start": 71.752533333,
+   "end": 75.4368,
+   "chord": "C#:7"
+  },
+  {
+   "start": 75.4368,
+   "end": 79.139466667,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 79.139466667,
+   "end": 80.988533333,
+   "chord": "B:maj"
+  },
+  {
+   "start": 80.988533333,
+   "end": 82.853866667,
+   "chord": "G#:7"
+  },
+  {
+   "start": 82.853866667,
+   "end": 86.5784,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 86.5784,
+   "end": 90.296,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 90.296,
+   "end": 92.161333333,
+   "chord": "A:maj"
+  },
+  {
+   "start": 92.161333333,
+   "end": 93.084266667,
+   "chord": "E:maj"
+  },
+  {
+   "start": 93.084266667,
+   "end": 94.020533333,
+   "chord": "B:maj"
+  },
+  {
+   "start": 94.020533333,
+   "end": 95.3672,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 95.3672,
+   "end": 96.762933333,
+   "chord": "A:maj"
+  },
+  {
+   "start": 96.762933333,
+   "end": 97.685866667,
+   "chord": "E:maj"
+  },
+  {
+   "start": 97.685866667,
+   "end": 98.6016,
+   "chord": "B:maj"
+  },
+  {
+   "start": 98.6016,
+   "end": 99.969866667,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 99.969866667,
+   "end": 101.3656,
+   "chord": "A:maj"
+  },
+  {
+   "start": 101.3656,
+   "end": 102.281333333,
+   "chord": "E:maj"
+  },
+  {
+   "start": 102.281333333,
+   "end": 103.197333333,
+   "chord": "B:maj"
+  },
+  {
+   "start": 103.197333333,
+   "end": 104.58,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 104.58,
+   "end": 105.946933333,
+   "chord": "A:maj"
+  },
+  {
+   "start": 105.946933333,
+   "end": 106.87,
+   "chord": "E:maj"
+  },
+  {
+   "start": 106.87,
+   "end": 107.792933333,
+   "chord": "B:maj"
+  },
+  {
+   "start": 107.792933333,
+   "end": 109.168266667,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 109.168266667,
+   "end": 110.557066667,
+   "chord": "A:maj"
+  },
+  {
+   "start": 110.557066667,
+   "end": 111.48,
+   "chord": "E:maj"
+  },
+  {
+   "start": 111.48,
+   "end": 112.395866667,
+   "chord": "B:maj"
+  },
+  {
+   "start": 112.395866667,
+   "end": 113.778533333,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 113.778533333,
+   "end": 115.16,
+   "chord": "A:maj"
+  },
+  {
+   "start": 115.16,
+   "end": 116.090133333,
+   "chord": "E:maj"
+  },
+  {
+   "start": 116.090133333,
+   "end": 117.013066667,
+   "chord": "B:maj"
+  },
+  {
+   "start": 117.013066667,
+   "end": 118.395866667,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 118.395866667,
+   "end": 119.7712,
+   "chord": "A:maj"
+  },
+  {
+   "start": 119.7712,
+   "end": 120.708266667,
+   "chord": "E:maj"
+  },
+  {
+   "start": 120.708266667,
+   "end": 121.6312,
+   "chord": "B:maj"
+  },
+  {
+   "start": 121.6312,
+   "end": 123.021066667,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 123.021066667,
+   "end": 124.382133333,
+   "chord": "A:maj"
+  },
+  {
+   "start": 124.382133333,
+   "end": 125.312266667,
+   "chord": "E:maj"
+  },
+  {
+   "start": 125.312266667,
+   "end": 126.235333333,
+   "chord": "B:maj"
+  },
+  {
+   "start": 126.235333333,
+   "end": 127.6108,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 127.6108,
+   "end": 133.149466667,
+   "chord": "C#:7"
+  },
+  {
+   "start": 133.149466667,
+   "end": 134.9912,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 134.9912,
+   "end": 136.847333333,
+   "chord": "B:maj"
+  },
+  {
+   "start": 136.847333333,
+   "end": 140.5308,
+   "chord": "C#:7"
+  },
+  {
+   "start": 140.5308,
+   "end": 142.372533333,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 142.372533333,
+   "end": 144.228666667,
+   "chord": "B:maj"
+  },
+  {
+   "start": 144.228666667,
+   "end": 147.9268,
+   "chord": "C#:7"
+  },
+  {
+   "start": 147.9268,
+   "end": 151.624933333,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 151.624933333,
+   "end": 153.466666667,
+   "chord": "B:maj"
+  },
+  {
+   "start": 153.466666667,
+   "end": 155.3228,
+   "chord": "G#:7"
+  },
+  {
+   "start": 155.3228,
+   "end": 164.597333333,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 164.597333333,
+   "end": 166.439066667,
+   "chord": "B:maj"
+  },
+  {
+   "start": 166.439066667,
+   "end": 168.309866667,
+   "chord": "G#:7"
+  },
+  {
+   "start": 168.309866667,
+   "end": 181.2784,
+   "chord": "F#:maj"
+  },
+  {
+   "start": 181.2784,
+   "end": 183.14,
+   "chord": "B:maj"
+  },
+  {
+   "start": 183.14,
+   "end": 184.070666667,
+   "chord": "F#:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "acoustic guitar",
+   "start": 0.0,
+   "end": 305.5238
+  },
+  {
+   "name": "bass guitar",
+   "start": 0.0,
+   "end": 305.5238
+  },
+  {
+   "name": "drum kit",
+   "start": 0.0,
+   "end": 305.5238
+  },
+  {
+   "name": "male singer",
+   "start": 14.5,
+   "end": 27.5
+  },
+  {
+   "name": "electric guitar",
+   "start": 14.5,
+   "end": 27.5
+  },
+  {
+   "name": "strings",
+   "start": 14.5,
+   "end": 27.5
+  },
+  {
+   "name": "synthesizer",
+   "start": 14.5,
+   "end": 27.5
+  },
+  {
+   "name": "male singer",
+   "start": 27.5,
+   "end": 42.19
+  },
+  {
+   "name": "electric guitar",
+   "start": 27.5,
+   "end": 42.19
+  },
+  {
+   "name": "strings",
+   "start": 27.5,
+   "end": 42.19
+  },
+  {
+   "name": "synthesizer",
+   "start": 27.5,
+   "end": 42.19
+  },
+  {
+   "name": "male singer",
+   "start": 42.19,
+   "end": 55.16
+  },
+  {
+   "name": "electric guitar",
+   "start": 42.19,
+   "end": 55.16
+  },
+  {
+   "name": "strings",
+   "start": 42.19,
+   "end": 55.16
+  },
+  {
+   "name": "synthesizer",
+   "start": 42.19,
+   "end": 55.16
+  },
+  {
+   "name": "male singer",
+   "start": 60.69,
+   "end": 75.43
+  },
+  {
+   "name": "electric guitar",
+   "start": 60.69,
+   "end": 75.43
+  },
+  {
+   "name": "strings",
+   "start": 60.69,
+   "end": 75.43
+  },
+  {
+   "name": "synthesizer",
+   "start": 60.69,
+   "end": 75.43
+  },
+  {
+   "name": "male singer",
+   "start": 75.43,
+   "end": 90.29
+  },
+  {
+   "name": "electric guitar",
+   "start": 75.43,
+   "end": 90.29
+  },
+  {
+   "name": "strings",
+   "start": 75.43,
+   "end": 90.29
+  },
+  {
+   "name": "synthesizer",
+   "start": 75.43,
+   "end": 90.29
+  },
+  {
+   "name": "electric guitar",
+   "start": 90.29,
+   "end": 133.14
+  },
+  {
+   "name": "strings",
+   "start": 90.29,
+   "end": 133.14
+  },
+  {
+   "name": "synthesizer",
+   "start": 90.29,
+   "end": 133.14
+  },
+  {
+   "name": "male singer",
+   "start": 96.76,
+   "end": 127.61
+  },
+  {
+   "name": "male singer",
+   "start": 133.14,
+   "end": 147.92
+  },
+  {
+   "name": "electric guitar",
+   "start": 133.14,
+   "end": 147.92
+  },
+  {
+   "name": "strings",
+   "start": 133.14,
+   "end": 147.92
+  },
+  {
+   "name": "synthesizer",
+   "start": 133.14,
+   "end": 147.92
+  },
+  {
+   "name": "male singer",
+   "start": 147.92,
+   "end": 177.5
+  },
+  {
+   "name": "electric guitar",
+   "start": 147.92,
+   "end": 177.5
+  },
+  {
+   "name": "strings",
+   "start": 147.92,
+   "end": 177.5
+  },
+  {
+   "name": "synthesizer",
+   "start": 147.92,
+   "end": 177.5
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 14.5,
+   "end": 18.19,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 18.19,
+   "end": 21.92,
+   "text": "Here comes the sun, and I say"
+  },
+  {
+   "start": 21.92,
+   "end": 25.63,
+   "text": "It's alright"
+  },
+  {
+   "start": 27.5,
+   "end": 34.86,
+   "text": "Little darlin', it's been a long, cold, lonely winter"
+  },
+  {
+   "start": 34.86,
+   "end": 42.19,
+   "text": "Little darlin', it feels like years since it's been here"
+  },
+  {
+   "start": 42.19,
+   "end": 45.88,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 45.88,
+   "end": 49.6,
+   "text": "Here comes the sun, and I say"
+  },
+  {
+   "start": 49.6,
+   "end": 53.3,
+   "text": "It's alright"
+  },
+  {
+   "start": 60.69,
+   "end": 68.06,
+   "text": "Little darlin', the smile's returning to the faces"
+  },
+  {
+   "start": 68.06,
+   "end": 75.43,
+   "text": "Little darlin', it seems like years since it's been here"
+  },
+  {
+   "start": 75.43,
+   "end": 79.13,
+   "text": "Here comes the sun"
+  },
+  {
+   "start": 79.13,
+   "end": 82.85,
+   "text": "Here comes the sun, and I say"
+  },
+  {
+   "start": 82.85,
+   "end": 86.57,
+   "text": "It's alright"
+  },
+  {
+   "start": 96.76,
+   "end": 101.36,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 101.36,
+   "end": 105.94,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 105.94,
+   "end": 110.55,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 110.55,
+   "end": 115.16,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 115.16,
+   "end": 119.77,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 119.77,
+   "end": 124.38,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "start": 133.14,
+   "end": 140.53,
+   "text": "Little darlin', I feel that ice is slowly melting"
+  },
+  {
+   "start": 140.53,
+   "end": 147.92,
+   "text": "Little darlin', it seems like years since it's been clear"
+  },
+  {
+   "start": 147.92,
+   "end": 151.62,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 151.62,
+   "end": 155.32,
+   "text": "Here comes the sun, and I say"
+  },
+  {
+   "start": 155.32,
+   "end": 159.0,
+   "text": "It's alright"
+  },
+  {
+   "start": 160.8,
+   "end": 164.59,
+   "text": "Here comes the sun, doo-doo-doo-doo"
+  },
+  {
+   "start": 164.59,
+   "end": 168.3,
+   "text": "Here comes the sun"
+  },
+  {
+   "start": 168.3,
+   "end": 172.0,
+   "text": "It's alright"
+  },
+  {
+   "start": 173.8,
+   "end": 177.5,
+   "text": "It's alright"
+  }
+ ],
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 4286,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 4286
+   }
+  ],
+  "prompt_token_count": 6285,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 711
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 5574
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 10571,
+  "traffic_type": null
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "_raw": null,
+ "_usage": {
+  "error": "400: {\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\\"error\\\":{\\\"code\\\":\\\"invalid_parameter_error\\\",\\\"param\\\":null,\\\"message\\\":\\\"The audio is empty\\\",\\\"type\\\":\\\"invalid_request_error\\\"},\\\"id\\\":\\\"chatcmpl-01ef53d3-89ed-9f0a-8f6b-2ae2e8222aae\\\"}\",\"provider_name\":\"Alibaba\",\"is_"
+ }
+}

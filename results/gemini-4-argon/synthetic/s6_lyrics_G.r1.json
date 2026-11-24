@@ -1,0 +1,141 @@
+{
+ "bpm": 96,
+ "chords": [
+  {
+   "chord": "G:maj",
+   "end": 2.5,
+   "start": 0.0
+  },
+  {
+   "chord": "E:min",
+   "end": 5.0,
+   "start": 2.5
+  },
+  {
+   "chord": "C:maj",
+   "end": 7.5,
+   "start": 5.0
+  },
+  {
+   "chord": "D:maj",
+   "end": 10.0,
+   "start": 7.5
+  },
+  {
+   "chord": "G:maj",
+   "end": 12.5,
+   "start": 10.0
+  },
+  {
+   "chord": "E:min",
+   "end": 15.0,
+   "start": 12.5
+  },
+  {
+   "chord": "C:maj",
+   "end": 17.5,
+   "start": 15.0
+  },
+  {
+   "chord": "D:maj",
+   "end": 20.0,
+   "start": 17.5
+  },
+  {
+   "chord": "G:maj",
+   "end": 22.5,
+   "start": 20.0
+  },
+  {
+   "chord": "E:min",
+   "end": 25.0,
+   "start": 22.5
+  },
+  {
+   "chord": "C:maj",
+   "end": 27.5,
+   "start": 25.0
+  },
+  {
+   "chord": "D:maj",
+   "end": 30.0,
+   "start": 27.5
+  },
+  {
+   "chord": "G:maj",
+   "end": 32.5,
+   "start": 30.0
+  },
+  {
+   "chord": "E:min",
+   "end": 35.0,
+   "start": 32.5
+  },
+  {
+   "chord": "C:maj",
+   "end": 37.5,
+   "start": 35.0
+  },
+  {
+   "chord": "D:maj",
+   "end": 40.0,
+   "start": 37.5
+  }
+ ],
+ "instruments": [
+  {
+   "end": 40.0,
+   "name": "acoustic guitar (nylon)",
+   "start": 0.0
+  },
+  {
+   "end": 40.0,
+   "name": "electric bass (finger)",
+   "start": 10.0
+  },
+  {
+   "end": 40.0,
+   "name": "drums",
+   "start": 10.0
+  },
+  {
+   "end": 35.58,
+   "name": "vocals",
+   "start": 1.88
+  }
+ ],
+ "keys": [
+  {
+   "end": 40.0,
+   "key": "G major",
+   "start": 0.0
+  }
+ ],
+ "lyrics": [
+  {
+   "end": 5.58,
+   "start": 1.88,
+   "text": "Walking down the copper river in the rain"
+  },
+  {
+   "end": 15.58,
+   "start": 11.88,
+   "text": "Every window holds a candle and a name"
+  },
+  {
+   "end": 25.58,
+   "start": 21.88,
+   "text": "I will carry what you gave me through the night"
+  },
+  {
+   "end": 35.58,
+   "start": 31.88,
+   "text": "Till the morning paints the harbor gold and white"
+  }
+ ],
+ "time_signature": "4/4",
+ "_usage": {
+  "output_tokens": 704,
+  "input_tokens": 1652
+ }
+}

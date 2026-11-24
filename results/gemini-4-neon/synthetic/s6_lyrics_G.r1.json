@@ -1,0 +1,141 @@
+{
+ "bpm": 96,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 40.0,
+   "key": "G major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 2.5,
+   "end": 5.0,
+   "chord": "E:min"
+  },
+  {
+   "start": 5.0,
+   "end": 7.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 7.5,
+   "end": 10.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 10.0,
+   "end": 12.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 12.5,
+   "end": 15.0,
+   "chord": "E:min"
+  },
+  {
+   "start": 15.0,
+   "end": 17.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 17.5,
+   "end": 20.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 20.0,
+   "end": 22.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 22.5,
+   "end": 25.0,
+   "chord": "E:min"
+  },
+  {
+   "start": 25.0,
+   "end": 27.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 27.5,
+   "end": 30.0,
+   "chord": "D:maj"
+  },
+  {
+   "start": 30.0,
+   "end": 32.5,
+   "chord": "G:maj"
+  },
+  {
+   "start": 32.5,
+   "end": 35.0,
+   "chord": "E:min"
+  },
+  {
+   "start": 35.0,
+   "end": 37.5,
+   "chord": "C:maj"
+  },
+  {
+   "start": 37.5,
+   "end": 40.0,
+   "chord": "D:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "acoustic guitar",
+   "start": 0.0,
+   "end": 40.0
+  },
+  {
+   "name": "vocals",
+   "start": 1.5,
+   "end": 34.5
+  },
+  {
+   "name": "drums",
+   "start": 10.0,
+   "end": 40.0
+  },
+  {
+   "name": "bass",
+   "start": 10.0,
+   "end": 40.0
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 1.5,
+   "end": 4.4,
+   "text": "Walking down the copper river in the rain"
+  },
+  {
+   "start": 11.5,
+   "end": 14.4,
+   "text": "Every window holds a candle and a name"
+  },
+  {
+   "start": 21.5,
+   "end": 24.4,
+   "text": "I will carry what you gave me through the night"
+  },
+  {
+   "start": 31.5,
+   "end": 34.5,
+   "text": "Till the morning paints the harbor gold and white"
+  }
+ ],
+ "_usage": {
+  "output_tokens": 4029,
+  "input_tokens": 1655
+ }
+}

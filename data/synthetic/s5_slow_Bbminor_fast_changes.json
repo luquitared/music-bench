@@ -1,0 +1,108 @@
+{
+ "id": "s5_slow_Bbminor_fast_changes",
+ "bpm": 76,
+ "time_signature": "4/4",
+ "duration": 25.26,
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 25.26,
+   "key": "Bb minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 1.579,
+   "chord": "Bb:min"
+  },
+  {
+   "start": 1.579,
+   "end": 3.158,
+   "chord": "Gb:maj"
+  },
+  {
+   "start": 3.158,
+   "end": 4.737,
+   "chord": "Db:maj"
+  },
+  {
+   "start": 4.737,
+   "end": 6.316,
+   "chord": "F:7"
+  },
+  {
+   "start": 6.316,
+   "end": 7.895,
+   "chord": "Bb:min"
+  },
+  {
+   "start": 7.895,
+   "end": 9.474,
+   "chord": "Eb:min"
+  },
+  {
+   "start": 9.474,
+   "end": 11.053,
+   "chord": "F:sus4"
+  },
+  {
+   "start": 11.053,
+   "end": 12.632,
+   "chord": "F:7"
+  },
+  {
+   "start": 12.632,
+   "end": 14.211,
+   "chord": "Bb:min"
+  },
+  {
+   "start": 14.211,
+   "end": 15.789,
+   "chord": "Gb:maj"
+  },
+  {
+   "start": 15.789,
+   "end": 17.368,
+   "chord": "Db:maj"
+  },
+  {
+   "start": 17.368,
+   "end": 18.947,
+   "chord": "F:7"
+  },
+  {
+   "start": 18.947,
+   "end": 20.526,
+   "chord": "Bb:min"
+  },
+  {
+   "start": 20.526,
+   "end": 22.105,
+   "chord": "Eb:min"
+  },
+  {
+   "start": 22.105,
+   "end": 23.684,
+   "chord": "F:sus4"
+  },
+  {
+   "start": 23.684,
+   "end": 25.263,
+   "chord": "F:7"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "organ",
+   "start": 0.0,
+   "end": 25.26
+  },
+  {
+   "name": "cello",
+   "start": 0.0,
+   "end": 25.26
+  }
+ ],
+ "lyrics": []
+}

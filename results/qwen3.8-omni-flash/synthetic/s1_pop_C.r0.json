@@ -1,0 +1,115 @@
+{
+ "bpm": 100,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 39.0,
+   "key": "C major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.38,
+   "chord": "C:maj"
+  },
+  {
+   "start": 2.38,
+   "end": 4.78,
+   "chord": "G:maj"
+  },
+  {
+   "start": 4.78,
+   "end": 7.18,
+   "chord": "A:min"
+  },
+  {
+   "start": 7.18,
+   "end": 9.58,
+   "chord": "F:maj"
+  },
+  {
+   "start": 9.58,
+   "end": 11.98,
+   "chord": "C:maj"
+  },
+  {
+   "start": 11.98,
+   "end": 14.38,
+   "chord": "G:maj"
+  },
+  {
+   "start": 14.38,
+   "end": 16.78,
+   "chord": "A:min"
+  },
+  {
+   "start": 16.78,
+   "end": 19.18,
+   "chord": "F:maj"
+  },
+  {
+   "start": 19.18,
+   "end": 21.58,
+   "chord": "C:maj"
+  },
+  {
+   "start": 21.58,
+   "end": 23.98,
+   "chord": "G:maj"
+  },
+  {
+   "start": 23.98,
+   "end": 26.38,
+   "chord": "A:min"
+  },
+  {
+   "start": 26.38,
+   "end": 28.78,
+   "chord": "F:maj"
+  },
+  {
+   "start": 28.78,
+   "end": 31.18,
+   "chord": "C:maj"
+  },
+  {
+   "start": 31.18,
+   "end": 33.58,
+   "chord": "G:maj"
+  },
+  {
+   "start": 33.58,
+   "end": 35.98,
+   "chord": "A:min"
+  },
+  {
+   "start": 35.98,
+   "end": 38.38,
+   "chord": "F:maj"
+  },
+  {
+   "start": 38.38,
+   "end": 39.0,
+   "chord": "N"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "piano",
+   "start": 0.0,
+   "end": 38.38
+  },
+  {
+   "name": "drums",
+   "start": 9.58,
+   "end": 38.38
+  }
+ ],
+ "lyrics": [],
+ "_usage": {
+  "output_tokens": 1635,
+  "input_tokens": 571
+ }
+}

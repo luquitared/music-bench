@@ -1,0 +1,130 @@
+{
+ "bpm": 132,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 37.52,
+   "key": "A major"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.06,
+   "chord": "F#:min"
+  },
+  {
+   "start": 2.06,
+   "end": 4.18,
+   "chord": "D:maj"
+  },
+  {
+   "start": 4.18,
+   "end": 6.26,
+   "chord": "A:maj"
+  },
+  {
+   "start": 6.26,
+   "end": 8.34,
+   "chord": "E:maj"
+  },
+  {
+   "start": 8.34,
+   "end": 10.42,
+   "chord": "F#:min"
+  },
+  {
+   "start": 10.42,
+   "end": 12.5,
+   "chord": "D:maj"
+  },
+  {
+   "start": 12.5,
+   "end": 14.58,
+   "chord": "A:maj"
+  },
+  {
+   "start": 14.58,
+   "end": 16.66,
+   "chord": "E:maj"
+  },
+  {
+   "start": 16.66,
+   "end": 18.74,
+   "chord": "F#:min"
+  },
+  {
+   "start": 18.74,
+   "end": 20.82,
+   "chord": "D:maj"
+  },
+  {
+   "start": 20.82,
+   "end": 22.9,
+   "chord": "A:maj"
+  },
+  {
+   "start": 22.9,
+   "end": 24.98,
+   "chord": "E:maj"
+  },
+  {
+   "start": 24.98,
+   "end": 27.06,
+   "chord": "F#:min"
+  },
+  {
+   "start": 27.06,
+   "end": 29.14,
+   "chord": "D:maj"
+  },
+  {
+   "start": 29.14,
+   "end": 31.22,
+   "chord": "A:maj"
+  },
+  {
+   "start": 31.22,
+   "end": 33.3,
+   "chord": "E:maj"
+  },
+  {
+   "start": 33.3,
+   "end": 35.38,
+   "chord": "F#:min"
+  },
+  {
+   "start": 35.38,
+   "end": 37.46,
+   "chord": "D:maj"
+  },
+  {
+   "start": 37.46,
+   "end": 38.5,
+   "chord": "A:maj"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "drum kit",
+   "start": 0.0,
+   "end": 37.52
+  },
+  {
+   "name": "synthesizer",
+   "start": 0.0,
+   "end": 37.52
+  },
+  {
+   "name": "electric guitar",
+   "start": 14.58,
+   "end": 37.52
+  }
+ ],
+ "lyrics": [],
+ "_usage": {
+  "output_tokens": 2565,
+  "input_tokens": 557
+ }
+}

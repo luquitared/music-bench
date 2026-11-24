@@ -1,0 +1,120 @@
+{
+ "bpm": 92,
+ "time_signature": "4/4",
+ "keys": [
+  {
+   "start": 0.0,
+   "end": 41.7,
+   "key": "C minor"
+  }
+ ],
+ "chords": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "chord": "F:min7"
+  },
+  {
+   "start": 2.6,
+   "end": 5.2,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 5.2,
+   "end": 7.8,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 7.8,
+   "end": 10.4,
+   "chord": "C:min7"
+  },
+  {
+   "start": 10.4,
+   "end": 13.0,
+   "chord": "F:min7"
+  },
+  {
+   "start": 13.0,
+   "end": 15.6,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 15.6,
+   "end": 18.2,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 18.2,
+   "end": 20.8,
+   "chord": "C:min7"
+  },
+  {
+   "start": 20.8,
+   "end": 23.4,
+   "chord": "F:min7"
+  },
+  {
+   "start": 23.4,
+   "end": 26.0,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 26.0,
+   "end": 28.6,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 28.6,
+   "end": 31.3,
+   "chord": "C:min7"
+  },
+  {
+   "start": 31.3,
+   "end": 33.9,
+   "chord": "F:min7"
+  },
+  {
+   "start": 33.9,
+   "end": 36.5,
+   "chord": "Bb:7"
+  },
+  {
+   "start": 36.5,
+   "end": 39.1,
+   "chord": "Eb:maj7"
+  },
+  {
+   "start": 39.1,
+   "end": 41.7,
+   "chord": "C:min7"
+  }
+ ],
+ "instruments": [
+  {
+   "name": "Acoustic Drum Kit",
+   "start": 0.0,
+   "end": 41.7
+  },
+  {
+   "name": "Electric Bass",
+   "start": 0.0,
+   "end": 41.7
+  },
+  {
+   "name": "Electric Piano",
+   "start": 0.0,
+   "end": 41.7
+  },
+  {
+   "name": "Trumpet",
+   "start": 20.8,
+   "end": 41.7
+  }
+ ],
+ "lyrics": [],
+ "_usage": {
+  "output_tokens": 844,
+  "input_tokens": 1710
+ }
+}

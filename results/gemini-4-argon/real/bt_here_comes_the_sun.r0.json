@@ -1,0 +1,1499 @@
+{
+ "bpm": 129,
+ "chords": [
+  {
+   "chord": "N",
+   "end": 0.65,
+   "start": 0.0
+  },
+  {
+   "chord": "A:maj",
+   "end": 4.21,
+   "start": 0.65
+  },
+  {
+   "chord": "D:maj",
+   "end": 6.13,
+   "start": 4.21
+  },
+  {
+   "chord": "E:7",
+   "end": 7.99,
+   "start": 6.13
+  },
+  {
+   "chord": "A:maj",
+   "end": 11.77,
+   "start": 7.99
+  },
+  {
+   "chord": "D:maj",
+   "end": 13.66,
+   "start": 11.77
+  },
+  {
+   "chord": "E:7",
+   "end": 15.5,
+   "start": 13.66
+  },
+  {
+   "chord": "A:maj",
+   "end": 18.89,
+   "start": 15.5
+  },
+  {
+   "chord": "D:maj",
+   "end": 20.82,
+   "start": 18.89
+  },
+  {
+   "chord": "B:7",
+   "end": 22.86,
+   "start": 20.82
+  },
+  {
+   "chord": "A:maj",
+   "end": 24.44,
+   "start": 22.86
+  },
+  {
+   "chord": "D:maj/A",
+   "end": 25.35,
+   "start": 24.44
+  },
+  {
+   "chord": "A:maj",
+   "end": 26.07,
+   "start": 25.35
+  },
+  {
+   "chord": "D:maj",
+   "end": 26.86,
+   "start": 26.07
+  },
+  {
+   "chord": "E:7",
+   "end": 28.64,
+   "start": 26.86
+  },
+  {
+   "chord": "A:maj",
+   "end": 30.92,
+   "start": 28.64
+  },
+  {
+   "chord": "D:maj",
+   "end": 32.87,
+   "start": 30.92
+  },
+  {
+   "chord": "E:maj",
+   "end": 34.89,
+   "start": 32.87
+  },
+  {
+   "chord": "A:maj",
+   "end": 38.49,
+   "start": 34.89
+  },
+  {
+   "chord": "D:maj",
+   "end": 40.3,
+   "start": 38.49
+  },
+  {
+   "chord": "E:7",
+   "end": 44.03,
+   "start": 40.3
+  },
+  {
+   "chord": "A:maj",
+   "end": 47.06,
+   "start": 44.03
+  },
+  {
+   "chord": "D:maj",
+   "end": 48.75,
+   "start": 47.06
+  },
+  {
+   "chord": "B:7",
+   "end": 50.61,
+   "start": 48.75
+  },
+  {
+   "chord": "A:maj",
+   "end": 52.35,
+   "start": 50.61
+  },
+  {
+   "chord": "D:maj/A",
+   "end": 53.26,
+   "start": 52.35
+  },
+  {
+   "chord": "A:maj",
+   "end": 53.95,
+   "start": 53.26
+  },
+  {
+   "chord": "D:maj",
+   "end": 54.77,
+   "start": 53.95
+  },
+  {
+   "chord": "E:7",
+   "end": 56.51,
+   "start": 54.77
+  },
+  {
+   "chord": "A:maj",
+   "end": 58.37,
+   "start": 56.51
+  },
+  {
+   "chord": "E:7",
+   "end": 60.22,
+   "start": 58.37
+  },
+  {
+   "chord": "A:maj",
+   "end": 62.9,
+   "start": 60.22
+  },
+  {
+   "chord": "D:maj",
+   "end": 64.96,
+   "start": 62.9
+  },
+  {
+   "chord": "E:maj",
+   "end": 66.84,
+   "start": 64.96
+  },
+  {
+   "chord": "A:maj",
+   "end": 70.61,
+   "start": 66.84
+  },
+  {
+   "chord": "D:maj",
+   "end": 72.52,
+   "start": 70.61
+  },
+  {
+   "chord": "E:7",
+   "end": 76.28,
+   "start": 72.52
+  },
+  {
+   "chord": "A:maj",
+   "end": 78.66,
+   "start": 76.28
+  },
+  {
+   "chord": "D:maj",
+   "end": 80.52,
+   "start": 78.66
+  },
+  {
+   "chord": "B:7",
+   "end": 82.87,
+   "start": 80.52
+  },
+  {
+   "chord": "A:maj",
+   "end": 84.56,
+   "start": 82.87
+  },
+  {
+   "chord": "D:maj/A",
+   "end": 85.46,
+   "start": 84.56
+  },
+  {
+   "chord": "A:maj",
+   "end": 86.17,
+   "start": 85.46
+  },
+  {
+   "chord": "D:maj",
+   "end": 86.88,
+   "start": 86.17
+  },
+  {
+   "chord": "E:7",
+   "end": 88.74,
+   "start": 86.88
+  },
+  {
+   "chord": "A:maj",
+   "end": 90.51,
+   "start": 88.74
+  },
+  {
+   "chord": "E:7",
+   "end": 91.69,
+   "start": 90.51
+  },
+  {
+   "chord": "C:maj",
+   "end": 92.64,
+   "start": 91.69
+  },
+  {
+   "chord": "G:maj",
+   "end": 93.49,
+   "start": 92.64
+  },
+  {
+   "chord": "D:maj",
+   "end": 94.37,
+   "start": 93.49
+  },
+  {
+   "chord": "A:maj",
+   "end": 95.32,
+   "start": 94.37
+  },
+  {
+   "chord": "E:7",
+   "end": 97.14,
+   "start": 95.32
+  },
+  {
+   "chord": "C:maj",
+   "end": 98.11,
+   "start": 97.14
+  },
+  {
+   "chord": "G:maj",
+   "end": 98.97,
+   "start": 98.11
+  },
+  {
+   "chord": "D:maj",
+   "end": 99.84,
+   "start": 98.97
+  },
+  {
+   "chord": "A:maj",
+   "end": 100.78,
+   "start": 99.84
+  },
+  {
+   "chord": "E:7",
+   "end": 102.63,
+   "start": 100.78
+  },
+  {
+   "chord": "C:maj",
+   "end": 103.59,
+   "start": 102.63
+  },
+  {
+   "chord": "G:maj",
+   "end": 104.47,
+   "start": 103.59
+  },
+  {
+   "chord": "D:maj",
+   "end": 105.33,
+   "start": 104.47
+  },
+  {
+   "chord": "A:maj",
+   "end": 106.29,
+   "start": 105.33
+  },
+  {
+   "chord": "E:7",
+   "end": 108.15,
+   "start": 106.29
+  },
+  {
+   "chord": "C:maj",
+   "end": 109.1,
+   "start": 108.15
+  },
+  {
+   "chord": "G:maj",
+   "end": 109.94,
+   "start": 109.1
+  },
+  {
+   "chord": "D:maj",
+   "end": 110.81,
+   "start": 109.94
+  },
+  {
+   "chord": "A:maj",
+   "end": 111.79,
+   "start": 110.81
+  },
+  {
+   "chord": "E:7",
+   "end": 113.68,
+   "start": 111.79
+  },
+  {
+   "chord": "C:maj",
+   "end": 114.6,
+   "start": 113.68
+  },
+  {
+   "chord": "G:maj",
+   "end": 115.49,
+   "start": 114.6
+  },
+  {
+   "chord": "D:maj",
+   "end": 116.38,
+   "start": 115.49
+  },
+  {
+   "chord": "A:maj",
+   "end": 117.34,
+   "start": 116.38
+  },
+  {
+   "chord": "E:7",
+   "end": 119.21,
+   "start": 117.34
+  },
+  {
+   "chord": "C:maj",
+   "end": 120.0,
+   "start": 119.21
+  },
+  {
+   "chord": "G:maj",
+   "end": 120.77,
+   "start": 120.0
+  },
+  {
+   "chord": "D:maj",
+   "end": 122.02,
+   "start": 120.77
+  },
+  {
+   "chord": "A:maj",
+   "end": 122.97,
+   "start": 122.02
+  },
+  {
+   "chord": "E:7",
+   "end": 134.12,
+   "start": 122.97
+  },
+  {
+   "chord": "A:maj",
+   "end": 135.93,
+   "start": 134.12
+  },
+  {
+   "chord": "D:maj",
+   "end": 137.82,
+   "start": 135.93
+  },
+  {
+   "chord": "E:maj",
+   "end": 139.67,
+   "start": 137.82
+  },
+  {
+   "chord": "A:maj",
+   "end": 143.39,
+   "start": 139.67
+  },
+  {
+   "chord": "D:maj",
+   "end": 145.28,
+   "start": 143.39
+  },
+  {
+   "chord": "E:7",
+   "end": 147.28,
+   "start": 145.28
+  },
+  {
+   "chord": "A:maj",
+   "end": 150.71,
+   "start": 147.28
+  },
+  {
+   "chord": "D:maj",
+   "end": 152.61,
+   "start": 150.71
+  },
+  {
+   "chord": "B:7",
+   "end": 154.68,
+   "start": 152.61
+  },
+  {
+   "chord": "A:maj",
+   "end": 156.45,
+   "start": 154.68
+  },
+  {
+   "chord": "D:maj/A",
+   "end": 157.33,
+   "start": 156.45
+  },
+  {
+   "chord": "A:maj",
+   "end": 158.09,
+   "start": 157.33
+  },
+  {
+   "chord": "D:maj",
+   "end": 158.78,
+   "start": 158.09
+  },
+  {
+   "chord": "E:7",
+   "end": 160.63,
+   "start": 158.78
+  },
+  {
+   "chord": "A:maj",
+   "end": 163.92,
+   "start": 160.63
+  },
+  {
+   "chord": "D:maj",
+   "end": 165.62,
+   "start": 163.92
+  },
+  {
+   "chord": "B:7",
+   "end": 167.5,
+   "start": 165.62
+  },
+  {
+   "chord": "A:maj",
+   "end": 169.31,
+   "start": 167.5
+  },
+  {
+   "chord": "D:maj/A",
+   "end": 170.21,
+   "start": 169.31
+  },
+  {
+   "chord": "A:maj",
+   "end": 170.93,
+   "start": 170.21
+  },
+  {
+   "chord": "D:maj",
+   "end": 171.56,
+   "start": 170.93
+  },
+  {
+   "chord": "E:7",
+   "end": 173.44,
+   "start": 171.56
+  },
+  {
+   "chord": "A:maj",
+   "end": 175.23,
+   "start": 173.44
+  },
+  {
+   "chord": "D:maj/A",
+   "end": 176.22,
+   "start": 175.23
+  },
+  {
+   "chord": "A:maj",
+   "end": 176.95,
+   "start": 176.22
+  },
+  {
+   "chord": "D:maj",
+   "end": 177.59,
+   "start": 176.95
+  },
+  {
+   "chord": "E:7",
+   "end": 178.93,
+   "start": 177.59
+  },
+  {
+   "chord": "C:maj",
+   "end": 179.92,
+   "start": 178.93
+  },
+  {
+   "chord": "G:maj",
+   "end": 180.78,
+   "start": 179.92
+  },
+  {
+   "chord": "D:maj",
+   "end": 181.66,
+   "start": 180.78
+  },
+  {
+   "chord": "A:maj",
+   "end": 183.7,
+   "start": 181.66
+  },
+  {
+   "chord": "N",
+   "end": 185.73,
+   "start": 183.7
+  }
+ ],
+ "instruments": [
+  {
+   "end": 8.07,
+   "name": "acoustic guitar",
+   "start": 0.43
+  },
+  {
+   "end": 13.72,
+   "name": "acoustic guitar",
+   "start": 8.07
+  },
+  {
+   "end": 14.37,
+   "name": "electric bass",
+   "start": 8.07
+  },
+  {
+   "end": 13.72,
+   "name": "synthesizer",
+   "start": 8.07
+  },
+  {
+   "end": 22.97,
+   "name": "acoustic guitar",
+   "start": 14.37
+  },
+  {
+   "end": 17.87,
+   "name": "main vocal",
+   "start": 14.78
+  },
+  {
+   "end": 26.86,
+   "name": "electric bass",
+   "start": 15.29
+  },
+  {
+   "end": 22.97,
+   "name": "drum set",
+   "start": 17.42
+  },
+  {
+   "end": 24.44,
+   "name": "main vocal",
+   "start": 18.78
+  },
+  {
+   "end": 26.86,
+   "name": "synthesizer",
+   "start": 23.02
+  },
+  {
+   "end": 26.86,
+   "name": "acoustic guitar",
+   "start": 23.02
+  },
+  {
+   "end": 26.86,
+   "name": "drum set",
+   "start": 23.4
+  },
+  {
+   "end": 29.74,
+   "name": "main vocal",
+   "start": 27.6
+  },
+  {
+   "end": 34.4,
+   "name": "electric bass",
+   "start": 27.79
+  },
+  {
+   "end": 42.19,
+   "name": "acoustic guitar",
+   "start": 27.79
+  },
+  {
+   "end": 34.4,
+   "name": "drum set",
+   "start": 27.79
+  },
+  {
+   "end": 34.4,
+   "name": "violin",
+   "start": 27.79
+  },
+  {
+   "end": 34.4,
+   "name": "main vocal",
+   "start": 29.79
+  },
+  {
+   "end": 36.02,
+   "name": "drum set",
+   "start": 34.54
+  },
+  {
+   "end": 36.89,
+   "name": "main vocal",
+   "start": 35.14
+  },
+  {
+   "end": 42.19,
+   "name": "drum set",
+   "start": 36.22
+  },
+  {
+   "end": 42.19,
+   "name": "electric bass",
+   "start": 36.22
+  },
+  {
+   "end": 42.19,
+   "name": "violin",
+   "start": 36.22
+  },
+  {
+   "end": 41.32,
+   "name": "main vocal",
+   "start": 37.39
+  },
+  {
+   "end": 45.77,
+   "name": "main vocal",
+   "start": 43.0
+  },
+  {
+   "end": 50.94,
+   "name": "electric bass",
+   "start": 43.2
+  },
+  {
+   "end": 50.94,
+   "name": "acoustic guitar",
+   "start": 43.2
+  },
+  {
+   "end": 50.94,
+   "name": "violin",
+   "start": 43.2
+  },
+  {
+   "end": 50.94,
+   "name": "drum set",
+   "start": 45.74
+  },
+  {
+   "end": 52.35,
+   "name": "main vocal",
+   "start": 46.84
+  },
+  {
+   "end": 54.76,
+   "name": "electric bass",
+   "start": 50.97
+  },
+  {
+   "end": 54.76,
+   "name": "synthesizer",
+   "start": 50.97
+  },
+  {
+   "end": 54.76,
+   "name": "acoustic guitar",
+   "start": 50.97
+  },
+  {
+   "end": 54.76,
+   "name": "drum set",
+   "start": 51.45
+  },
+  {
+   "end": 60.22,
+   "name": "drum set",
+   "start": 55.58
+  },
+  {
+   "end": 60.22,
+   "name": "electric bass",
+   "start": 55.58
+  },
+  {
+   "end": 66.52,
+   "name": "acoustic guitar",
+   "start": 55.58
+  },
+  {
+   "end": 60.22,
+   "name": "violin",
+   "start": 55.58
+  },
+  {
+   "end": 61.56,
+   "name": "main vocal",
+   "start": 59.56
+  },
+  {
+   "end": 66.52,
+   "name": "electric bass",
+   "start": 60.24
+  },
+  {
+   "end": 66.52,
+   "name": "drum set",
+   "start": 60.24
+  },
+  {
+   "end": 66.52,
+   "name": "violin",
+   "start": 60.24
+  },
+  {
+   "end": 66.36,
+   "name": "main vocal",
+   "start": 61.82
+  },
+  {
+   "end": 69.08,
+   "name": "main vocal",
+   "start": 67.24
+  },
+  {
+   "end": 74.38,
+   "name": "drum set",
+   "start": 67.74
+  },
+  {
+   "end": 74.38,
+   "name": "electric bass",
+   "start": 67.74
+  },
+  {
+   "end": 74.38,
+   "name": "acoustic guitar",
+   "start": 67.74
+  },
+  {
+   "end": 74.38,
+   "name": "violin",
+   "start": 67.74
+  },
+  {
+   "end": 73.5,
+   "name": "main vocal",
+   "start": 69.5
+  },
+  {
+   "end": 74.38,
+   "name": "synthesizer",
+   "start": 70.61
+  },
+  {
+   "end": 77.9,
+   "name": "main vocal",
+   "start": 75.12
+  },
+  {
+   "end": 83.02,
+   "name": "electric bass",
+   "start": 75.34
+  },
+  {
+   "end": 83.02,
+   "name": "acoustic guitar",
+   "start": 75.34
+  },
+  {
+   "end": 83.02,
+   "name": "violin",
+   "start": 75.34
+  },
+  {
+   "end": 83.02,
+   "name": "drum set",
+   "start": 75.34
+  },
+  {
+   "end": 84.56,
+   "name": "main vocal",
+   "start": 78.79
+  },
+  {
+   "end": 86.94,
+   "name": "electric bass",
+   "start": 83.06
+  },
+  {
+   "end": 86.94,
+   "name": "synthesizer",
+   "start": 83.06
+  },
+  {
+   "end": 86.94,
+   "name": "acoustic guitar",
+   "start": 83.06
+  },
+  {
+   "end": 86.94,
+   "name": "drum set",
+   "start": 83.06
+  },
+  {
+   "end": 91.68,
+   "name": "drum set",
+   "start": 87.78
+  },
+  {
+   "end": 91.68,
+   "name": "electric bass",
+   "start": 87.78
+  },
+  {
+   "end": 91.68,
+   "name": "acoustic guitar",
+   "start": 87.78
+  },
+  {
+   "end": 91.68,
+   "name": "violin",
+   "start": 87.78
+  },
+  {
+   "end": 91.68,
+   "name": "synthesizer",
+   "start": 89.64
+  },
+  {
+   "end": 97.14,
+   "name": "drum set",
+   "start": 91.74
+  },
+  {
+   "end": 97.14,
+   "name": "electric bass",
+   "start": 91.74
+  },
+  {
+   "end": 97.14,
+   "name": "acoustic guitar",
+   "start": 91.74
+  },
+  {
+   "end": 97.14,
+   "name": "violin",
+   "start": 91.74
+  },
+  {
+   "end": 102.63,
+   "name": "drum set",
+   "start": 97.15
+  },
+  {
+   "end": 102.63,
+   "name": "electric bass",
+   "start": 97.15
+  },
+  {
+   "end": 102.63,
+   "name": "acoustic guitar",
+   "start": 97.15
+  },
+  {
+   "end": 101.29,
+   "name": "main vocal",
+   "start": 97.15
+  },
+  {
+   "end": 102.63,
+   "name": "violin",
+   "start": 97.15
+  },
+  {
+   "end": 108.15,
+   "name": "drum set",
+   "start": 102.64
+  },
+  {
+   "end": 108.15,
+   "name": "electric bass",
+   "start": 102.64
+  },
+  {
+   "end": 108.15,
+   "name": "acoustic guitar",
+   "start": 102.64
+  },
+  {
+   "end": 106.79,
+   "name": "main vocal",
+   "start": 102.64
+  },
+  {
+   "end": 108.15,
+   "name": "violin",
+   "start": 102.64
+  },
+  {
+   "end": 113.68,
+   "name": "drum set",
+   "start": 108.2
+  },
+  {
+   "end": 113.68,
+   "name": "electric bass",
+   "start": 108.2
+  },
+  {
+   "end": 113.68,
+   "name": "acoustic guitar",
+   "start": 108.2
+  },
+  {
+   "end": 112.24,
+   "name": "main vocal",
+   "start": 108.2
+  },
+  {
+   "end": 113.68,
+   "name": "violin",
+   "start": 108.2
+  },
+  {
+   "end": 119.21,
+   "name": "drum set",
+   "start": 113.71
+  },
+  {
+   "end": 119.21,
+   "name": "electric bass",
+   "start": 113.71
+  },
+  {
+   "end": 119.21,
+   "name": "acoustic guitar",
+   "start": 113.71
+  },
+  {
+   "end": 117.75,
+   "name": "main vocal",
+   "start": 113.71
+  },
+  {
+   "end": 119.21,
+   "name": "violin",
+   "start": 113.71
+  },
+  {
+   "end": 124.8,
+   "name": "drum set",
+   "start": 119.21
+  },
+  {
+   "end": 124.8,
+   "name": "electric bass",
+   "start": 119.21
+  },
+  {
+   "end": 124.8,
+   "name": "acoustic guitar",
+   "start": 119.21
+  },
+  {
+   "end": 123.38,
+   "name": "main vocal",
+   "start": 119.21
+  },
+  {
+   "end": 124.8,
+   "name": "violin",
+   "start": 119.21
+  },
+  {
+   "end": 130.43,
+   "name": "drum set",
+   "start": 124.83
+  },
+  {
+   "end": 130.43,
+   "name": "electric bass",
+   "start": 124.83
+  },
+  {
+   "end": 130.43,
+   "name": "synthesizer",
+   "start": 124.83
+  },
+  {
+   "end": 130.43,
+   "name": "acoustic guitar",
+   "start": 124.83
+  },
+  {
+   "end": 133.92,
+   "name": "drum set",
+   "start": 130.47
+  },
+  {
+   "end": 133.92,
+   "name": "electric bass",
+   "start": 130.47
+  },
+  {
+   "end": 133.92,
+   "name": "synthesizer",
+   "start": 130.47
+  },
+  {
+   "end": 133.92,
+   "name": "acoustic guitar",
+   "start": 130.47
+  },
+  {
+   "end": 134.59,
+   "name": "main vocal",
+   "start": 132.57
+  },
+  {
+   "end": 139.24,
+   "name": "drum set",
+   "start": 133.96
+  },
+  {
+   "end": 139.24,
+   "name": "electric bass",
+   "start": 133.96
+  },
+  {
+   "end": 139.24,
+   "name": "acoustic guitar",
+   "start": 133.96
+  },
+  {
+   "end": 139.24,
+   "name": "violin",
+   "start": 133.96
+  },
+  {
+   "end": 139.24,
+   "name": "main vocal",
+   "start": 134.81
+  },
+  {
+   "end": 137.82,
+   "name": "synthesizer",
+   "start": 135.93
+  },
+  {
+   "end": 141.94,
+   "name": "main vocal",
+   "start": 139.92
+  },
+  {
+   "end": 147.28,
+   "name": "drum set",
+   "start": 140.66
+  },
+  {
+   "end": 147.28,
+   "name": "electric bass",
+   "start": 140.66
+  },
+  {
+   "end": 147.28,
+   "name": "acoustic guitar",
+   "start": 140.66
+  },
+  {
+   "end": 147.28,
+   "name": "violin",
+   "start": 140.66
+  },
+  {
+   "end": 146.46,
+   "name": "main vocal",
+   "start": 142.34
+  },
+  {
+   "end": 147.28,
+   "name": "synthesizer",
+   "start": 143.39
+  },
+  {
+   "end": 150.71,
+   "name": "main vocal",
+   "start": 147.97
+  },
+  {
+   "end": 155.02,
+   "name": "drum set",
+   "start": 148.27
+  },
+  {
+   "end": 155.02,
+   "name": "electric bass",
+   "start": 148.27
+  },
+  {
+   "end": 155.02,
+   "name": "acoustic guitar",
+   "start": 148.27
+  },
+  {
+   "end": 155.02,
+   "name": "violin",
+   "start": 148.27
+  },
+  {
+   "end": 156.45,
+   "name": "main vocal",
+   "start": 151.79
+  },
+  {
+   "end": 158.78,
+   "name": "drum set",
+   "start": 155.03
+  },
+  {
+   "end": 158.78,
+   "name": "electric bass",
+   "start": 155.03
+  },
+  {
+   "end": 158.78,
+   "name": "synthesizer",
+   "start": 155.03
+  },
+  {
+   "end": 158.78,
+   "name": "acoustic guitar",
+   "start": 155.03
+  },
+  {
+   "end": 167.86,
+   "name": "drum set",
+   "start": 159.65
+  },
+  {
+   "end": 167.86,
+   "name": "electric bass",
+   "start": 159.65
+  },
+  {
+   "end": 167.86,
+   "name": "acoustic guitar",
+   "start": 159.65
+  },
+  {
+   "end": 167.86,
+   "name": "violin",
+   "start": 159.65
+  },
+  {
+   "end": 162.88,
+   "name": "main vocal",
+   "start": 160.75
+  },
+  {
+   "end": 169.31,
+   "name": "main vocal",
+   "start": 164.61
+  },
+  {
+   "end": 172.24,
+   "name": "drum set",
+   "start": 167.88
+  },
+  {
+   "end": 172.24,
+   "name": "electric bass",
+   "start": 167.88
+  },
+  {
+   "end": 172.24,
+   "name": "synthesizer",
+   "start": 167.88
+  },
+  {
+   "end": 172.24,
+   "name": "acoustic guitar",
+   "start": 167.88
+  },
+  {
+   "end": 178.93,
+   "name": "drum set",
+   "start": 172.34
+  },
+  {
+   "end": 178.93,
+   "name": "electric bass",
+   "start": 172.34
+  },
+  {
+   "end": 178.93,
+   "name": "synthesizer",
+   "start": 172.34
+  },
+  {
+   "end": 178.93,
+   "name": "acoustic guitar",
+   "start": 172.34
+  },
+  {
+   "end": 175.23,
+   "name": "main vocal",
+   "start": 173.44
+  },
+  {
+   "end": 182.93,
+   "name": "acoustic guitar",
+   "start": 178.97
+  },
+  {
+   "end": 180.78,
+   "name": "drum set",
+   "start": 178.97
+  }
+ ],
+ "keys": [
+  {
+   "end": 91.68,
+   "key": "A major",
+   "start": 0.0
+  },
+  {
+   "end": 124.8,
+   "key": "E major",
+   "start": 91.68
+  },
+  {
+   "end": 185.73,
+   "key": "A major",
+   "start": 124.8
+  }
+ ],
+ "lyrics": [
+  {
+   "end": 17.87,
+   "start": 14.78,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 21.65,
+   "start": 18.78,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 22.88,
+   "start": 21.84,
+   "text": "And I say"
+  },
+  {
+   "end": 24.44,
+   "start": 22.88,
+   "text": "It's all right"
+  },
+  {
+   "end": 29.74,
+   "start": 27.6,
+   "text": "Little darling"
+  },
+  {
+   "end": 34.4,
+   "start": 29.79,
+   "text": "It's been a long cold lonely winter"
+  },
+  {
+   "end": 36.89,
+   "start": 35.14,
+   "text": "Little darling"
+  },
+  {
+   "end": 41.32,
+   "start": 37.39,
+   "text": "It feels like years since it's been here"
+  },
+  {
+   "end": 45.77,
+   "start": 43.0,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 49.55,
+   "start": 46.84,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 50.61,
+   "start": 49.55,
+   "text": "And I say"
+  },
+  {
+   "end": 52.35,
+   "start": 50.61,
+   "text": "It's all right"
+  },
+  {
+   "end": 61.56,
+   "start": 59.56,
+   "text": "Little darling"
+  },
+  {
+   "end": 66.36,
+   "start": 61.82,
+   "text": "The smile's returning to the faces"
+  },
+  {
+   "end": 69.08,
+   "start": 67.24,
+   "text": "Little darling"
+  },
+  {
+   "end": 73.5,
+   "start": 69.5,
+   "text": "It seems like years since it's been here"
+  },
+  {
+   "end": 77.9,
+   "start": 75.12,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 81.68,
+   "start": 78.79,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 82.87,
+   "start": 81.68,
+   "text": "And I say"
+  },
+  {
+   "end": 84.56,
+   "start": 82.87,
+   "text": "It's all right"
+  },
+  {
+   "end": 101.29,
+   "start": 97.15,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "end": 106.79,
+   "start": 102.64,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "end": 112.24,
+   "start": 108.2,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "end": 117.75,
+   "start": 113.71,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "end": 123.38,
+   "start": 119.21,
+   "text": "Sun, sun, sun, here it comes"
+  },
+  {
+   "end": 134.59,
+   "start": 132.57,
+   "text": "Little darling"
+  },
+  {
+   "end": 139.24,
+   "start": 134.81,
+   "text": "I feel that ice is slowly melting"
+  },
+  {
+   "end": 141.94,
+   "start": 139.92,
+   "text": "Little darling"
+  },
+  {
+   "end": 146.46,
+   "start": 142.34,
+   "text": "It seems like years since it's been clear"
+  },
+  {
+   "end": 150.71,
+   "start": 147.97,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 153.68,
+   "start": 151.79,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 154.68,
+   "start": 153.68,
+   "text": "And I say"
+  },
+  {
+   "end": 156.45,
+   "start": 154.68,
+   "text": "It's all right"
+  },
+  {
+   "end": 162.88,
+   "start": 160.75,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 166.96,
+   "start": 164.61,
+   "text": "Here comes the sun"
+  },
+  {
+   "end": 169.31,
+   "start": 167.5,
+   "text": "It's all right"
+  },
+  {
+   "end": 175.23,
+   "start": 173.44,
+   "text": "It's all right"
+  }
+ ],
+ "time_signature": "4/4",
+ "_usage": {
+  "cache_tokens_details": null,
+  "cached_content_token_count": null,
+  "candidates_token_count": 8358,
+  "candidates_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 8358
+   }
+  ],
+  "prompt_token_count": 6285,
+  "prompt_tokens_details": [
+   {
+    "modality": "TEXT",
+    "token_count": 711
+   },
+   {
+    "modality": "AUDIO",
+    "token_count": 5574
+   }
+  ],
+  "thoughts_token_count": null,
+  "tool_use_prompt_token_count": null,
+  "tool_use_prompt_tokens_details": null,
+  "total_token_count": 14643,
+  "traffic_type": null
+ }
+}
